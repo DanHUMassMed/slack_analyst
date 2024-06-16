@@ -24,6 +24,7 @@ my-docs/
 
 #Ignore mypy cache
 .mypy_cache/
+
 node_modules
 .idea
 .DS_Store
@@ -31,3 +32,5 @@ node_modules
 build
 docs/build
 multi_agents/.langgraph-data/
+delme.json
+*.log

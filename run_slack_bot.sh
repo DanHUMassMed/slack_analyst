@@ -10,7 +10,7 @@ NUM_WORKERS=3
 TIMEOUT=120
 PIDFILE="gunicorn.pid"
 
-exec gunicorn researcher_app:app \
+exec gunicorn researcher_app:flask_app \
 --workers $NUM_WORKERS \
 --worker-class gevent \
 --timeout $TIMEOUT \
