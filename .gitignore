@@ -34,3 +34,5 @@ docs/build
 multi_agents/.langgraph-data/
 delme.json
 *.log
+gunicorn.pid
+urls.json

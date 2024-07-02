@@ -1,3 +1,4 @@
+# This file contains variables that create dialog interaction in the Slack App
 research_dialog={
 	"blocks": [
 		{
