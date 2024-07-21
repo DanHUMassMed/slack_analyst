@@ -1,0 +1,45 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        .form-container {
+            display: flex;
+            justify-content: space-between;
+            width: 100%;
+            margin-bottom: 10px;
+        }
+        .form-container a {
+            flex: 0 0 80%;
+            text-overflow: ellipsis;
+            white-space: nowrap;
+            overflow: hidden;
+        }
+        .form-container input[type="text"] {
+            flex: 0 0 15%;
+            text-align: left;
+        }
+        .form-container button {
+            flex: 0 0 5%;
+        }
+    </style>
+
+    <title>URL to PDF Map</title>
+</head>
+<body>
+    <h1>URL to PDF Map</h1>
+    <form method="post" action="{{ url_for('url_to_process_submit') }}">
+        {% for url in pdf_pages %}
+            <div class="form-container">
+                <input type="text" name="pdf_{{ loop.index }}" placeholder="Enter the PDF name" value="{{ pdf_pages[url] }}" {% if pdf_pages[url] %} disabled {% endif %}>
+                <input type="hidden" name="url_{{ loop.index }}" value="{{ url }}">
+                <a href="{{ url }}" target="_blank">{{ url }}</a>
+                {% if not pdf_pages[url] %}
+                    <button type="submit" name="submit_button" value="{{ loop.index }}">Submit</button>
+                {% endif %}
+            </div>
+        {% endfor %}
+    </form>
+</body>
+</html>

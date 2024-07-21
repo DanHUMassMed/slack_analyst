@@ -1,6 +1,15 @@
 # Slack Bot App
 * This App calls LLM_Analysts to do research and posts the results to Slack
 
+
+This app uses Conda environment llm-analyst-web 
+`conda activate llm-analyst-web`
+`./run_slack_bot.sh`
+
+
+https://slackbot1.danhiggins.org/slack/events
+
+
 # Slack Mange App
 
 [https://api.slack.com/apps](https://api.slack.com/apps)

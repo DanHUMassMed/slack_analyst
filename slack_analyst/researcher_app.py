@@ -10,7 +10,8 @@ import requests
 from urllib.parse import urlparse, parse_qs
 import re
 from urllib.parse import quote, unquote
-from flask import Flask, request, jsonify
+from flask import Flask, request, jsonify, render_template, redirect, url_for, session
+
 from slack_bolt import App as BoltApp
 from slack_bolt.adapter.flask import SlackRequestHandler
 from slack_sdk.web import WebClient
@@ -18,9 +19,12 @@ from slack_sdk.errors import SlackApiError
 from pathlib import Path
 from dotenv import load_dotenv
 import logging
+import csv
 
 from research_dialog import research_dialog, getting_started_responses
 from llm_research_wrapper import process_research_request
+from reference_mgr import url_to_pdf_map
+
 
 logging.basicConfig(level=logging.DEBUG)
 logger = logging.getLogger(__name__)
@@ -36,6 +40,7 @@ slack_bot_token = os.environ.get("SLACK_BOT_TOKEN")
 bolt_app = BoltApp(signing_secret=signing_secret, token=slack_bot_token)
 
 flask_app = Flask(__name__)
+flask_app.secret_key = str(uuid.uuid4())
 
 handler = SlackRequestHandler(bolt_app)
 client = WebClient(token=slack_bot_token)
@@ -44,6 +49,20 @@ outstanding_research_dialogs={}
 @flask_app.route("/slack/events", methods=["POST"])
 def slack_events():
     return handler.handle(request)
+
+#######################################################################
+# HTML template for the form
+
+@flask_app.route('/urls-to-process/<string:channel>', methods=['GET', 'POST'])
+def urls_to_process(channel):
+    
+    return url_to_pdf_map.urls_to_process(channel)
+
+@flask_app.route('/url-to-process-submit', methods=['POST'])
+def url_to_process_submit():
+    return  url_to_pdf_map.url_to_process_submit()
+
+#######################################################
 
 @bolt_app.message("research")
 def research_request(message, say):
@@ -166,6 +185,7 @@ def get_research_dialog_state(dialog_state):
 
 
 def get_all_messages(channel_id):
+    logger.debug(f"Entering get_all_messages with {channel_id=}")
     messages = []
     next_cursor = None
 
@@ -183,34 +203,38 @@ def get_all_messages(channel_id):
 
         except SlackApiError as e:
             print(f"Error retrieving messages: {e.response['error']}")
+            logger.error(f"Error retrieving messages: {e.response['error']}")
             break
 
     return messages
 
 
-def write_json_to_file(json_data,file_nm="messages.json"):
+def write_json_to_file(json_data, file_nm="messages.json"):
     with open(file_nm, "w") as f:
         json.dump(json_data, f, indent=4)
             
+# For these commands to work the Slack Must be invted to the Channel
+# You are trying to download URLs from
 @bolt_app.command("/parse_channel_history")
+@bolt_app.command("/collect_paper_urls")
 def parse_channel_history(ack, body, respond):
     ack()  # Acknowledge the command request
     pretty_json= json.dumps(body,indent=4)
     logger.error(pretty_json)
     print(pretty_json)
-    ack()
 
     channel_id = body['channel_id']
+    channel_name = body['channel_name']
 
     try:
         messages = get_all_messages(channel_id)
-        write_json_to_file(messages)
-        process_messages(messages)
+        #write_json_to_file(messages, f"m_{channel_name}.json")
+        process_messages(messages, channel_name)
         respond(f"Retrieved {len(messages)} messages from <#{channel_id}>.")
     except SlackApiError as e:
         respond(f"Error retrieving messages: {e.response['error']}")
 
-def process_messages(messages):
+def process_messages(messages,channel_id):
     raw_urls = []
     urls = []
     for message in messages:
@@ -224,12 +248,27 @@ def process_messages(messages):
             raw_urls.extend(extract_urls(text))
             
     for url in raw_urls:
+        url = remove_pipe_https(url)
         url = biorxiv_download_url(url)
         url = pubmed_download_url(url)
+        
         urls.append(url)
     
     urls = sorted(urls)
-    write_json_to_file(urls,"urls.json")
+    urls = deduplicate_sorted_list(urls)
+    write_json_to_file(urls,f"resources/{channel_id}.json")
+
+def deduplicate_sorted_list(sorted_list):
+    if not sorted_list:
+        return []
+
+    deduped_list = [sorted_list[0]]
+    for i in range(1, len(sorted_list)):
+        if sorted_list[i] != sorted_list[i - 1]:
+            deduped_list.append(sorted_list[i])
+
+    return deduped_list
+
 
 def extract_urls(text):
     url_pattern = re.compile(r'https?://[^\s<>"]+|www\.[^\s<>"]+')
@@ -239,6 +278,7 @@ def extract_urls(text):
     return decoded_urls
 
 def biorxiv_download_url(url):
+    # For biorxiv.org URLs strip the query string and add .full.pdf to the end of the URL
     base_url = 'https://www.biorxiv.org'
     if url.startswith(base_url):
         query_index = url.find('?')
@@ -247,7 +287,14 @@ def biorxiv_download_url(url):
         url += '.full.pdf'
     return url
 
+def remove_pipe_https(url):
+    index = url.find('|https')
+    if index != -1:
+        return url[:index]
+    return url
+
 def pubmed_download_url(url):
+    # For URLs with pubmed IDs try to convert to pubmed central URLs
     base_url = 'https://pubmed.ncbi.nlm.nih.gov'
     if url.startswith(base_url):
         pmid = extract_pmid(url)
@@ -265,7 +312,7 @@ def convert_to_download_url(pmid):
     response = requests.get(api_url)
     
     if response.status_code != 200:
-        logger.debug(f"Error querying PubMed API {pmid}")
+        logger.error(f"Error querying PubMed API for {pmid}")
         return None
     
     data = response.json()
@@ -274,15 +321,15 @@ def convert_to_download_url(pmid):
         if data['records'][0].get('pmcid'):
             pmc_id = data['records'][0]['pmcid']
             ret_url = f"https://www.ncbi.nlm.nih.gov/pmc/articles/{pmc_id}/"
-            logger.warn("DDDDD found {pmc_id} for {pmid}")
+            logger.info(f"Found {pmc_id} for {pmid}")
         elif data['records'][0].get('doi'):
             doi = data['records'][0]['doi']
             ret_url = f"https://www.biorxiv.org/content/{doi}.full.pdf"
-            logger.warn("DDDDD found {doi} for {pmid}")
+            logger.info(f"Found {doi} for {pmid}")
         else:
-            logger.error(f"convert_to_download_url no pmcid or biorxiv found for {pmid}")
+            logger.warn(f"Convert_to_download_url found NO pmcid or biorxiv for {pmid}")
     else:
-        logger.error(f"convert_to_download_url no record found for {pmid}")
+        logger.error(f"Convert_to_download_url found NO record for {pmid}")
         
     return ret_url
 

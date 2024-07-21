@@ -23,7 +23,7 @@ pip install slack_sdk
     * Click `Save Changes` Button
 
 ### Create Tokens and Install your App in the Workspace
-* __NOTE__: We will be using only `Bot-Tokens`; more advanced Apps may additionally use `User-Tokens` and `App-Level-Tokens.` With `Bot-Token`
+* __NOTE__: We will be using only `Bot-Tokens`; more advanced Apps may additionally use `User-Tokens` and `App-Level-Tokens.`
 * __NOTE:__ With `Bot-Tokens` alone, you can create a full and robust Slack App.
 * Select __OAuth & Permissions__ (Scroll up. On the Left Sidebar under __Features__ section)
     * Scroll down to __Scopes__ section 
@@ -70,7 +70,7 @@ logger = logging.getLogger(__name__)
 ### Setting up events over HTTP
 * Select __Event Subscriptions__ (On the Left Sidebar under __Features__ section)
     * Toggle __Enable Events__ `On`
-    * __NOTE:__ The __slack_bolt__ framework process Events at [https://[YOUR_HOST]/slack/events]()
+    * __NOTE:__ The __slack_bolt__ framework handles Events at [https://[YOUR_HOST]/slack/events]()
     * Add __Request URL__ provided by ngrok (e.g., https://7a45-24-151-99-103.ngrok-free.app/slack/events)
     * Ensure that the URL is __Verified__ before moving to the next step
     * __NOTE:__: A "Verified" Label will be added next to the __Request URL__ Label
