@@ -256,7 +256,7 @@ def process_messages(messages,channel_id):
     
     urls = sorted(urls)
     urls = deduplicate_sorted_list(urls)
-    write_json_to_file(urls,f"resources/{channel_id}.json")
+    write_json_to_file(urls,f"resources/{channel_id}_urls.json")
 
 def deduplicate_sorted_list(sorted_list):
     if not sorted_list:
@@ -284,7 +284,13 @@ def biorxiv_download_url(url):
         query_index = url.find('?')
         if query_index != -1:
             url = url[:query_index]
-        url += '.full.pdf'
+        if url.endswith('full'):
+            url += '.pdf'
+        elif url.endswith('full.pdf'):
+            pass
+        else:
+            url += '.full.pdf'
+            
     return url
 
 def remove_pipe_https(url):
