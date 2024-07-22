@@ -1,0 +1,266 @@
+@Article{
+author ={Peng-Cheng Chen and Li Ruan and Jie Jin and Yu-Tian Tao and Xiao-Bao Ding and Hai-bo Zhang and Wen-Ping Guo and Qiao-lei Yang and Heng Yao and Xin Chen},
+title ={Predicted functional interactome of Caenorhabditis elegans and a web tool for the functional interpretation of differentially expressed genes},
+year ={2020},
+doi ={10.1186/s13062-020-00271-6},
+abstract ={Background: The nematode worm, Caenorhabditis elegans, is a saprophytic species that has been emerging as a standard model organism since the early 1960s. This species is useful in numerous fields, including developmental biology, neurobiology, and ageing. A high-quality comprehensive molecular interaction network is needed to facilitate molecular mechanism studies in C. elegans. Results: We present the predicted functional interactome of Caenorhabditis elegans (FIC), which integrates functional association data from 10 public databases to infer functional gene interactions on diverse functional perspectives. In this work, FIC includes 108,550 putative functional associations with balanced sensitivity and specificity, which are expected to cover 21.42% of all C. elegans protein interactions, and 29.25% of these associations may represent protein interactions. Based on FIC, we developed a gene set linkage analysis (GSLA) web tool to interpret potential functional impacts from a set of differentially expressed genes observed in transcriptome analyses. Conclusion: We present the predicted C. elegans interactome database FIC, which is a high-quality database of predicted functional interactions among genes. The functional interactions in FIC serve as a good reference interactome for GSLA to annotate differentially expressed genes for their potential functional impacts. In a case study, the FIC/GSLA system shows more comprehensive and concise annotations compared to other widely used gene set annotation tools, including PANTHER and DAVID. FIC and its associated GSLA are available at the website http://worm.biomedtzc.cn.},
+keywords ={Caenorhabditis elegans, Functional interaction, Database, Gene set linkage analysis, Transcriptomic analysis tool},
+note ={https://danhiggins.org/data/papers_unknown_unknowns/s13062-020-00271-6.pdf},
+journal ={Biology Direct},
+volume ={15},
+pages ={N/A},
+source={8b06fe67b118b320d56de721a5ba6897fe3b02a4140ae8210fbd1b2efcf293d2}
+}
+
+@Article{
+author ={Chiara Vanni and Matthew S Schechter and Silvia G Acinas and Albert Barberán and Pier Luigi Buttigieg and Emilio O Casamayor and Tom O Delmont and Carlos M Duarte and A Murat Eren and Robert D Finn and Renzo Kottmann and Alex Mitchell and Pablo Sánchez and Kimmo Siren and Martin Steinegger and Frank Oliver Gloeckner and Antonio Fernàndez-Guerra},
+title ={Unifying the known and unknown microbial coding sequence space},
+year ={2022},
+doi ={10.7554/eLife.67667},
+abstract ={Genes of unknown function are among the biggest challenges in molecular biology, especially in microbial systems, where 40-60% of the predicted genes are unknown. Despite previous attempts, systematic approaches to include the unknown fraction into analytical workflows are still lacking. Here, we present a conceptual framework, its translation into the computational workflow AGNOSTOS and a demonstration on how we can bridge the known-unknown gap in genomes and metagenomes. By analyzing 415,971,742 genes predicted from 1749 metagenomes and 28,941 bacterial and archaeal genomes, we quantify the extent of the unknown fraction, its diversity, and its relevance across multiple organisms and environments. The unknown sequence space is exceptionally diverse, phylogenetically more conserved than the known fraction and predominantly taxonomically restricted at the species level. From the 71 M genes identified to be of unknown function, we compiled a collection of 283,874 lineage-specific genes of unknown function for Cand. Patescibacteria (also known as Candidate Phyla Radiation, CPR), which provides a significant resource to expand our understanding of their unusual biology. Finally, by identifying a target},
+keywords ={},
+note ={https://danhiggins.org/data/papers_unknown_unknowns/elife-67667-v2.pdf},
+journal ={eLife},
+volume ={11},
+pages ={N/A},
+source={719128270740dbb1e6cbc00dae427b04de56132a78d78ca5a54edec67caa8208}
+}
+
+@Article{
+author ={Ewen Callaway},
+title ={'THE ENTIRE PROTEIN UNIVERSE': AI PREDICTS SHAPE OF NEARLY EVERY KNOWN PROTEIN},
+year ={2022},
+doi ={},
+abstract ={},
+keywords ={},
+note ={https://danhiggins.org/data/papers_unknown_unknowns/d41586-022-02083-2.pdf},
+journal ={},
+volume ={},
+pages ={},
+source={1c8dca78d6317d0a91c900da8c8d9fdb5cc47445963f03da7e28aa7c33d191a7}
+}
+
+@Article{
+author ={Joao Rocha and Satish Arcot Jayaram and Tim J. Stevens and Nadine Muschalik and Rajen D. Shah and Sahar Emran and Cristina Robles and Matthew Freeman and Sean Munro},
+title ={Functional unknomics: closing the knowledge gap to accelerate biomedical research},
+year ={2022},
+doi ={10.1101/2022.06.28.497983},
+abstract ={},
+keywords ={},
+note ={https://danhiggins.org/data/papers_unknown_unknowns/2022.06.28.497983v1.full.pdf},
+journal ={},
+volume ={N/A},
+pages ={N/A},
+source={1dcd2037cf0c71321a87dabaa2bcad73f460bf17a787cce2a4b322629a5a3fbc}
+}
+
+@Article{
+author ={María Rodríguez-López and Nicola Bordin and Jon Lees and Harry Scholes and Shaimaa Hassan and Quentin Saintain and Stephan Kamrad and Christine Orengo and Jürg Bähler},
+title ={Broad functional profiling of fission yeast proteins using phenomics and machine learning},
+year ={2023},
+doi ={10.7554/eLife.88229},
+abstract ={Many proteins remain poorly characterized even in well-studied organisms, presenting a bottleneck for research. We applied phenomics and machine-learning approaches with Schizosaccharomyces pombe for broad cues on protein functions. We assayed colony-growth phenotypes to measure the fitness of deletion mutants for 3509 non-essential genes in 131 conditions with different nutrients, drugs, and stresses. These analyses exposed phenotypes for 3492 mutants, including 124 mutants of 'priority unstudied' proteins conserved in humans, providing varied functional clues. For example, over 900 proteins were newly implicated in the resistance to oxidative stress. Phenotypecorrelation networks suggested roles for poorly characterized proteins through 'guilt by association' with known proteins. For complementary functional insights, we predicted Gene Ontology (GO) terms using machine learning methods exploiting protein-network and protein-homology data (NET-FF). We obtained 56,594 high-scoring GO predictions, of which 22,060 also featured high information content. Our phenotype-correlation data and NET-FF predictions showed a strong concordance with existing PomBase GO annotations and protein networks, with integrated analyses revealing 1675 novel GO predictions for 783 genes, including 47 predictions for 23 priority unstudied proteins. Experimental validation identified new proteins involved in cellular aging, showing that these predictions and phenomics data provide a rich resource to uncover new protein functions. eLife assessment This important study combines extensive phenotyping of genome-wide deletion mutants and machine learning-based prediction to generate a large scale resource for understanding the functions of thousands of fission yeast protein-coding genes. This resource is supported by convincing phenotyping data and state-of-the-art bioinformatic analyses and will be of interest to many geneticists.},
+keywords ={},
+note ={https://danhiggins.org/data/papers_unknown_unknowns/elife-88229-v1.pdf},
+journal ={eLife},
+volume ={12},
+pages ={N/A},
+source={a54faae1d808808b413f571b6fbbabe2d25a7eb2e46c27069da2f4b40b2bdcb6}
+}
+
+@Article{
+author ={Pollex, Tim and Marco-Ferreres, Raquel and Ciglar, Lucia and Jankowski, Aleksander and Girardot, Charles and Furlong, Eileen and Ghavi-Helm, Yad and Rabinowitz, Adam and Viales, Rebecca and Schaub, Christoph},
+title ={Chromatin gene-gene loops support the crossregulation of genes with related function},
+year ={},
+doi ={10.1016/j.molcel.2023.12.023},
+abstract ={Highlights d Gene loci with related function are often in 3D proximity in chromatin loops d Gene-gene loops generally involve co-expressed genes that cross-regulate each other d The presence of some loops appears unchanged, but their functional role can change d Breaking the loop impacts both genes' expression and perturbs their cross-regulation},
+keywords ={},
+note ={https://danhiggins.org/data/papers_unknown_unknowns/PIIS1097276523010420.pdf},
+journal ={},
+volume ={},
+pages ={},
+source={2227886d795ca24d913febba18849e029a96eac86a2b35849c37e89d6fdd69c6}
+}
+
+@Article{
+author ={Lucas ZhongMing Hu and Florian Goebels and June H. Tan and Eric Wolf and Uros Kuzmanov and Cuihong Wan and Sadhna Phanse and Changjiang Xu and Mike Schertzberg and Andrew G. Fraser and Gary D. Bader and Andrew Emili},
+title ={EPIC: software toolkit for elution profile-based inference of protein complexes},
+year ={2019},
+doi ={10.1038/s41592-019-0461-4},
+abstract ={Protein complexes are key macromolecular machines of the cell, but their description remains incomplete. We and others previously reported an experimental strategy for global characterization of native protein assemblies based on chromatographic fractionation of biological extracts coupled to precision mass spectrometry analysis (CF/MS), but the resulting data is challenging to process and interpret. Here, we describe EPIC (Elution Profile-based Inference of Complexes), a software toolkit for automated scoring of large-scale CF/MS data to define high-confidence multicomponent macromolecules from diverse biological specimens. As a case study, we used EPIC to map the global interactome of Caenorhabditis elegans, defining 612 putative worm protein complexes linked to diverse biological processes. These included novel subunits and assemblies unique to nematodes that we validated using orthogonal methods. The EPIC software is freely available as a Jupyter notebook packaged in a Docker container and the open source code is accessible via GitHub.},
+keywords ={},
+note ={https://danhiggins.org/data/papers_unknown_unknowns/nihms-1678962.pdf},
+journal ={Nature Methods},
+volume ={16},
+pages ={737-742},
+source={1d171dfb8a6a24f53739cb65877c360be4efa0c9429a3e1b705df615d3ce16b5}
+}
+
+@Article{
+author ={Flavio Pazos Obregón and Diego Silvera and Pablo Soto and Patricio Yankilevich and Gustavo Guerberoff and Rafael Cantera},
+title ={Gene function prediction in five model eukaryotes exclusively based on gene relative location through machine learning},
+year ={2022},
+doi ={10.1038/s41598-022-15329-w},
+abstract ={The function of most genes is unknown. The best results in automated function prediction are obtained with machine learning-based methods that combine multiple data sources, typically sequence derived features, protein structure and interaction data. Even though there is ample evidence showing that a gene's function is not independent of its location, the few available examples of gene function prediction based on gene location rely on sequence identity between genes of different organisms and are thus subjected to the limitations of the relationship between sequence and function. Here we predict thousands of gene functions in five model eukaryotes (Saccharomyces cerevisiae, Caenorhabditis elegans, Drosophila melanogaster, Mus musculus and Homo sapiens) using machine learning models exclusively trained with features derived from the location of genes in the genomes to which they belong. Our aim was not to obtain the best performing method to automated function prediction but to explore the extent to which a gene's location can predict its function in eukaryotes. We found that our models outperform BLAST when predicting terms from Biological Process and Cellular Component Ontologies, showing that, at least in some cases, gene location alone can be more useful than sequence to infer gene function. We witness a growing gap between the number of assembled genomes and the number of genes with known functions. Less than 1% of the protein sequences in UniProtKB 1 have an experimental Gene Ontology annotation 2 and even in well studied organisms, the majority of known genes have yet no assigned function 3. Furthermore, well studied genes have frequently been assigned more than one function, so less studied genes, for which only one function is known, have probably more functions to be discovered 4. In this context there is an increasing need to improve automated function prediction (AFP) 5-9. The Critical Assessment of protein Function Annotation algorithms (CAFA) is a series of experiments designed to provide a large-scale assessment of computational methods dedicated to automated function prediction (AFP) 7,10,11. In all CAFA editions so far, the best results were obtained with machine learning-based methods and combining multiple data sources, typically including sequence derived features, protein structure and molecular interaction data. The performance of the methods evaluated by the CAFA challenges improved dramatically between the first (2013) and the second (2016) edition, but this improvement slowed down between the second and the third edition (2019). The authors hypothesized that including more varied sources of data will lead to additional large improvements in AFP 7. Thus, finding new ways to extract relevant biological information from the available data is key to improve AFP. For around 99% of all known proteins, the only available information is the sequence encoded in the corresponding genome, highlighting the importance of sequence-based AFP 12. But AFP based on sequence similarity is hindered by a highly variable correlation between sequence identity and gene function 13 and by the evolutionary distance of many genomes to the closest well-characterized genome 14. Here we explore the hypothesis that the location of a gene relative to other annotated genes of the same genome, a feature that is independent of},
+keywords ={},
+note ={https://danhiggins.org/data/papers_unknown_unknowns/41598_2022_Article_15329.pdf},
+journal ={Scientific Reports},
+volume ={12},
+pages ={N/A},
+source={633047114656486186db7cd3c5c81c62773b6622cd8d42663c3e8a03e8e0d04a}
+}
+
+@Article{
+author ={Salvia Sajid and Maliha Mashkoor and Mikkel Girke Jørgensen and Lars Porskjær Christensen and Paul Robert Hansen and Henrik Franzyk and Osman Mirza and Bala Krishna Prabhala},
+title ={The Y-ome Conundrum: Insights into Uncharacterized Genes and Approaches for Functional Annotation},
+year ={2023},
+doi ={10.1007/s11010-023-04827-8},
+abstract ={The ever-increasing availability of genome sequencing data has revealed a substantial number of uncharacterized genes without known functions across various organisms. The first comprehensive genome sequencing of E. coli K12 revealed that more than 50% of its open reading frames corresponded to transcripts with no known functions. The group of proteincoding genes without a functional description and/or a recognized pathway, beginning with the letter "Y", is classified as the "y-ome". Several efforts have been made to elucidate the functions of these genes and to recognize their role in biological processes. This review provides a brief update on various strategies employed when studying the y-ome, such as high-throughput experimental approaches, comparative omics, metabolic engineering, gene expression analysis, and data integration techniques. Additionally, we highlight recent advancements in functional annotation methods, including the use of machine learning, network analysis, and functional genomics approaches. Novel approaches are required to produce more precise functional annotations across the genome to reduce the number of genes with unknown functions.},
+keywords ={Y-ome, Uncharacterized genes, E. coli, Comparative omics, Metabolic engineering, Transportome deorphanization, Functional annotation},
+note ={https://danhiggins.org/data/papers_unknown_unknowns/s11010-023-04827-8.pdf},
+journal ={Molecular and Cellular Biochemistry},
+volume ={N/A},
+pages ={N/A},
+source={e7d8d9a91c646f870ef1bc004b1c17f888316ee0252b7ecb16a3fd2582545af4}
+}
+
+@Article{
+author ={Zhenkun Na and Xiaoyun Dai and Shu-Jian Zheng and Carson J. Bryant and Ken H. Loh and Haomiao Su and Yang Luo and Amber F. Buhagiar and Xiongwen Cao and Susan J. Baserga and Sidi Chen and Sarah A. Slavoff},
+title ={Mapping subcellular localizations of unannotated microproteins and alternative proteins with MicroID},
+year ={2022},
+doi ={10.1016/j.molcel.2022.06.035},
+abstract ={Highlights d MicroID reveals microproteins and alternative proteins in subnuclear compartments d Alt-LAMA3 is physically and functionally associated with pre-rRNA transcription d MicroID detects unannotated microproteins and alternative proteins in vivo},
+keywords ={},
+note ={https://danhiggins.org/data/papers_unknown_unknowns/1-s2.0-S1097276522006530-main.pdf},
+journal ={Molecular Cell},
+volume ={82},
+pages ={2900-2911.e7},
+source={57ac343635025e03021cb397dd89d751e670c78f5f8e7bfa22658ab688a38bee}
+}
+
+@Article{
+author ={Marco Y. Hein and Duo Peng and Verina Todorova and Frank McCarthy and Kibeom Kim and Chad Liu and Laura Savy and Camille Januel and Rodrigo Baltazar-Nunez and Sophie Bax and Shivanshi Vaid and Madhuri Vangipuram and Ivan E. Ivanov and Janie R. Byrum and Soorya Pradeep and Carlos G. Gonzalez and Yttria Aniseia and Eileen Wang and Joseph S. Creery and Aidan H. McMorrow and James Burgess and Sara Sunshine and Serena Yeung-Levy and Brian C. DeFelice and Shalin B. Mehta and Daniel N. Itzhak and Joshua E. Elias and Manuel D. Leonetti},
+title ={Global organelle profiling reveals subcellular localization and remodeling at proteome scale},
+year ={2023},
+doi ={10.1101/2023.12.18.572249},
+abstract ={},
+keywords ={},
+note ={https://danhiggins.org/data/papers_unknown_unknowns/2023.12.18.572249v1.full.pdf},
+journal ={},
+volume ={N/A},
+pages ={N/A},
+source={5218171b3d0c118f9a84e2e86ecbe3d91f634fa2aa923363724309aa296b6269}
+}
+
+@Article{
+author ={Byunghyuk Kim and Bangxia Suo and Scott W. Emmons},
+title ={Gene Function Prediction Based on Developmental Transcriptomes of the Two Sexes in C. elegans},
+year ={2016},
+doi ={10.1016/j.celrep.2016.09.051},
+abstract ={We compare whole-animal RNA-seq transcriptomes for C. elegans males and hermaphrodites from the late L3 larval stage to young adulthood. During this interval, male sexual structures develop, including extensive neurogenesis and synaptogenesis that nearly doubles the size of the nervous system. Previous genome-wide expression studies in C. elegans have usually focused on only one sex-the hermaphrodite-and there are a relatively large number of genes that remain without meaningful annotation. In the present study, differential expression analysis of the RNAseq data revealed 1,751 genes expressed at a higher level in the male. By differential expression and co-expression analyses, we identified transcription factors required for differentiation of male genital structures, semen proteins, and candidates for components of synapse function. Comparison with other prediction tools suggests that our dataset can expand gene predictions. The results validate the dataset as a rich resource for future gene discovery in C. elegans. In Brief Taking advantage of a unique developmental feature of C. elegans males, Kim et al. compare transcriptomes of the two sexes to identify male-specific and nervous-system-enriched genes. The dataset and mining methods used provide a rich resource for future gene discovery.},
+keywords ={},
+note ={https://danhiggins.org/data/papers_unknown_unknowns/nihms912285.pdf},
+journal ={Cell Reports},
+volume ={17},
+pages ={917-928},
+source={fb8c14cd0a938d87d9a49fb2eedc865e53cae619b31254e0c81470224aef71d8}
+}
+
+@Article{
+author ={Yingwen Zhao and Jun Wang and Jian Chen and Xiangliang Zhang and Maozu Guo and Guoxian Yu},
+title ={A Literature Review of Gene Function Prediction by Modeling Gene Ontology},
+year ={2020},
+doi ={10.3389/fgene.2020.00400},
+abstract ={Annotating the functional properties of gene products, i.e., RNAs and proteins, is a fundamental task in biology. The Gene Ontology database (GO) was developed to systematically describe the functional properties of gene products across species, and to facilitate the computational prediction of gene function. As GO is routinely updated, it serves as the gold standard and main knowledge source in functional genomics. Many gene function prediction methods making use of GO have been proposed. But no literature review has summarized these methods and the possibilities for future efforts from the perspective of GO. To bridge this gap, we review the existing methods with an emphasis on recent solutions. First, we introduce the conventions of GO and the widely adopted evaluation metrics for gene function prediction. Next, we summarize current methods of gene function prediction that apply GO in different ways, such as using hierarchical or flat interrelationships between GO terms, compressing massive GO terms and quantifying semantic similarities. Although many efforts have improved performance by harnessing GO, we conclude that there remain many largely overlooked but important topics for future research.},
+keywords ={gene ontology, gene function prediction, functional genomics, directed acyclic graph, interrelationships, semantic similarity},
+note ={https://danhiggins.org/data/papers_unknown_unknowns/fgene-11-00400.pdf},
+journal ={Frontiers in Genetics},
+volume ={11},
+pages ={N/A},
+source={c6c9b41e596f0df2c61659a064219bbe6b4191a462875ffcef8437a617b7ce50}
+}
+
+@Article{
+author ={Bo Liu and Zhengyu Jing and Xiaoming Zhang and Yuxin Chen and Shaoshuai Mao and Ravinder Kaundal and Yan Zou and Ge Wei and Ying Zang and Xinxin Wang and Wenyang Lin and Minghui Di and Yiwen Sun and Qin Chen and Yongqin Li and Jing Xia and Jianlong Sun and Chao-Po Lin and Xingxu Huang and Tian Chi},
+title ={Large-scale multiplexed mosaic CRISPR perturbation in the whole organism},
+year ={2022},
+doi ={10.1016/j.cell.2022.06.039},
+abstract ={Highlights d Inducible mosaic animal for perturbation (iMAP) combines Cre-LoxP and CRISPR-Cas d iMAP enables large-scale in situ multiplexed mosaic gene targeting and Perturb-Atlas mapping d iMAP enables rapid derivation of single-gene perturbation mouse lines via breeding d iMAP lines are permanent resources just as conventional transgenic lines Authors},
+keywords ={},
+note ={https://danhiggins.org/data/papers_unknown_unknowns/PIIS0092867422007917.pdf},
+journal ={Cell},
+volume ={185},
+pages ={3008-3024.e16},
+source={c5ecc468aaf81385def9cbbbb48e34c2f756213b2f99c4d81d985e74bb85638b}
+}
+
+@Article{
+author ={Harald Hutter and Donald Moerman},
+title ={Big Data in<i>Caenorhabditis elegans</i>:<i>quo vadis</i>?},
+year ={2015},
+doi ={10.1091/mbc.E15-05-0312},
+abstract ={A clear definition of what constitutes "Big Data" is difficult to identify, but we find it most useful to define Big Data as a data collection that is complete. By this criterion, researchers on Caenorhabditis elegans have a long history of collecting Big Data, since the organism was selected with the idea of obtaining a complete biological description and understanding of development. The complete wiring diagram of the nervous system, the complete cell lineage, and the complete genome sequence provide a framework to phrase and test hypotheses. Given this history, it might be surprising that the number of "complete" data sets for this organism is actually rather small-not because of lack of effort, but because most types of biological experiments are not currently amenable to complete large-scale data collection. Many are also not inherently limited, so that it becomes difficult to even define completeness. At present, we only have partial data on mutated genes and their phenotypes, gene expression, and protein-protein interaction-important data for many biological questions. Big Data can point toward unexpected correlations, and these unexpected correlations can lead to novel investigations; however, Big Data cannot establish causation. As a result, there is much excitement about Big Data, but there is also a discussion on just what Big Data contributes to solving a biological problem. Because of its relative simplicity, C. elegans is an ideal test bed to explore this issue and at the same time determine what is necessary to build a multicellular organism from a single cell.},
+keywords ={CRISPR, clustered regularly interspaced short palindromic repeats, MS, mass spectrometry, RNAi, RNA interference, RNA-seq, RNA sequencing, SAGE, Serial Analysis of Gene Expression, smFISH, single-molecule fluorescent in situ hybridization, Y2H, yeast two-hybrid},
+note ={https://danhiggins.org/data/papers_unknown_unknowns/hutter-et-al-2017-big-data-in-caenorhabditis-elegans-quo-vadis.pdf},
+journal ={Molecular Biology of the Cell},
+volume ={26},
+pages ={3909-3914},
+source={4104e67e4724a6fe4e081de3f8b1a2883c59a4f3617d5169f476f696d290f2ae}
+}
+
+@Article{
+author ={Stanislav Tikhonov and Mikhail Batin and Vadim N. Gladyshev and Sergey E. Dmitriev and Alexander Tyshkovskiy},
+title ={AgeMeta: Quantitative Gene Expression Database of Mammalian Aging},
+year ={2024},
+doi ={10.1134/S000629792402010X},
+abstract ={AgeMeta is a database that provides systemic and quantitative description of mammalian aging at the level of gene expression. It encompasses transcriptomic changes with age across various tissues of humans, mice, and rats, based on a comprehensive meta-analysis of 122 publicly available gene expression datasets from 26 studies. AgeMeta provides an intuitive visual interface for quantification of aging-associated transcriptomics at the level of individual genes and functional groups of genes, allowing easy comparison among various species and tissues. Additionally, all the data in the database can be downloaded and analyzed independently. Overall, this work contributes to the understanding of the complex network of biological processes underlying mammalian aging and supports future advancements in this field. AgeMeta is freely available at: https://age-meta.com/.},
+keywords ={aging, ageing, gene expression, differential expression, transcriptomics, mammalian, meta-analysis, AgeMeta, age-meta, database, GSEA},
+note ={https://danhiggins.org/data/papers_unknown_unknowns/S000629792402010X.pdf},
+journal ={Biochemistry (Moscow)},
+volume ={89},
+pages ={313-321},
+source={9d9cd9de1199f3a75c5ba13e891f0c7ed5c298f760068210f4f78ad49bdc247a}
+}
+
+@Article{
+author ={Thomas Stoeger and Martin Gerlach and Richard I. Morimoto and Luís A. Nunes Amaral},
+title ={Large-scale investigation of the reasons why potentially important genes are ignored},
+year ={2018},
+doi ={10.1371/journal.pbio.2006643},
+abstract ={Biomedical research has been previously reported to primarily focus on a minority of all known genes. Here, we demonstrate that these differences in attention can be explained, to a large extent, exclusively from a small set of identifiable chemical, physical, and biological properties of genes. Together with knowledge about homologous genes from model organisms, these features allow us to accurately predict the number of publications on individual human genes, the year of their first report, the levels of funding awarded by the National Institutes of Health (NIH), and the development of drugs against disease-associated genes. By explicitly identifying the reasons for gene-specific bias and performing a meta-analysis of existing computational and experimental knowledge bases, we describe gene-specific strategies for the identification of important but hitherto ignored genes that can open novel directions for future investigation.},
+keywords ={},
+note ={https://danhiggins.org/data/papers_unknown_unknowns/filekjd.pdf},
+journal ={PLOS Biology},
+volume ={16},
+pages ={e2006643},
+source={4b8c050e651f1995b328a6f779d6c70256f67014fd0c0eb7cd39eb49c98aee8f}
+}
+
+@Article{
+author ={Konstantin Avchaciov and Marina P. Antoch and Ekaterina L. Andrianova and Andrei E. Tarkhov and Leonid I. Menshikov and Olga Burmistrova and Andrei V. Gudkov and Peter O. Fedichev},
+title ={Unsupervised learning of aging principles from longitudinal data},
+year ={2022},
+doi ={10.1038/s41467-022-34051-9},
+abstract ={},
+keywords ={},
+note ={https://danhiggins.org/data/papers_unknown_unknowns/s41467-022-34051-9.pdf},
+journal ={Nature Communications},
+volume ={13},
+pages ={N/A},
+source={a1081b709051cf43b20e57e064a22c3c148a990c18439cde0df6c47afba45589}
+}
+
+@Article{
+author ={Reese AK Richardson and Heliodoro Tejedor Navarro and Luis A Nunes Amaral and Thomas Stoeger},
+title ={Meta-Research: understudied genes are lost in a leaky pipeline between genome-wide assays and reporting of results},
+year ={2024},
+doi ={10.7554/eLife.93429.2},
+abstract ={Present-day publications on human genes primarily feature genes that already appeared in many publications prior to completion of the Human Genome Project in 2003. These patterns persist despite the subsequent adoption of high-throughput technologies, which routinely identify novel genes associated with biological processes and disease. Although several hypotheses for bias in the selection of genes as research targets have been proposed, their explanatory powers have not yet been compared. Our analysis suggests that understudied genes are systematically abandoned in favor of better-studied genes between the completion of-omics experiments and the reporting of results. Understudied genes remain abandoned by studies that cite these-omics experiments. Conversely, we find that publications on understudied genes may even accrue a greater number of citations. Among 45 biological and experimental factors previously proposed to affect which genes are being studied, we find that 33 are significantly associated with the choice of hit genes presented in titles and abstracts of-omics studies. To promote the investigation of understudied genes we condense our insights into a tool, find my understudied genes (FMUG), that allows scientists to engage with potential bias during the selection of hits. We demonstrate the utility of FMUG through the identification of genes that remain understudied in vertebrate aging. FMUG is developed in Flutter and is available for download at fmug.amaral.northwestern.edu as a MacOS/Windows app. eLife assessment This study investigated the factors related to understudied genes in biomedical research. It showed that understudied genes are largely abandoned at the writing stage, and it identified a number of biological and experimental factors that influence which genes are selected for investigation. The study is an important contribution to this branch of meta-research, and the evidence in support of the findings is solid.},
+keywords ={},
+note ={https://danhiggins.org/data/papers_unknown_unknowns/93429-v2.pdf},
+journal ={},
+volume ={N/A},
+pages ={N/A},
+source={686a94862172e9a934167da24796e3b1cf3b21d0ca74aca4d6e4dd0c8caa3042}
+}
+

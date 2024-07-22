@@ -1,0 +1,504 @@
+@Article{
+author ={Khaled Tighanimine and José Américo Nabuco Leva Ferreira Freitas and Ivan Nemazanyy and Alexia Bankolé and Delphine Benarroch-Popivker and Susanne Brodesser and Gregory Doré and Lucas Robinson and Paule Benit and Sophia Ladraa and Yara Bou Saada and Bertrand Friguet and Philippe Bertolino and David Bernard and Guillaume Canaud and Pierre Rustin and Eric Gilson and Oliver Bischof and Stefano Fumagalli and Mario Pende},
+title ={A homoeostatic switch causing glycerol-3-phosphate and phosphoethanolamine accumulation triggers senescence by rewiring lipid metabolism},
+year ={2024},
+doi ={10.1038/s42255-023-00972-y},
+abstract ={},
+keywords ={},
+note ={https://danhiggins.org/data/papers_other-lipid/s42255-023-00972-y.pdf},
+journal ={Nature Metabolism},
+volume ={6},
+pages ={323-342},
+source={1e1186c1b52fda5f7582d5ee2611466035e2d13fe94f25c20710e61085ab6081}
+}
+
+@Article{
+author ={Abubakar Muhammad and Zsuzsa Sarkadi and Thomas van Emden and Agnisrota Mazumder and Matias Capella and Gergely Fekete and Vishnu N. Suma Sreechakram and Bassem Al-Sady and Balázs Papp and Ramón Ramos Barrales and Sigurd Braun},
+title ={A systematic quantitative approach comprehensively defines domain-specific functional pathways linked to<i>Schizosaccharomyces pombe</i>heterochromatin regulation},
+year ={2024},
+doi ={10.1101/2024.02.13.579970},
+abstract ={Heterochromatin plays a critical role in regulating gene expression and maintaining genome integrity. While structural and enzymatic components have been linked to heterochromatin establishment, a comprehensive view of the underlying pathways at diverse heterochromatin domains remains elusive. Here, we developed a systematic approach to identify factors involved in heterochromatin silencing at pericentromeres, subtelomeres, and the silent mating type locus in Schizosaccharomyces pombe. Using quantitative measures, iterative genetic screening, and domain-specific heterochromatin reporters, we identified 369 mutants with different degrees of reduced or enhanced silencing. As expected, mutations in the core heterochromatin machinery globally decreased silencing. However, most other mutants exhibited distinct qualitative and quantitative profiles that indicate domain-specific functions. For example, decreased mating type silencing was linked to mutations in heterochromatin maintenance genes, while compromised subtelomere silencing was associated with metabolic pathways. Furthermore, similar phenotypic profiles revealed shared functions for subunits within complexes. We also discovered that the uncharacterized protein Dhm2 plays a crucial role in maintaining constitutive and facultative heterochromatin, while its absence caused phenotypes akin to DNA replication-deficient mutants. Collectively, our systematic approach unveiled a landscape of domain-specific heterochromatin regulators controlling distinct states and identified Dhm2 as a previously unknown factor linked to heterochromatin inheritance and replication fidelity.},
+keywords ={Heterochromatin maintenance, gene silencing, metabolism, replication, genetic reporter screens},
+note ={https://danhiggins.org/data/papers_other-lipid/2024.02.13.579970v1.full.pdf},
+journal ={},
+volume ={N/A},
+pages ={N/A},
+source={84fb62e2b53b018fd8ced657003b8fff825211af1ed82dd9b37751b7844e7a9e}
+}
+
+@Article{
+author ={Gernot F. Grabner and Hao Xie and Martina Schweiger and Rudolf Zechner},
+title ={Lipolysis: cellular mechanisms for lipid mobilization from fat stores},
+year ={2021},
+doi ={10.1038/s42255-021-00493-6},
+abstract ={},
+keywords ={},
+note ={https://danhiggins.org/data/papers_other-lipid/s42255-021-00493-6.pdf},
+journal ={Nature Metabolism},
+volume ={3},
+pages ={1445-1465},
+source={730fd06f6801e71507e24fbac5130cf2a641db3238876930ebd16b34fdd9f4c7}
+}
+
+@Article{
+author ={Ying Meng and Dong Guo and Liming Lin and Hong Zhao and Weiting Xu and Shudi Luo and Xiaoming Jiang and Shan Li and Xuxiao He and Rongxuan Zhu and Rongkai Shi and Liwei Xiao and Qingang Wu and Haiyan He and Jingjing Tao and Hongfei Jiang and Zheng Wang and Pengbo Yao and Daqian Xu and Zhimin Lu},
+title ={Glycolytic enzyme PFKL governs lipolysis by promoting lipid droplet–mitochondria tethering to enhance β-oxidation and tumor cell proliferation},
+year ={2024},
+doi ={10.1038/s42255-024-01047-2},
+abstract ={},
+keywords ={},
+note ={https://danhiggins.org/data/papers_other-lipid/s42255-024-01047-2.pdf},
+journal ={Nature Metabolism},
+volume ={6},
+pages ={1092-1107},
+source={4bfe4b2b5c7c7823a792983a3e4cb060fac805e84b377d6e99b30443a8c42b78}
+}
+
+@Article{
+author ={China N. Byrns and Alexandra E. Perlegos and Karl N. Miller and Zhecheng Jin and Faith R. Carranza and Palak Manchandra and Connor H. Beveridge and Caitlin E. Randolph and V. Sai Chaluvadi and Shirley L. Zhang and Ananth R. Srinivasan and F. C. Bennett and Amita Sehgal and Peter D. Adams and Gaurav Chopra and Nancy M. Bonini},
+title ={Senescent glia link mitochondrial dysfunction and lipid accumulation},
+year ={2024},
+doi ={10.1038/s41586-024-07516-8},
+abstract ={Senescence is a cellular state linked to ageing and age-onset disease across many mammalian species 1,2. Acutely, senescent cells promote wound healing 3,4 and prevent tumour formation 5 ; but they are also pro-inflammatory, thus chronically exacerbate tissue decline. Whereas senescent cells are active targets for anti-ageing therapy 6-11 , why these cells form in vivo, how they affect tissue ageing and the effect of their elimination remain unclear 12,13. Here we identify naturally occurring senescent glia in ageing Drosophila brains and decipher their origin and influence. Using Activator protein 1 (AP1) activity to screen for senescence 14,15 , we determine that senescent glia can appear in response to neuronal mitochondrial dysfunction. In turn, senescent glia promote lipid accumulation in non-senescent glia; similar effects are seen in senescent human fibroblasts in culture. Targeting AP1 activity in senescent glia mitigates senescence biomarkers, extends fly lifespan and health span, and prevents lipid accumulation. However, these benefits come at the cost of increased oxidative damage in the brain, and neuronal mitochondrial function remains poor. Altogether, our results map the trajectory of naturally occurring senescent glia in vivo and indicate that these cells link key ageing phenomena: mitochondrial dysfunction and lipid accumulation.},
+keywords ={},
+note ={https://danhiggins.org/data/papers_other-lipid/s41586-024-07516-8.pdf},
+journal ={Nature},
+volume ={630},
+pages ={475-483},
+source={3747c029a699a4c23d9fab1ea6322c808f5adcef8ad03d79b42554c3cd12d0fe}
+}
+
+@Article{
+author ={Yeeun Son and Timothy C. Kenny and Artem Khan and Kıvanç Birsoy and Richard K. Hite},
+title ={Structural basis of lipid head group entry to the Kennedy pathway by FLVCR1},
+year ={2023},
+doi ={10.1101/2023.09.28.560019},
+abstract ={Phosphatidylcholine and phosphatidylethanolamine, the two most abundant phospholipids in mammalian cells, are synthesized de novo by the Kennedy pathway from choline and ethanolamine, respectively 1-6. Despite the importance of these lipids, the mechanisms that enable the cellular uptake of choline and ethanolamine remain unknown. Here, we show that FLVCR1, whose mutation leads to the neurodegenerative syndrome PCARP 7-9 , transports extracellular choline and ethanolamine into cells for phosphorylation by downstream kinases to initiate the Kennedy pathway. Structures of FLVCR1 in the presence of choline and ethanolamine reveal that both metabolites bind to a common binding site comprised of aromatic and polar residues. Despite binding to a common site, the larger quaternary amine of choline interacts differently with FLVCR1 than does the primary amine of ethanolamine. Structure-guided mutagenesis identified residues that are critical for the transport of ethanolamine, while being dispensable for choline transport, enabling functional separation of the entry points into the two branches of the Kennedy pathway. Altogether, these studies reveal how FLCVR1 is a high-affinity metabolite transporter that serves as the common origin for phospholipid biosynthesis by two branches of the Kennedy pathway.},
+keywords ={},
+note ={https://danhiggins.org/data/papers_other-lipid/2023.09.28.560019v1.full.pdf},
+journal ={},
+volume ={N/A},
+pages ={N/A},
+source={4a426f79578d077301e276e3d868c87e3c7d634826c9d02a8d76b49e03bdc3d0}
+}
+
+@Article{
+author ={Ranjan Devkota and Emma Svensk and Mario Ruiz and Marcus Ståhlman and Jan Borén and Marc Pilon},
+title ={The adiponectin receptor AdipoR2 and its Caenorhabditis elegans homolog PAQR-2 prevent membrane rigidification by exogenous saturated fatty acids},
+year ={2017},
+doi ={10.1371/journal.pgen.1007004},
+abstract ={Dietary fatty acids can be incorporated directly into phospholipids. This poses a specific challenge to cellular membranes since their composition, hence properties, could greatly vary with different diets. That vast variations in diets are tolerated therefore implies the existence of regulatory mechanisms that monitor and regulate membrane compositions. Here we show that the adiponectin receptor AdipoR2, and its C. elegans homolog PAQR-2, are essential to counter the membrane rigidifying effects of exogenously provided saturated fatty acids. In particular, we use dietary supplements or mutated E. coli as food, together with direct measurements of membrane fluidity and composition, to show that diets containing a high ratio of saturated to monounsaturated fatty acids cause membrane rigidity and lethality in the paqr-2 mutant. We also show that mammalian cells in which AdipoR2 has been knocked-down by siRNA are unable to prevent the membrane-rigidifying effects of palmitic acid. We conclude that the PAQR-2 and AdipoR2 proteins share an evolutionarily conserved function that maintains membrane fluidity in the presence of exogenous saturated fatty acids.},
+keywords ={},
+note ={https://danhiggins.org/data/papers_other-lipid/file678.pdf},
+journal ={PLOS Genetics},
+volume ={13},
+pages ={e1007004},
+source={e383084ef9b25be944400591e4094bcb24850ff090f3bd471cd8cc30487ac955}
+}
+
+@Article{
+author ={Pingze Zhang and James H. Catterson and Sebastian Grönke and Linda Partridge},
+title ={Inhibition of S6K lowers age-related inflammation and increases lifespan through the endolysosomal system},
+year ={2024},
+doi ={10.1038/s43587-024-00578-3},
+abstract ={Suppression of target of rapamycin complex 1 (TORC1) by rapamycin ameliorates aging in diverse species. S6 kinase (S6K) is an essential mediator, but the mechanisms involved are unclear. Here we show that activation of S6K specifically in Drosophila fat-body blocked extension of lifespan by rapamycin, induced accumulation of multilamellar lysosomes and blocked age-associated hyperactivation of the NF-κB-like immune deficiency (IMD) pathway, indicative of reduced inflammaging. Syntaxin 13 mediated the effects of TORC1-S6K signaling on lysosome morphology and inflammaging, suggesting they may be linked. Inflammaging depended on the IMD receptor regulatory isoform PGRP-LC, and repression of the IMD pathway from midlife extended lifespan. Age-related inflammaging was higher in females than in males and was not lowered in males by rapamycin treatment or lowered S6K. Rapamycin treatment also elevated Syntaxin 12/13 levels in mouse liver and prevented age-related increase in noncanonical NF-κB signaling, suggesting that the effect of TORC1 on inflammaging is conserved from flies to mammals.},
+keywords ={},
+note ={https://danhiggins.org/data/papers_other-lipid/s43587-024-00578-3.pdf},
+journal ={Nature Aging},
+volume ={4},
+pages ={491-509},
+source={7205b646ecffbdf2abad780e0ac78489cfb1cfca062201e5f81439a3de7d1842}
+}
+
+@Article{
+author ={Timothy C. Kenny and Artem Khan and Yeeun Son and Lishu Yue and Søren Heissel and Eric R. Gamazon and Hanan Alwaseem and Richard Hite and Kıvanç Birsoy},
+title ={Integrative genetic analysis identifies FLVCR1 as an essential component of choline transport in mammals},
+year ={2022},
+doi ={10.1101/2022.10.05.509986},
+abstract ={Genome-wide association studies (GWAS) of serum metabolites have the potential to uncover genes that influence human metabolism. Here, we combined an integrative genetic analysis associating serum metabolites to membrane transporters with a coessentiality map of metabolic genes. This analysis revealed a connection between feline leukemia virus subgroup C cellular receptor 1 (FLVCR1)-a plasma membrane protein-and phosphocholine, a downstream metabolite of choline metabolism. Loss of FLVCR1 in human cells and in mice strongly impairs choline metabolism due to a block in choline import. Consistently, CRISPR-based genetic screens identified several components of the membrane phospholipid machinery as synthetic lethal with FLVCR1 loss. Finally, cells lacking FLVCR1 exhibit mitochondrial defects and upregulate the integrated stress response (ISR) through heme regulated inhibitors kinase (HRI). Altogether, these findings identify FLVCR1 as a universal mediator of choline transport in mammals and provide a platform to discover substrates for unknown metabolite transporters.},
+keywords ={},
+note ={https://danhiggins.org/data/papers_other-lipid/2022.10.05.509986v1.full.pdf},
+journal ={},
+volume ={N/A},
+pages ={N/A},
+source={6aff217798e8724bff665f2e43c0ac7e216d3cb6297f932c4479cf1110585086}
+}
+
+@Article{
+author ={John Reinhard and Leonhard Starke and Christian Klose and Per Haberkant and Henrik Hammarén and Frank Stein and Ofir Klein and Charlotte Berhorst and Heike Stumpf and James P Sáenz and Jochen Hub and Maya Schuldiner and Robert Ernst},
+title ={MemPrep, a new technology for isolating organellar membranes provides fingerprints of lipid bilayer stress},
+year ={2024},
+doi ={10.1038/s44318-024-00063-y},
+abstract ={Biological membranes have a stunning ability to adapt their composition in response to physiological stress and metabolic challenges. Little is known how such perturbations affect individual organelles in eukaryotic cells. Pioneering work has provided insights into the subcellular distribution of lipids in the yeast Saccharomyces cerevisiae, but the composition of the endoplasmic reticulum (ER) membrane, which also crucially regulates lipid metabolism and the unfolded protein response, remains insufficiently characterized. Here, we describe a method for purifying organelle membranes from yeast, MemPrep. We demonstrate the purity of our ER membrane preparations by proteomics, and document the general utility of MemPrep by isolating vacuolar membranes. Quantitative lipidomics establishes the lipid composition of the ER and the vacuolar membrane. Our findings provide a baseline for studying membrane protein biogenesis and have important implications for understanding the role of lipids in regulating the unfolded protein response (UPR). The combined preparative and analytical MemPrep approach uncovers dynamic remodeling of ER membranes in stressed cells and establishes distinct molecular fingerprints of lipid bilayer stress.},
+keywords ={ER Stress, UPR, Lipid Bilayer Stress, MemPrep, Organelle Lipidomics Subject Categories Membranes & Trafficking, Organelles},
+note ={https://danhiggins.org/data/papers_other-lipid/reinhard-et-al-2024-memprep-a-new-technology-for-isolating-organellar-membranes-provides-fingerprints-of-lipid-bilayer.pdf},
+journal ={The EMBO Journal},
+volume ={43},
+pages ={1653-1685},
+source={9c5ae3e6f79feda2661842c9855e4b905f3bbcda4cac59a49be1744df3f6f5ee}
+}
+
+@Article{
+author ={Mann, Josiane and Reznik, Eduard and Santer, Melania and Miranda-Vizuete, Antonio and Farina, Marcelo and Stockwell, Brent},
+title ={Ferroptosis inhibition by oleic acid mitigates ironoverload-induced injury},
+year ={},
+doi ={10.1016/j.chembiol.2023.10.012},
+abstract ={Highlights d Iron overload causes ferroptosis in kidney, hepatic, and neuronal cell lines d Iron overload causes ferroptosis-driven damage and mortality in C. elegans d Oleic acid blocks iron-overload-induced damage by inhibiting ferroptosis d Oleic acid inhibits iron-overload-induced liver lipid peroxidation and damage in mice Authors},
+keywords ={},
+note ={https://danhiggins.org/data/papers_other-lipid/1-s2.0-S2451945623003732-main.pdf},
+journal ={},
+volume ={},
+pages ={},
+source={02dc9bf34f82a9b277e0620b973f56b4cdf1d40d7e281c54b79a84b6c9f130bd}
+}
+
+@Article{
+author ={Milka Doktorova and Jessica L. Symons and Xiaoxuan Zhang and Hong-Yin Wang and Jan Schlegel and Joseph H. Lorent and Frederick A. Heberle and Erdinć Sezgin and Edward Lyman and Kandice R. Levental and Ilya Levental},
+title ={Cell Membranes Sustain Phospholipid Imbalance Via Cholesterol Asymmetry},
+year ={2023},
+doi ={10.1101/2023.07.30.551157},
+abstract ={},
+keywords ={},
+note ={https://danhiggins.org/data/papers_other-lipid/2023.07.30.551157v1.full.pdf},
+journal ={},
+volume ={N/A},
+pages ={N/A},
+source={56fcf924bffef9e7422202b084a7c6e9411fd62bbb30b96c04b349bbd12ffce0}
+}
+
+@Article{
+author ={Klaus Wunderling and Jelena Zurkovic and Fabian Zink and Lars Kuerschner and Christoph Thiele},
+title ={Triglyceride cycling enables modification of stored fatty acids},
+year ={2023},
+doi ={10.1038/s42255-023-00769-z},
+abstract ={},
+keywords ={},
+note ={https://danhiggins.org/data/papers_other-lipid/s42255-023-00769-z.pdf},
+journal ={Nature Metabolism},
+volume ={5},
+pages ={699-709},
+source={d7c220b19b0f188e9bdcc0c93a38d89fb4b3662abc72bec04da73db372baf40a}
+}
+
+@Article{
+author ={Isabelle M. Capell-Hattam and Andrew J. Brown},
+title ={Sterol Evolution: Cholesterol Synthesis in Animals Is Less a Required Trait Than an Acquired Taste},
+year ={2020},
+doi ={10.1016/j.cub.2020.06.007},
+abstract ={Although cholesterol is considered a vital lipid for animals, not all animals can make cholesterol. A new study employing that celebrated elegant worm, Caenorhabditis elegans, investigates mechanisms that evolved in a sterol auxotroph to enable survival without sterol synthesis.},
+keywords ={},
+note ={https://danhiggins.org/data/papers_other-lipid/1-s2.0-S096098222030823X-main.pdf},
+journal ={Current Biology},
+volume ={30},
+pages ={R886-R888},
+source={a5f54d90750074d6ada1654cddfd215db918eed5864f4392091472657570cc10}
+}
+
+@Article{
+author ={Siddharth R. Venkatesh and Ritika Siddiqui and Anjali Sandhu and Malvika Ramani and Isabel R. Houston and Jennifer L. Watts and Varsha Singh},
+title ={Homeostatic control of stearoyl desaturase expression via patched-like receptor PTR-23 ensures the survival of C. elegans during heat stress},
+year ={2023},
+doi ={10.1371/journal.pgen.1011067},
+abstract ={Organismal responses to temperature fluctuations include an evolutionarily conserved cytosolic chaperone machinery as well as adaptive alterations in lipid constituents of cellular membranes. Using C. elegans as a model system, we asked whether adaptable lipid homeostasis is required for survival during physiologically relevant heat stress. By systematic analyses of lipid composition in worms during and before heat stress, we found that unsaturated fatty acids are reduced in heat-stressed animals. This is accompanied by the transcriptional downregulation of fatty acid desaturase enzymes encoded by fat-1, fat-3, fat-4, fat-5, fat-6, and fat-7 genes. Conversely, overexpression of the Δ9 desaturase FAT-7, responsible for the synthesis of PUFA precursor oleic acid, and supplementation of oleic acid causes accelerated death of worms during heat stress. Interestingly, heat stress causes permeability defects in the worm's cuticle. We show that fat-7 expression is reduced in the permeability defective collagen (PDC) mutant, dpy-10, known to have enhanced heat stress resistance (HSR). Further, we show that the HSR of dpy-10 animals is dependent on the upregulation of PTR-23, a patched-like receptor in the epidermis, and that PTR-23 downregulates the expression of fat-7. Consequently, abrogation of ptr-23 in wild type animals affects its survival during heat stress. This study provides evidence for the negative regulation of fatty acid desaturase expression in the soma of C. elegans via the non-canonical role of a patched receptor signaling component. Taken together, this constitutes a skingut axis for the regulation of lipid desaturation to promote the survival of worms during heat stress.},
+keywords ={},
+note ={https://danhiggins.org/data/papers_other-lipid/journal.pgen.1011067.pdf},
+journal ={PLOS Genetics},
+volume ={19},
+pages ={e1011067},
+source={b87883b651780f1a69fc6e86c805b01af51e2db44dd322516bd8a418047666b4}
+}
+
+@Article{
+author ={Gloria Asantewaa and Emily T. Tuttle and Nathan P. Ward and Yun Pyo Kang and Yumi Kim and Madeline E. Kavanagh and Nomeda Girnius and Ying Chen and Renae Duncan and Katherine Rodriguez and Fabio Hecht and Marco Zocchi and Leonid Smorodintsev-Schiller and TashJaé Q. Scales and Kira Taylor and Fatemeh Alimohammadi and Zachary R Sechrist and Diana Agostini-Vulaj and Xenia L. Schafer and Hayley Chang and Zachary Smith and Thomas N. O’Connor and Sarah Whelan and Laura M. Selfors and Jett Crowdis and G. Kenneth Gray and Roderick T. Bronson and Dirk Brenner and Alessandro Rufini and Robert T. Dirksen and Aram F. Hezel and Aaron R. Huber and Josh Munger and Benjamin F. Cravatt and Vasilis Vasiliou and Calvin L Cole and Gina M. DeNicola and Isaac S. Harris},
+title ={Glutathione supports lipid abundance<i>in vivo</i>},
+year ={2023},
+doi ={10.1101/2023.02.10.524960},
+abstract ={Cells rely on antioxidants to survive. The most abundant antioxidant is glutathione (GSH). The synthesis of GSH is non-redundantly controlled by the glutamate-cysteine ligase catalytic subunit (GCLC). GSH imbalance is implicated in many diseases, but the requirement for GSH in adult tissues is unclear. To interrogate this, we developed a series of in vivo models to induce Gclc deletion in adult animals. We find that GSH is essential to lipid abundance in vivo. GSH levels are reported to be highest in liver tissue, which is also a hub for lipid production. While the loss of GSH did not cause liver failure, it decreased lipogenic enzyme expression, circulating triglyceride levels, and fat stores. Mechanistically, we found that GSH promotes lipid abundance by repressing NRF2, a transcription factor induced by oxidative stress. These studies identify GSH as a fulcrum in the liver's balance of redox buffering and triglyceride production.},
+keywords ={},
+note ={https://danhiggins.org/data/papers_other-lipid/2023.02.10.524960v1.full.pdf},
+journal ={},
+volume ={N/A},
+pages ={N/A},
+source={2efb873eb17fc10e337b3d92e693309c551d32484a544fc43fda9ff2ef684853}
+}
+
+@Article{
+author ={Takeshi Harayama and Howard Riezman},
+title ={Understanding the diversity of membrane lipid composition},
+year ={2018},
+doi ={10.1038/nrm.2017.138},
+abstract ={Isomeric molecules that have the same molecular formula but different structures.},
+keywords ={},
+note ={https://danhiggins.org/data/papers_other-lipid/nrm.2017.138.pdf},
+journal ={Nature Reviews Molecular Cell Biology},
+volume ={19},
+pages ={281-296},
+source={489a1d84491e33e6ca47be8279eea118fe10fd3048ad0efbb7c098d1d66f5c54}
+}
+
+@Article{
+author ={Agustin Leonardo Lujan and Ombretta Foresti and Conor Sugden and Nathalie Brouwers and Alex Mateo Farre and Alessio Vignoli and Mahshid Azamian and Alicia Turner and Jose Wojnacki and Vivek Malhotra},
+title ={Defects in lipid homeostasis reflect the function of TANGO2 in phospholipid and neutral lipid metabolism},
+year ={2023},
+doi ={10.7554/eLife.85345},
+abstract ={We show that TANGO2 in mammalian cells localizes predominantly to mitochondria and partially at mitochondria sites juxtaposed to lipid droplets (LDs) and the endoplasmic reticulum. HepG2 cells and fibroblasts of patients lacking TANGO2 exhibit enlarged LDs. Quantitative lipidomics revealed a marked increase in lysophosphatidic acid (LPA) and a concomitant decrease in its biosynthetic precursor phosphatidic acid (PA). These changes were exacerbated in nutrientstarved cells. Based on our data, we suggest that TANGO2 function is linked to acyl-CoA metabolism, which is necessary for the acylation of LPA to generate PA. The defect in acyl-CoA availability impacts the metabolism of many other fatty acids, generates high levels of reactive oxygen species, and promotes lipid peroxidation. We suggest that the increased size of LDs is a combination of enrichment in peroxidized lipids and a defect in their catabolism. Our findings help explain the physiological consequence of mutations in TANGO2 that induce acute metabolic crises, including rhabdomyolysis, cardiomyopathy, and cardiac arrhythmias, often leading to fatality upon starvation and stress. Editor's evaluation This important manuscript describes a series of cellular phenotypes associated with the depletion of TANGO2, a poorly characterized gene product but relevant to neurological and muscular disorders. The authors present solid data indicating that TANGO2 associates with membrane-bound organelles, mainly mitochondria, impacting lipid metabolism and the accumulation of reactive oxygen species.},
+keywords ={},
+note ={https://danhiggins.org/data/papers_other-lipid/elife-85345-v2.pdf},
+journal ={eLife},
+volume ={12},
+pages ={N/A},
+source={e18e3f8b36e120ae04f7a0b7c8338188c01556541facc92b7bfce0f6a887908c}
+}
+
+@Article{
+author ={Ralston B. Goldfarb and Matthew J. Atala Pleshinger and David F. Yan and Drew J. Adams},
+title ={Lipid-Restricted Culture Media Reveal Unexpected Cancer Cell Sensitivities},
+year ={2024},
+doi ={10.1021/acschembio.3c00699},
+abstract ={Cancer cell culture models frequently rely on fetal bovine serum as a source of protein and lipid factors that support cell survival and proliferation; however, serum-containing media imperfectly mimic the in vivo cancer environment. Recent studies suggest that typical serum-containing cell culture conditions can mask cancer dependencies, for example, on cholesterol biosynthesis enzymes, that exist in vivo and emerge when cells are cultured in media that provide more realistic levels of lipids. Here, we describe a high-throughput screen that identified fenretinide and ivermectin as small molecules whose cytotoxicity is greatly enhanced in lipid-restricted media formulations. The mechanism of action studies indicates that ivermectin-induced cell death involves oxidative stress, while fenretinide likely targets delta 4-desaturase, sphingolipid 1, a lipid desaturase necessary for ceramide synthesis, to induce cell death. Notably, both fenretinide and ivermectin have previously demonstrated in vivo anticancer efficacy despite their low cytotoxicity under typical cell culture conditions. These studies suggest ceramide synthesis as a targetable vulnerability of cancer cells cultured under lipid-restricted conditions and reveal a general screening strategy for identifying additional cancer dependencies masked by the superabundance of medium lipids.},
+keywords ={},
+note ={https://danhiggins.org/data/papers_other-lipid/goldfarb-et-al-2024-lipid-restricted-culture-media-reveal-unexpected-cancer-cell-sensitivities.pdf},
+journal ={ACS Chemical Biology},
+volume ={19},
+pages ={896-907},
+source={83bd4d050703660bf4aa26d1d6c593da57a6f0ef6cdac9a16fe1bb10b9ca2f5f}
+}
+
+@Article{
+author ={Daniel Hornburg and Si Wu and Mahdi Moqri and Xin Zhou and Kevin Contrepois and Nasim Bararpour and Gavin M. Traber and Baolong Su and Ahmed A. Metwally and Monica Avina and Wenyu Zhou and Jessalyn M. Ubellacker and Tejaswini Mishra and Sophia Miryam Schüssler-Fiorenza Rose and Paula B. Kavathas and Kevin J. Williams and Michael P. Snyder},
+title ={Dynamic lipidome alterations associated with human health, disease and ageing},
+year ={2023},
+doi ={10.1038/s42255-023-00880-1},
+abstract ={},
+keywords ={},
+note ={https://danhiggins.org/data/papers_other-lipid/s42255-023-00880-1.pdf},
+journal ={Nature Metabolism},
+volume ={5},
+pages ={1578-1594},
+source={fa982e7a34d0f78605be2b4800c9a477053b215aeb1e6cf9701b2e5f51471d64}
+}
+
+@Article{
+author ={Ivan Castello-Serrano and Fred A. Heberle and Barbara Diaz-Rohrer and Rossana Ippolito and Carolyn R. Shurer and Pablo Lujan and Felix Campelo and Kandice R. Levental and Ilya Levental},
+title ={Partitioning to ordered membrane domains regulates the kinetics of secretory traffic},
+year ={2024},
+doi ={10.7554/eLife.89306.2},
+abstract ={The organelles of eukaryotic cells maintain distinct protein and lipid compositions required for their specific functions. The mechanisms by which many of these components are sorted to their specific locations remain unknown. While some motifs mediating subcellular protein localization have been identified, many membrane proteins and most membrane lipids lack known sorting determinants. A putative mechanism for sorting of membrane components is based on membrane domains known as lipid rafts, which are laterally segregated nanoscopic assemblies of specific lipids and proteins. To assess the role of such domains in the secretory pathway, we applied a robust tool for synchronized secretory protein traffic (RUSH, Retention Using Selective Hooks) to protein constructs with defined affinity for raft phases. These constructs consist solely of single-pass transmembrane domains (TMDs) and, lacking other sorting determinants, constitute probes for membrane domain-mediated trafficking. We find that while raft affinity can be sufficient for steady-state PM localization, it is not sufficient for rapid exit from the endoplasmic reticulum (ER), which is instead mediated by a short cytosolic peptide motif. In contrast, we find that Golgi exit kinetics are highly dependent on raft affinity, with raft preferring probes exiting Golgi ∼2.5-fold faster than probes with minimal raft affinity. We rationalize these observations with a kinetic model of secretory trafficking, wherein Golgi export can be facilitated by protein association with raft domains. These observations support a role for raft-like membrane domains in the secretory pathway and establish an experimental paradigm for dissecting its underlying machinery. eLife assessment In this important study, Castello-Serrano and colleagues describe, model and quantify the role of transmembrane domains in protein sorting in the secretory pathway, first at the ER and subsequently at the Golgi. Convincing data support the role of a cytoplasmic motif in ER exit, while further experiments are necessary to support a direct connection between the phase partitioning capability of the transmembrane regions and the sorting potential of domains at the Golgi/TGN.},
+keywords ={},
+note ={https://danhiggins.org/data/papers_other-lipid/89306-v2.pdf},
+journal ={},
+volume ={N/A},
+pages ={N/A},
+source={3653696a1a3553dab07b7b258e18f0c7eba4cf6022f6176c4f3d9be354a0edaf}
+}
+
+@Article{
+author ={Abigail Watterson and Sonja L.B. Arneaud and Naureen Wajahat and Jordan M. Wall and Lexus Tatge and Shaghayegh T. Beheshti and Melina Mihelakis and Nicholas Y. Cheatwood and Jacob McClendon and Atossa Ghorashi and Ishmael Dehghan and Chase D. Corley and Jeffrey G. McDonald and Peter M. Douglas},
+title ={Loss of heat shock factor initiates intracellular lipid surveillance by actin destabilization},
+year ={2022},
+doi ={10.1016/j.celrep.2022.111493},
+abstract ={Highlights d Lipid deposition is modulated by HSF-1 levels in C. elegans d Lifespan extension by HSF-1 requires NHR-49 d Reduced hsf-1 expression impairs membrane trafficking through actin destabilization d Loss of hsf-1 activates the intracellular lipid surveillance response Authors},
+keywords ={},
+note ={https://danhiggins.org/data/papers_other-lipid/mmc4.pdf},
+journal ={Cell Reports},
+volume ={41},
+pages ={111493},
+source={05fdc469430a98d585a73f34b0c602b200d5777b6a30418f0ed29356f55984d4}
+}
+
+@Article{
+author ={John Reinhard and Leonhard Starke and Christian Klose and Per Haberkant and Henrik Hammarén and Frank Stein and Ofir Klein and Charlotte Berhorst and Heike Stumpf and James P. Sáenz and Jochen Hub and Maya Schuldiner and Robert Ernst},
+title ={A new technology for isolating organellar membranes provides fingerprints of lipid bilayer stress},
+year ={2022},
+doi ={10.1101/2022.09.15.508072},
+abstract ={},
+keywords ={},
+note ={https://danhiggins.org/data/papers_other-lipid/2022.09.15.508072v1.full.pdf},
+journal ={},
+volume ={N/A},
+pages ={N/A},
+source={e3b50d6c8ee445f6a3db8da937bb1a2a57ac9913f5d2a603cb104dd9b220a0d9}
+}
+
+@Article{
+author ={Shibata, Yoko and Shemesh, Tom and Prinz, William and Palazzo, Alexander and Kozlov, Michael and Rapoport, Tom},
+title ={Mechanisms determining the morphology of the peripheral ER},
+year ={},
+doi ={},
+abstract ={The endoplasmic reticulum (ER) consists of the nuclear envelope and a peripheral network of tubules and membrane sheets. The tubules are shaped by the curvature-stabilizing proteins reticulons and DP1/Yop1p, but how the sheets are formed is unclear. Here we identify several sheet-enriched membrane proteins in the mammalian ER, including proteins that translocate and modify newly synthesized polypeptides, as well as coiled-coil membrane proteins that are highly upregulated in cells with proliferated ER sheets, all of which are localized by membrane-bound polysomes. These results indicate that sheets and tubules correspond to rough and smooth ER, respectively. One of the coiled-coil proteins, Climp63, serves as a "luminal ER spacer" and forms sheets when overexpressed. More universally, however, sheet-formation appears to involve the reticulons and DP1/Yop1p, which localize to sheet edges and whose abundance determines the ratio of sheets to tubules. These proteins may generate sheets by stabilizing the high curvature of edges.},
+keywords ={},
+note ={https://danhiggins.org/data/papers_other-lipid/nihms256676.pdf},
+journal ={},
+volume ={},
+pages ={},
+source={3c10e295890345468dd707a329ea46fff719a58d7c8f2d6bdb5c41c171b1f4b5}
+}
+
+@Article{
+author ={Yeon-Jeong Kim and Suguru Tohyama and Takashi Nagashima and Masashi Nagase and Yamato Hida and Shun Hamada and Ayako M. Watabe and Toshihisa Ohtsuka},
+title ={A light-controlled phospholipase C for imaging of lipid dynamics and controlling neural plasticity},
+year ={2024},
+doi ={10.1016/j.chembiol.2024.03.001},
+abstract ={Phospholipase C (PLC) is a key enzyme that regulates physiological processes via lipid and calcium signaling. Despite advances in protein engineering, no tools are available for direct PLC control. Here, we developed a novel optogenetic tool, light-controlled PLCb (opto-PLCb). Opto-PLCb uses a light-induced dimer module, which directs an engineered PLC to the plasma membrane in a light-dependent manner. Our design includes an autoinhibitory capacity, ensuring stringent control over PLC activity. Opto-PLCb triggers reversible calcium responses and lipid dynamics in a restricted region, allowing precise spatiotemporal control of PLC signaling. Using our system, we discovered that phospholipase D-mediated phosphatidic acid contributes to diacylglycerol clearance on the plasma membrane. Moreover, we extended its applicability in vivo, demonstrating that opto-PLCb can enhance amygdala synaptic plasticity and associative fear learning in mice. Thus, opto-PLCb offers precise spatiotemporal control, enabling comprehensive investigation of PLC-mediated signaling pathways, lipid dynamics, and their physiological consequences in vivo.},
+keywords ={},
+note ={https://danhiggins.org/data/papers_other-lipid/PIIS2451945624000904.pdf},
+journal ={Cell Chemical Biology},
+volume ={31},
+pages ={1336-1348.e7},
+source={68eef5cc088188ceae92e3113915c58b7dff88036fe1513ed142aa884bb687f0}
+}
+
+@Article{
+author ={Ranjan Devkota and Marcus Henricsson and Jan Borén and Marc Pilon},
+title ={The C. elegans PAQR-2 and IGLR-2 membrane homeostasis proteins are uniquely essential for tolerating dietary saturated fats},
+year ={2021},
+doi ={10.1016/j.bbalip.2021.158883},
+abstract ={How cells maintain vital membrane lipid homeostasis while obtaining most of their constituent fatty acids from a varied diet remains largely unknown. Here, we report the first whole-organism (Caenorhabditis elegans) forward genetic screen to identify genes essential for tolerance to dietary saturated fatty acids (SFAs). We found that only the PAQR-2/IGLR-2 pathway, homologous to the human adiponectin receptor 2 (AdipoR2) pathway, is uniquely essential to prevent SFA-mediated toxicity. When provided a SFA-rich diet, worms lacking either protein accumulate an excess of SFAs in their membrane phospholipids, which is accompanied by membrane rigidification. Additionally, we used fluorescence resonance energy transfer (FRET) to show that the interaction between PAQR-2 and IGLR-2 is regulated by membrane fluidity, suggesting a mechanism by which this protein complex senses membrane properties. We also created versions of PAQR-2 that lacked parts of the cytoplasmic N-terminal domain and showed that these were still functional, though still dependent on the interaction with IGLR-2. We conclude that membrane homeostasis via the PAQR-2/IGLR-2 fluidity sensor is the only pathway specifically essential for the non-toxic uptake of dietary SFAs in C. elegans.},
+keywords ={Membrane lipids Membrane fluidity Diet and dietary lipids Fatty acid, desaturase Molecular biology, genetics Cell biology Lipotoxicity Lipidomics AdipoR2 C. elegans},
+note ={https://danhiggins.org/data/papers_other-lipid/1-s2.0-S1388198121000093-main.pdf},
+journal ={Biochimica et Biophysica Acta (BBA) - Molecular and Cell Biology of Lipids},
+volume ={1866},
+pages ={158883},
+source={4708106e99454e8a0e270b6a5e3b70b48547d411e08bdb44c3559622a360b1cb}
+}
+
+@Article{
+author ={Yevgeniy V. Serebrenik and Doris Hellerschmied and Momar Toure and Francesc López-Giráldez and Dennis Brookner and Craig M. Crews},
+title ={Targeted protein unfolding uncovers a Golgi-specific transcriptional stress response},
+year ={2018},
+doi ={10.1091/mbc.E17-11-0693)},
+abstract ={In eukaryotic cells, organelle-specific stress-response mechanisms are vital for maintaining cellular homeostasis. The Golgi apparatus, an essential organelle of the secretory system, is the major site of protein modification and sorting within a cell and functions as a platform for spatially regulated signaling. Golgi homeostasis mechanisms that regulate organelle structure and ensure precise processing and localization of protein substrates remain poorly understood. Using a chemical biology strategy to induce protein unfolding, we uncover a Golgi-specific transcriptional response. An RNA-sequencing profile of this stress response compared with the current state-of-the-art Golgi stressors, nigericin and xyloside, demonstrates the enhanced precision of Golgi targeting achieved with our system. The data set further reveals previously uncharacterized genes that we find to be essential for Golgi structural integrity. These findings highlight the Golgi's ability to sense misfolded proteins and establish new aspects of Golgi autoregulation.},
+keywords ={ANOVA, analysis of variance, DAPI, 4′,6-diamidino-2-phenylindole, EM, electron microscopy, ER, endoplasmic reticulum, ESI, electrospray ionization, FBS, fetal bovine serum, HRP, horseradish peroxidase, HT2, HaloTag2, PBS, phosphate-buffered saline, qPCR, quantitative PCR, RFP, red fluorescent protein, shRNA, short hairpin RNA, ssHRP, secretory signal HRP, THF, tetrahydrofuran},
+note ={https://danhiggins.org/data/papers_other-lipid/serebrenik-et-al-2018-targeted-protein-unfolding-uncovers-a-golgi-specific-transcriptional-stress-response.pdf},
+journal ={Molecular Biology of the Cell},
+volume ={29},
+pages ={1284-1298},
+source={278f10d3fe6c027f5e4c97a3b68e28db6b167af5275efcfbf025babbff3c8f7d}
+}
+
+@Article{
+author ={Gerald R. V. Hammond and Morgan M. C. Ricci and Claire C. Weckerly and Rachel C. Wills},
+title ={An update on genetically encoded lipid biosensors},
+year ={2022},
+doi ={10.1091/mbc.E21-07-0363},
+abstract ={Specific lipid species play central roles in cell biology. Their presence or enrichment in individual membranes can control properties or direct protein localization and/or activity. Therefore, probes to detect and observe these lipids in intact cells are essential tools in the cell biologist's freezer box. Herein, we discuss genetically encoded lipid biosensors, which can be expressed as fluorescent protein fusions to track lipids in living cells. We provide a state-of-the-art list of the most widely available and reliable biosensors and highlight new probes (circa 2018-2021). Notably, we focus on advances in biosensors for phosphatidylinositol, phosphatidic acid, and PI 3-kinase lipid products.},
+keywords ={Chol, cholesterol, DAG, diacylglycerol, DGK, diacylglycerol kinase, ER, endoplasmic reticulum, IP3, inositol 1,4,5-trisphosphate, IP4, inositol 1,3,4,5-tetrakisphosphate, NES, nuclear export sequence, PA, phosphatidic acid, PABD, phosphatidic acid binding domain, PASS, phosphatidic acid biosensor with superior sensitivity, PC, phosphatidylcholine, PH, pleckstrin homology, PI, phosphatidylinositol, PI(3,4)P 2 , phosphatidylinositol 3,4-bisphosphate, PI(3,5)P 2 , phosphatidylinositol 3,5-bisphosphate, PI(4,5)P 2 , phosphatidylinositol 4,5-bisphosphate, PI3K, phosphoinositide 3-kinase, PI3P, phosphatidylinositol 3-phosphate, PI4K, phosphatidylinositol 4-kinase, PI4P, phosphatidylinositol 4-phosphate, PI5P, phosphatidylinositol 5-phosphate, PIP 3 , phosphatidylinositol 3,4,5-trisphosphate, PLC, phospholipase C, PLD, phospholipase D, PM, plasma membrane, PS, phosphatidylserine, SM, sphingomyelin},
+note ={https://danhiggins.org/data/papers_other-lipid/hammond-et-al-2022-an-update-on-genetically-encoded-lipid-biosensors.pdf},
+journal ={Molecular Biology of the Cell},
+volume ={33},
+pages ={N/A},
+source={537c0c807e4091bd1c6a5cf95f7b3636642153eb05dc6b8af9d4177a2a464eab}
+}
+
+@Article{
+author ={Zhang, Ling and Zhao, Jing and Lam, Sin and Chen, Lang and Gao, Yingzhuo and Wang, Wenjie and Xu, Yuyan and Tan, Tianyu and Yu, Hua and Zhang, Min and Liao, Xufeng and W, Mengchen and Zhang, Tianyun and Huang, J and Li, Bowe and Zhou, Quan and Shen, Ni and Lee, Hyeo and Ye, Cunqi and Li, Da and Shui, Guanghou and Zhang, Jin},
+title ={nature cell biology Resource},
+year ={},
+doi ={10.1038/s41556-023-01341-3},
+abstract ={},
+keywords ={},
+note ={https://danhiggins.org/data/papers_other-lipid/s41556-023-01341-3.pdf},
+journal ={},
+volume ={},
+pages ={},
+source={4e9b076bcad352b3b75f4196a3b4eedb30aadcbb1bd2eaef0732cd33cfbf8035}
+}
+
+@Article{
+author ={ Shamsuzzama and Ron Lebedev and Benjamin Trabelcy and Irina Langier Goncalves and Yoram Gerchman and Amir Sapir},
+title ={Metabolic Reconfiguration in C. elegans Suggests a Pathway for Widespread Sterol Auxotrophy in the Animal Kingdom},
+year ={2020},
+doi ={10.1016/j.cub.2020.05.070},
+abstract ={Highlights d Widespread loss of cholesterol synthesis took place during the evolution of animals d Loss of the first three steps of cholesterol synthesis results in sterol auxotrophy d A pathway converting dietary sterol to cholesterol compensates for sterol auxotrophy Authors},
+keywords ={},
+note ={https://danhiggins.org/data/papers_other-lipid/1-s2.0-S0960982220307570-main.pdf},
+journal ={Current Biology},
+volume ={30},
+pages ={3031-3038.e7},
+source={7c8ba7a72fc996908b142c914617c7da7a84b310acc48eae219c7c31fd99beac}
+}
+
+@Article{
+author ={Jun-ichi Sakamaki and Koji L. Ode and Yoshitaka Kurikawa and Hiroki R. Ueda and Hayashi Yamamoto and Noboru Mizushima},
+title ={Ubiquitination of phosphatidylethanolamine in organellar membranes},
+year ={2022},
+doi ={10.1016/j.molcel.2022.08.008},
+abstract ={Highlights d PE in endosomes and vacuoles/lysosomes is ubiquitinated d PE is ubiquitinated by Uba1, Ubc4/5, and Tul1 and deubiquitinated by Doa4 d Ub-PE can recruit the ESCRT components Vps27-Hse1 and Vps23 d The ubiquitin-like proteins NEDD8 and ISG15 are also conjugated to phospholipids Authors Jun-ichi Sakamaki, Koji L. Ode,},
+keywords ={},
+note ={https://danhiggins.org/data/papers_other-lipid/PIIS1097276522007614.pdf},
+journal ={Molecular Cell},
+volume ={82},
+pages ={3677-3692.e11},
+source={926e2eb6c1294c4505f75d6f4b22d78ceda63031c2d00e13403713234977a88a}
+}
+
+@Article{
+author ={Helene Jahn and Ladislav Bartoš and Grace I. Dearden and Jeremy S. Dittman and Joost C. M. Holthuis and Robert Vácha and Anant K. Menon},
+title ={Phospholipids are imported into mitochondria by VDAC, a dimeric beta barrel scramblase},
+year ={2023},
+doi ={10.1038/s41467-023-43570-y},
+abstract ={},
+keywords ={},
+note ={https://danhiggins.org/data/papers_other-lipid/s41467-023-43570-y.pdf},
+journal ={Nature Communications},
+volume ={14},
+pages ={N/A},
+source={510f6031d6ed2517dbdc6c2e73d6eb8dcda8abbe7d0147895436efa3a7a1b6fb}
+}
+
+@Article{
+author ={Wang, Wenyue and Sherry, Tessa and Chen, Xinran and Fan, Qi and Cornell, Rebecca and Liu, Jie and Xiao, Zhicheng and Pocock, Roger},
+title ={nature cell biology Article},
+year ={2023},
+doi ={10.1038/s41556-023-01195-9},
+abstract ={},
+keywords ={},
+note ={https://danhiggins.org/data/papers_other-lipid/s41556-023-01195-9.pdf},
+journal ={},
+volume ={},
+pages ={},
+source={708ae0a606fcd3d2b4e1fd1070e8ff44817f3ff6e8d407d0f7979c1dc352b608}
+}
+
+@Article{
+author ={Evelina Charidemou and Roberta Noberini and Chiara Ghirardi and Polymnia Georgiou and Panayiota Marcou and Andria Theophanous and Katerina Strati and Hector Keun and Volker Behrends and Tiziana Bonaldi and Antonis Kirmizis},
+title ={Hyperacetylated histone H4 is a source of carbon contributing to lipid synthesis},
+year ={2024},
+doi ={10.1038/s44318-024-00053-0},
+abstract ={Histone modifications commonly integrate environmental cues with cellular metabolic outputs by affecting gene expression. However, chromatin modifications such as acetylation do not always correlate with transcription, pointing towards an alternative role of histone modifications in cellular metabolism. Using an approach that integrates mass spectrometry-based histone modification mapping and metabolomics with stable isotope tracers, we demonstrate that elevated lipids in acetyltransferase-depleted hepatocytes result from carbon atoms derived from deacetylation of hyperacetylated histone H4 flowing towards fatty acids. Consistently, enhanced lipid synthesis in acetyltransferase-depleted hepatocytes is dependent on histone deacetylases and acetyl-CoA synthetase ACSS2, but not on the substrate specificity of the acetyltransferases. Furthermore, we show that during diet-induced lipid synthesis the levels of hyperacetylated histone H4 decrease in hepatocytes and in mouse liver. In addition, overexpression of acetyltransferases can reverse diet-induced lipogenesis by blocking lipid droplet accumulation and maintaining the levels of hyperacetylated histone H4. Overall, these findings highlight hyperacetylated histones as a metabolite reservoir that can directly contribute carbon to lipid synthesis, constituting a novel function of chromatin in cellular metabolism.},
+keywords ={Epigenetics, Histone Reservoirs, Lipid Metabolism, Acetylation Subject Categories Chromatin, Transcription & Genomics, Metabolism, Post-translational Modifications & Proteolysis},
+note ={https://danhiggins.org/data/papers_other-lipid/charidemou-et-al-2024-hyperacetylated-histone-h4-is-a-source-of-carbon-contributing-to-lipid-synthesis.pdf},
+journal ={The EMBO Journal},
+volume ={43},
+pages ={1187-1213},
+source={8b3ee02937be2319d7a4a80037c13da8f07caa0ad4aecdd0957a51b019b75ed5}
+}
+
+@Article{
+author ={Sarah K. Torzone and Peter C. Breen and Natalie R. Cohen and Kaylee N. Simmons and Robert H. Dowen},
+title ={The TWK-26 potassium channel governs nutrient absorption in the<i>C. elegans</i>intestine},
+year ={2024},
+doi ={10.1101/2024.05.06.592787},
+abstract ={Ion channels are necessary for proper water and nutrient absorption in the intestine, which supports cellular metabolism and organismal growth. While a role for Na + co-transporters and pumps in intestinal nutrient absorption is well defined, how individual K + uniporters function to maintain ion homeostasis is poorly understood. Using Caenorhabditis elegans, we show that a gain-of-function mutation in twk-26, which encodes a two-pore domain K + ion channel orthologous to human KCNK3, facilitates nutrient absorption and suppresses the metabolic and developmental defects displayed by impaired intestinal MAP Kinase (MAPK) signaling. Mutations in drl-1 and flr-4, which encode two components of this MAPK pathway, cause severe growth defects, reduced lipid storage, and a dramatic increase in autophagic lysosomes, which mirror dietary restriction phenotypes. Additionally, these MAPK mutants display structural defects of the intestine and an impaired defecation motor program. We find that activation of TWK-26 reverses the dietary restriction-like state of the MAPK mutants by restoring intestinal nutrient absorption without correcting the intestinal bloating or defecation defects. This study provides unique insight into the mechanisms by which intestinal K + ion channels support intestinal metabolic homeostasis.},
+keywords ={},
+note ={https://danhiggins.org/data/papers_other-lipid/2024.05.06.592787v1.full.pdf},
+journal ={},
+volume ={N/A},
+pages ={N/A},
+source={9fedbd0dda71b234c3f35eea96f1bbabdd8a9bdf1730eb63ca24bd92273a6ee2}
+}
+
+@Article{
+author ={Malavika Varma and Markus Deserno},
+title ={Distribution of cholesterol in asymmetric membranes driven by composition and differential stress},
+year ={2022},
+doi ={10.1016/j.bpj.2022.07.032},
+abstract ={Many lipid membranes of eukaryotic cells are asymmetric, which means the two leaflets differ in at least one physical property, such as lipid composition or lateral stress. Maintaining this asymmetry is helped by the fact that ordinary phospholipids rarely transition between leaflets, but cholesterol is an exception: its flip-flop times are in the microsecond range, so that its distribution between leaflets is determined by a chemical equilibrium. In particular, preferential partitioning can draw cholesterol into a more saturated leaflet, and phospholipid number asymmetry can force it out of a compressed leaflet. Combining highly coarse-grained membrane simulations with theoretical modeling, we investigate how these two driving forces play against each other until cholesterol's chemical potential is equilibrated. The theory includes two coupled elastic sheets and a Flory-Huggins mixing free energy with a c parameter. We obtain a relationship between c and the interaction strength between cholesterol and lipids in either of the two leaflets, and we find that it depends, albeit weakly, on lipid number asymmetry. The differential stress measurements under various asymmetry conditions agree with our theoretical predictions. Using the two kinds of asymmetries in combination, we find that it is possible to counteract the phospholipid number bias, and the resultant stress in the membrane, via the control of cholesterol mixing in the leaflets.},
+keywords ={},
+note ={https://danhiggins.org/data/papers_other-lipid/1-s2.0-S0006349522006051-main.pdf},
+journal ={Biophysical Journal},
+volume ={121},
+pages ={4001-4018},
+source={54e1d3ca53ef4817994396ee2127e02a9c8e7c861aef3ee8579bb2d30cf80dc3}
+}
+

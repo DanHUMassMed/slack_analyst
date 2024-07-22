@@ -1,0 +1,574 @@
+@Article{
+author ={Arvind Panday and Rajula Elango and Nicholas A. Willis and Ralph Scully},
+title ={A modified CUT&amp;RUN-seq technique for qPCR analysis of chromatin-protein interactions},
+year ={2022},
+doi ={10.1016/j.xpro.2022.101529},
+abstract ={Chromatin Immunoprecipitation coupled with quantitative PCR (ChIP-qPCR) even with optimization may give low signal-to-background ratio and spatial resolution. Here, we adapted Cleavage Under Targets and Release Using Nuclease (CUT&RUN) (originally developed by the Henikoff group) to develop CUT&RUN-qPCR. By studying the recruitment of selected proteins (but amenable to other proteins), we find that CUT&RUN-qPCR is more sensitive and gives better spatial resolution than ChIP-qPCR.},
+keywords ={},
+note ={https://danhiggins.org/data/papers_technical/1-s2.0-S2666166722004099-main.pdf},
+journal ={STAR Protocols},
+volume ={3},
+pages ={101529},
+source={143b40f98103dc6be4c1b6dba5d5d0deb639aa595a8823a746f01a44af096687}
+}
+
+@Article{
+author ={Johannes Meiser and Christian Frezza},
+title ={Presenting metabolomics analyses: what’s in a number?},
+year ={2024},
+doi ={10.1038/s44318-024-00098-1},
+abstract ={},
+keywords ={},
+note ={https://danhiggins.org/data/papers_technical/meiser-frezza-2024-presenting-metabolomics-analyses-what-s-in-a-number.pdf},
+journal ={},
+volume ={},
+pages ={},
+source={18b18b4cacb351aba05928730a0683c0b48cb945e51ff6e3a7ab68ac0394053a}
+}
+
+@Article{
+author ={Monika Chanu Chongtham and Tamer Butto and Kanak Mungikar and Susanne Gerber and Jennifer Winter},
+title ={INTACT vs. FANS for Cell-Type-Specific Nuclei Sorting: A Comprehensive Qualitative and Quantitative Comparison},
+year ={2021},
+doi ={10.3390/ijms22105335},
+abstract ={Increasing numbers of studies seek to characterize the different cellular sub-populations present in mammalian tissues. The techniques "Isolation of Nuclei Tagged in Specific Cell Types" (INTACT) or "Fluorescence-Activated Nuclei Sorting" (FANS) are frequently used for isolating nuclei of specific cellular subtypes. These nuclei are then used for molecular characterization of the cellular sub-populations. Despite the increasing popularity of both techniques, little is known about their isolation efficiency, advantages, and disadvantages or downstream molecular effects. In our study, we compared the physical and molecular attributes of sfGFP+ nuclei isolated by the two methods-INTACT and FANS-from the neocortices of Arc-CreERT2 × CAG-Sun1/sfGFP animals. We identified differences in efficiency of sfGFP+ nuclei isolation, nuclear size as well as transcriptional (RNA-seq) and chromatin accessibility (ATAC-seq) states. Therefore, our study presents a comprehensive comparison between the two widely used nuclei sorting techniques, identifying the advantages and disadvantages for both INTACT and FANS. Our conclusions are summarized in a table to guide researchers in selecting the most suitable methodology for their individual experimental design.},
+keywords ={FANS, INTACT, nuclei sorting, neuronal nuclei, ATAC-Seq, RNA-Seq},
+note ={https://danhiggins.org/data/papers_technical/ijms-22-05335.pdf},
+journal ={International Journal of Molecular Sciences},
+volume ={22},
+pages ={5335},
+source={858a68c6c9a479658eaef1b46ad1e2f7a0abb070c65ca6b8f6d745fe11502b22}
+}
+
+@Article{
+author ={Denis Touroutine and Jessica E Tanis},
+title ={A Rapid, SuperSelective Method for Detection of Single Nucleotide Variants in <i>Caenorhabditis elegans</i>},
+year ={2020},
+doi ={10.1534/genetics.120.303553},
+abstract ={With the widespread use of single nucleotide variants generated through mutagenesis screens and genome editing technologies, there is pressing need for an efficient and low-cost strategy to genotype single nucleotide substitutions. We have developed a rapid and inexpensive method for detection of point mutants through optimization of SuperSelective (SS) primers for endpoint PCR in Caenorhabditis elegans. Each SS primer consists of a 59 "anchor" that hybridizes to the template, followed by a noncomplementary "bridge," and a "foot" corresponding to the target allele. The foot sequence is short, such that a single mismatch at the terminal 39 nucleotide destabilizes primer binding and prevents extension, enabling discrimination of different alleles. We explored how length and sequence composition of each SS primer segment affected selectivity and efficiency in various genetic contexts in order to develop simple rules for primer design that allow for differentiation between alleles over a broad range of annealing temperatures. Manipulating bridge length affected amplification efficiency, while modifying the foot sequence altered discriminatory power. Changing the anchor position enabled SS primers to be used for genotyping in regions with sequences that are challenging for standard primer design. After defining primer design parameters, we demonstrated the utility of SS primers for genotyping crude C. elegans lysates, suggesting that this approach could also be used for SNP mapping and screening of CRISPR mutants. Further, since SS primers reliably detect point mutations, this method has potential for broad application in all genetic systems.},
+keywords ={},
+note ={https://danhiggins.org/data/papers_technical/genetics0343.pdf},
+journal ={Genetics},
+volume ={216},
+pages ={343-352},
+source={8bf802276aa17e8dbde45f4e0e6818383f82c33a45af9aced3260d5b34bd2014}
+}
+
+@Article{
+author ={Anna Konturek-Ciesla and Rasmus Olofzon and Shabnam Kharazi and David Bryder},
+title ={Implications of stress-induced gene expression for hematopoietic stem cell aging studies},
+year ={2024},
+doi ={10.1038/s43587-023-00558-z},
+abstract ={A decline in hematopoietic stem cell (HSC) function is believed to underlie hematological shortcomings with age; however, a comprehensive molecular understanding of these changes is currently lacking. Here we provide evidence that a transcriptional signature reported in several previous studies on HSC aging is linked to stress-induced changes in gene expression rather than aging. Our findings have strong implications for the design and interpretation of HSC aging studies.},
+keywords ={},
+note ={https://danhiggins.org/data/papers_technical/s43587-023-00558-z.pdf},
+journal ={Nature Aging},
+volume ={4},
+pages ={177-184},
+source={e49587860de2d4205ce6416abe101d4f236e71fb868e9c7bcac3ca9430691dbd}
+}
+
+@Article{
+author ={Houmam Araj and Leroy Worth and David T. Yeung},
+title ={Elements of successful NIH grant applications},
+year ={2024},
+doi ={10.1073/pnas.2315735121},
+abstract ={},
+keywords ={},
+note ={https://danhiggins.org/data/papers_technical/araj-et-al-2024-elements-of-successful-nih-grant-applications.pdf},
+journal ={Proceedings of the National Academy of Sciences},
+volume ={121},
+pages ={N/A},
+source={3000ab7d343931cb6465052df612008a319f90240246994475884909504f5b40}
+}
+
+@Article{
+author ={Kevin J. Cutler and Carsen Stringer and Teresa W. Lo and Luca Rappez and Nicholas Stroustrup and S. Brook Peterson and Paul A. Wiggins and Joseph D. Mougous},
+title ={Omnipose: a high-precision morphology-independent solution for bacterial cell segmentation},
+year ={2022},
+doi ={10.1038/s41592-022-01639-4},
+abstract ={},
+keywords ={},
+note ={https://danhiggins.org/data/papers_technical/s41592-022-01639-4.pdf},
+journal ={Nature Methods},
+volume ={19},
+pages ={1438-1448},
+source={87172a6ecfcbebe0b23e1bdc56ff6db62aadce26dfdb56988bd0652e37a163a3}
+}
+
+@Article{
+author ={Shaver, Amanda and Gouveia, Goncalo and Kirby, Pamela and Andersen, Erik and Edison, Arthur},
+title ={Culture and Assay of Large-Scale Mixed-Stage Caenorhabditis elegans Populations},
+year ={2020},
+doi ={10.3791/61453},
+abstract ={Caenorhabditis elegans (C. elegans) has been and remains a valuable model organism to study developmental biology, aging, neurobiology, and genetics. The large body of work on C. elegans makes it an ideal candidate to integrate into largepopulation, whole-animal studies to dissect the complex biological components and their relationships with another organism. In order to use C. elegans in collaborativeomics research, a method is needed to generate large populations of animals where a single sample can be split and assayed across diverse platforms for comparative analyses. Here, a method to culture and collect an abundant mixed-stage C. elegans population on a large-scale culture plate (LSCP) and subsequent phenotypic data is presented. This pipeline yields sufficient numbers of animals to collect phenotypic and population data, along with any data needed for-omics experiments (i.e., genomics, transcriptomics, proteomics, and metabolomics). In addition, the LSCP method requires minimal manipulation to the animals themselves, less user preparation time, provides tight environmental control, and ensures that handling of each sample is consistent throughout the study for overall reproducibility. Lastly, methods to document population size and population distribution of C. elegans life stages in a given LSCP are presented.},
+keywords ={},
+note ={https://danhiggins.org/data/papers_technical/2020ShaverJoVE.pdf},
+journal ={},
+volume ={},
+pages ={},
+source={8242663954153e9517d25e42b4f239e25d7170781e8f8fdacf80753c014b010c}
+}
+
+@Article{
+author ={Christian Gebhardt and Pascal Bawidamann and Konstantin Schütze and Gabriel G. Moya Muñoz and Anna-Katharina Spring and Douglas A. Griffith and Jan Lipfert and Thorben Cordes},
+title ={Labelizer: systematic selection of protein residues for covalent fluorophore labeling},
+year ={2023},
+doi ={10.1101/2023.06.12.544586},
+abstract ={An essential requirement for the use of fluorescent dyes in biomedicine, molecular biology, biochemistry, biophysics and optical imaging is their (covalent) attachment to biomolecules. There is, however, no systematic and automated approach for the selection of suitable labeling sites in macromolecules, which is particular problematic for proteins. Here, we present a general and quantitative strategy to identify optimal residues for protein labeling using a naïve Bayes classifier. Based on a literature search and bioinformatics analysis of >100 proteins with ~400 successfully labeled residues, we identified four parameters, which we combined into a labeling score to rank residues for their suitability as a label-site. The utility of our approach for the systematic selection of single residues and residue pairs for FRET experiments is supported by data from the literature and by new experiments on different proteins. To make the method available to a large community of researchers, we developed a python package called "labelizer", that performs an analysis of a pdb-structure (or structural models), label score calculation, and FRET assay scoring. We further provide a webserver (https://labelizer.bio.lmu.de/) to conveniently apply our approach and to build up a central open-access database of (non-)successfully labeled protein residues to continuously improve and refine the labelizer approach.},
+keywords ={},
+note ={https://danhiggins.org/data/papers_technical/2023.06.12.544586v1.full.pdf},
+journal ={},
+volume ={N/A},
+pages ={N/A},
+source={ca99cb9bfc2a4e3c1087099c82c74a858ae7bc9b749ec3b46fca79fe4b532ac9}
+}
+
+@Article{
+author ={Susami, Kazuki and Ikeda, Shuntaro and Hoshino, Yoichiro and Honda, Shinnosuke and Minami, Naojiro},
+title ={Genome-wide profiling of histone H3K4me3 and H3K27me3 modifications in individual blastocysts by CUT&Tag without a solid support (NON-TiE-UP CUT&Tag)},
+year ={},
+doi ={10.1038/s41598-022-15417-x},
+abstract ={Individual analysis of the epigenome of preimplantation embryos is useful for characterizing each embryo and for investigating the effects of environmental factors on their epigenome. However, it is difficult to analyze genome-wide epigenetic modifications, especially histone modifications, in a large number of single embryos due to the small number of cells and the complexity of the analysis methods. To solve this problem, we further modified the CUT&Tag method, which can analyze histone modifications in a small number of cells, such that the embryo is handled as a cell mass in the reaction solutions in the absence of the solid-phase magnetic beads that are used for antibody and enzyme reactions in the conventional method (NON-TiE-UP CUT&Tag; NTU-CAT). By using bovine blastocysts as a model, we showed that genome-wide profiles of representative histone modifications, H3K4me3 and H3K27me3, could be obtained by NTU-CAT that are in overall agreement with the conventional chromatin immunoprecipitation-sequencing (ChIP-seq) method, even from single embryos. However, this new approach has limitations that require attention, including false positive and negative peaks and lower resolution for broad modifications. Despite these limitations, we consider NTU-CAT a promising replacement for ChIP-seq with the great advantage of being able to analyze individual embryos.},
+keywords ={},
+note ={https://danhiggins.org/data/papers_technical/s41598-022-15417-x.pdf},
+journal ={},
+volume ={},
+pages ={},
+source={47234847617b64d10c11d85a4cdfb36a7809b9c27ed1142fa13ef6b3c5f6cfc2}
+}
+
+@Article{
+author ={Han, Mei and Wei, Guifeng and Mcmanus, Catherine and Reinke, Valerie},
+title ={A simple and effective method to isolate germ nuclei from C. elegans for genomic assays},
+year ={},
+doi ={10.1101/371351},
+abstract ={The wide variety of specialized permissive and repressive mechanisms by which germ cells regulate developmental gene expression are not well understood genomewide. Isolation of germ cells with high integrity and purity from living animals is necessary to address these open questions, but no straightforward methods are currently available. Here we present an experimental paradigm that permits the isolation of the nuclei from C. elegans germ cells at quantities sufficient for genomic analyses. We demonstrate that these nuclei represent a very pure population and are suitable for both chromatin immunoprecipitation (ChIP-seq) and transcriptome (RNA-seq) analyses. The method does not require specialized transgenic strains or growth conditions and can be readily adopted by other researchers with minimal troubleshooting. This new capacity removes a major barrier in the field to dissect gene expression mechanisms in the germ line of C. elegans. Consequent discoveries using this technology will be relevant to conserved regulatory mechanisms across species.},
+keywords ={C. elegans, germ cells, gene expression, genomics, method development},
+note ={https://danhiggins.org/data/papers_technical/371351v1.full.pdf},
+journal ={},
+volume ={},
+pages ={},
+source={077776d257986c424198f75ff0a2d7a22ba10452e839a835ae72b599d65ecf38}
+}
+
+@Article{
+author ={Lionel Chia and David Mayhew and Brenna Sherbanee and David L. Lahr and Asad M. Taherbhoy},
+title ={Hijacking the transcriptional activation potential of the BAF complex via Induced Proximity},
+year ={2023},
+doi ={10.1101/2023.12.18.572217},
+abstract ={},
+keywords ={},
+note ={https://danhiggins.org/data/papers_technical/2023.12.18.572217v2.full.pdf},
+journal ={},
+volume ={N/A},
+pages ={N/A},
+source={1372ca964b71d7e40b1300e6d179557a544f213df77c75bae59e8c39ec5b0e2b}
+}
+
+@Article{
+author ={Chenguang Liang and Sue Murray and Yang Li and Richard Lee and Audrey Low and Shruti Sasaki and Austin W.T. Chiang and Wen-Jen Lin and Joel Mathews and Will Barnes and Nathan E. Lewis},
+title ={LipidSIM: Inferring mechanistic lipid biosynthesis perturbations from lipidomics with a flexible, low-parameter, Markov modeling framework},
+year ={2024},
+doi ={10.1016/j.ymben.2024.01.004},
+abstract ={Lipid metabolism is a complex and dynamic system involving numerous enzymes at the junction of multiple metabolic pathways. Disruption of these pathways leads to systematic dyslipidemia, a hallmark of many pathological developments, such as nonalcoholic steatohepatitis and diabetes. Recent advances in computational tools can provide insights into the dysregulation of lipid biosynthesis, but limitations remain due to the complexity of lipidomic data, limited knowledge of interactions among involved enzymes, and technical challenges in standardizing across different lipid types. Here, we present a low-parameter, biologically interpretable framework named Lipid Synthesis Investigative Markov model (LipidSIM), which models and predicts the source of perturbations in lipid biosynthesis from lipidomic data. LipidSIM achieves this by accounting for the interdependency between the lipid species via the lipid biosynthesis network and generates testable hypotheses regarding changes in lipid biosynthetic reactions. This feature allows the integration of lipidomics with other omics types, such as transcriptomics, to elucidate the direct driving mechanisms of altered lipidomes due to treatments or disease progression. To demonstrate the value of LipidSIM, we first applied it to hepatic lipidomics following Keap1 knockdown and found that changes in mRNA expression of the lipid pathways were consistent with the LipidSIM-predicted fluxes. Second, we used it to study lipidomic changes following intraperitoneal injection of CCl 4 to induce fast NAFLD/NASH development and the progression of fibrosis and hepatic cancer. Finally, to show the power of LipidSIM for classifying samples with dyslipidemia, we used a Dgat2-knockdown study dataset. Thus, we show that as it demands no a priori knowledge of enzyme kinetics, LipidSIM is a valuable and intuitive framework for extracting biological insights from complex lipidomic data.},
+keywords ={},
+note ={https://danhiggins.org/data/papers_technical/1-s2.0-S1096717624000107-main.pdf},
+journal ={Metabolic Engineering},
+volume ={82},
+pages ={110-122},
+source={67995cd094c564e2628839f9c9edd114ab93863fac051a971d8515b92b7ac33a}
+}
+
+@Article{
+author ={Sigmond, Timea and Fehe, Judit and Baksa, Attila and Pa, Gabriella and Pa, Zsolt and Taka ´cs-Vellai, Krisztina and ´nos Kova, Ja and Vellai, Tibor and Kova, Attila and Contents, †},
+title ={Qualitative and Quantitative Characterization of Autophagy in Caenorhabditis elegans by Electron Microscopy},
+year ={},
+doi ={10.1016/S0076-6879(08)03228-X},
+abstract ={},
+keywords ={},
+note ={https://danhiggins.org/data/papers_technical/1-s2.0-S007668790803228X-main.pdf},
+journal ={},
+volume ={},
+pages ={},
+source={fa29571339790c1d399b3e5ee0876ec82a5a5cecafb8b573afd196752ad4d0e9}
+}
+
+@Article{
+author ={Mcdonald, Jeffrey and Ejsing, Christer and Kopczynski, Dominik and Holčapek, Michal and Aoki, Junken and Arita, Makoto and Arita, Masanori and Baker, Erin and Bertrand-Michel, Justine and Bowden, John and Brügger, Britta and Ellis, Shane and Fedorova, Maria and Griffiths, William and Han, Xianlin and Hartler, Jürgen and Hoffmann, Nils and Koelmel, Jeremy and Köfeler, Harald and Mitchell, Todd and O'donnell, Valerie and Saigusa, Daisuke and Schwudke, Dominik and Shevchenko, Andrej and Ulmer, Candice and Wenk, Markus and Witting, Michael and Wolrab, Denise and Xia, Yu and Ahrends, Robert and Liebisch, Gerhard and Ekroos, Kim},
+title ={Introducing the Lipidomics Minimal Reporting Checklist},
+year ={},
+doi ={},
+abstract ={The rapid increase in lipidomic data has triggered a community-based movement to develop guidelines and minimum requirements for generating, reporting and publishing lipidomic data. The creation of a dynamic checklist summarizing key details of lipidomic analyses using a common language has the potential to harmonize the field by improving both traceability and reproducibility.},
+keywords ={},
+note ={https://danhiggins.org/data/papers_technical/s42255-022-00628-3.pdf},
+journal ={},
+volume ={},
+pages ={},
+source={32b6a9a24e6b6017837cdd719c7b85c4b58c22e31f44ef8b712e9d4c038a68e8}
+}
+
+@Article{
+author ={Adrián Fragoso-Luna and Raquel Romero-Bueno and Michael Eibl and Cristina Ayuso and Celia Muñoz-Jiménez and Vladimir Benes and Ildefonso Cases and Peter Askjaer},
+title ={Expanded FLP toolbox for spatiotemporal protein degradation and transcriptomic profiling in <i>Caenorhabditis elegans</i>},
+year ={2022},
+doi ={10.1093/genetics/iyac166},
+abstract ={Control of gene expression in specific tissues and/or at certain stages of development allows the study and manipulation of gene function with high precision. Site-specific genome recombination by the flippase (FLP) and cyclization recombination (Cre) enzymes has proved particularly relevant. Joint efforts of many research groups have led to the creation of efficient FLP and Cre drivers to regulate gene expression in a variety of tissues in Caenorhabditis elegans. Here, we extend this toolkit by the addition of FLP lines that drive recombination specifically in distal tip cells, the somatic gonad, coelomocytes, and the epithelial P lineage. In some cases, recombination-mediated gene knockouts do not completely deplete protein levels due to persistence of long-lived proteins. To overcome this, we developed a spatiotemporally regulated degradation system for green fluorescent fusion proteins based on FLP-mediated recombination. Using 2 stable nuclear pore proteins, MEL-28/ELYS and NPP-2/NUP85 as examples, we report the benefit of combining tissue-specific gene knockout and protein degradation to achieve complete protein depletion. We also demonstrate that FLP-mediated recombination can be utilized to identify transcriptomes in a C. elegans tissue of interest. We have adapted RNA polymerase DamID for the FLP toolbox and by focusing on a wellcharacterized tissue, the hypodermis, we show that the vast majority of genes identified by RNA polymerase DamID are known to be expressed in this tissue. These tools allow combining FLP activity for simultaneous gene inactivation and transcriptomic profiling, thus enabling the inquiry of gene function in various complex biological processes.},
+keywords ={DamID, FLP/FRT recombination, GFPdeg, RAPID, spatiotemporal gene expression control, targeted protein degradation},
+note ={https://danhiggins.org/data/papers_technical/iyac166.pdf},
+journal ={Genetics},
+volume ={223},
+pages ={N/A},
+source={05ef698224f2603996abc8e241fcda4d1a8b45b5c30e4dd8af6e3c61d2e32c5e}
+}
+
+@Article{
+author ={Isaiah A A Neve and Jessica N Sowa and Chih-Chun J Lin and Priya Sivaramakrishnan and Christophe Herman and Youqiong Ye and Leng Han and Meng C Wang},
+title ={<i>Escherichia coli</i> Metabolite Profiling Leads to the Development of an RNA Interference Strain for <i>Caenorhabditis elegans</i>},
+year ={2019},
+doi ={10.1534/g3.119.400741},
+abstract ={The relationship of genotypes to phenotypes can be modified by environmental inputs. Such crucial environmental inputs include metabolic cues derived from microbes living together with animals. Thus, the analysis of genetic effects on animals' physiology can be confounded by variations in the metabolic profile of microbes. Caenorhabditis elegans exposed to distinct bacterial strains and species exhibit phenotypes different at cellular, developmental, and behavioral levels. Here we reported metabolomic profiles of three Escherichia coli strains, B strain OP50, K-12 strain MG1655, and B-K-12 hybrid strain HB101, as well as different mitochondrial and fat storage phenotypes of C. elegans exposed to MG1655 and HB101 vs. OP50. We found that these metabolic phenotypes of C. elegans are not correlated with overall metabolic patterning of bacterial strains, but their specific metabolites. In particular, the fat storage phenotype is traced to the betaine level in different bacterial strains. HT115 is another K-12 E. coli strain that is commonly utilized to elicit an RNA interference response, and we showed that C. elegans exposed to OP50 and HT115 exhibit differences in mitochondrial morphology and fat storage levels. We thus generated an RNA interference competent OP50 (iOP50) strain that can robustly and consistently knockdown endogenous C. elegans genes in different tissues. Together, these studies suggest the importance of specific bacterial metabolites in regulating the host's physiology and provide a tool to prevent confounding effects when analyzing genotype-phenotype interactions under different bacterial backgrounds.},
+keywords ={},
+note ={https://danhiggins.org/data/papers_technical/g3journal0189.pdf},
+journal ={G3 Genes|Genomes|Genetics},
+volume ={10},
+pages ={189-198},
+source={ea78a645584703212af5b324781b88f2761173fc9b64c8acb7d06bfb91b30635}
+}
+
+@Article{
+author ={Nishant Thakur and Nathalie Pujol and Laurent Tichit and Jonathan J Ewbank},
+title ={Clone Mapper: An Online Suite of Tools for RNAi Experiments in <i>Caenorhabditis elegans</i>},
+year ={2014},
+doi ={10.1534/g3.114.013052},
+abstract ={RNA interference (RNAi), mediated by the introduction of a specific double-stranded RNA, is a powerful method to investigate gene function. It is widely used in the Caenorhabditis elegans research community. An expanding number of laboratories conduct genome-wide RNAi screens, using standard libraries of bacterial clones each designed to produce a specific double-stranded RNA. Proper interpretation of results from RNAi experiments requires a series of analytical steps, from the verification of the identity of bacterial clones, to the identification of the clones' potential targets. Despite the popularity of the technique, no user-friendly set of tools allowing these steps to be carried out accurately, automatically, and at a large scale, is currently available. We report here the design and production of Clone Mapper, an online suite of tools specifically adapted to the analysis pipeline typical for RNAi experiments with C. elegans. We show that Clone Mapper overcomes the limitations of existing techniques and provide examples illustrating its potential for the identification of biologically relevant genes. The Clone Mapper tools are freely available via http://www.ciml.univ-mrs.fr/EWBANK_jonathan/software.html.},
+keywords ={},
+note ={https://danhiggins.org/data/papers_technical/g3journal2137.pdf},
+journal ={G3 Genes|Genomes|Genetics},
+volume ={4},
+pages ={2137-2145},
+source={3a6e35ff91d5478178bdf4c22c0bd04acca133f7e80139e8b6ecb23a1c41e71b}
+}
+
+@Article{
+author ={Javier García-Nafría and Jake F. Watson and Ingo H. Greger},
+title ={IVA cloning: A single-tube universal cloning system exploiting bacterial In Vivo Assembly},
+year ={2016},
+doi ={10.1038/srep27459},
+abstract ={},
+keywords ={},
+note ={https://danhiggins.org/data/papers_technical/srep27459.pdf},
+journal ={Scientific Reports},
+volume ={6},
+pages ={N/A},
+source={ca80db0f10a1f2b0cf9b9fa416f6719c45c90dad938d52acd06b16463ff145ad}
+}
+
+@Article{
+author ={Sharma, Nidhi and Marques, Filipe and Kratsios, Paschalis},
+title ={Efficacy of auxin-inducible protein degradation in C. elegans tissues using different auxins and TIR1expressing strains},
+year ={},
+doi ={10.1101/2024.01.16.575916},
+abstract ={The auxin-inducible degradation system has emerged as a powerful tool to deplete proteins of interest in cells and tissues of various model organisms, including C. elegans 2-5. Here, we present a detailed protocol to perform AID-driven spatiotemporal depletion of specific proteins in C. elegans tissues. First, we introduced the AID degron and a fluorescent reporter at two conserved proteins: (a) the transcription factor CFI-1 (human ARID3), which is expressed in the nucleus of multiple C. elegans neurons and head muscle cells 6,7 , and (b) the broadly expressed translation initiation factor Y47D3A.21 (human DENR) that localizes in the cytoplasm. Second, we provide a step-by-step guide on how to generate C. elegans strains suitable for AIDmediated protein (CFI-1 and DENR) depletion. Third, we find that the degree of CFI-1 and DENR depletion in C. elegans tissues is comparable upon treatment with either natural auxin (indole-3-acetic acid (IAA) or a water-soluble synthetic auxin analog (K-NAA). Last, we compare the degree of AID-mediated CFI-1 depletion in C. elegans neurons when the transport inhibitor response 1 (TIR1), component of the SCF ubiquitin ligase complex, is provided in neurons or all somatic cells. Altogether, this protocol provides side-by-side comparisons of different auxins and TIR1-expressing lines. Such comparisons may benefit future studies of AID-mediated protein depletion in C. elegans.},
+keywords ={},
+note ={https://danhiggins.org/data/papers_technical/2024.01.16.575916v1.full.pdf},
+journal ={},
+volume ={},
+pages ={},
+source={912c8a9db7c2d596f8f341e873cae493feadb8b22af7a86617893fdc028ae542}
+}
+
+@Article{
+author ={Jonathan D. Hibshman and Amy K. Webster and L. Ryan Baugh},
+title ={Liquid-culture protocols for synchronous starvation, growth, dauer formation, and dietary restriction of Caenorhabditis elegans},
+year ={2021},
+doi ={10.1016/j.xpro.2020.100276},
+abstract ={Standard laboratory culture of Caenorhabditis elegans utilizes solid growth media with a bacterial food source. However, this culture method limits control of food availability and worm population density, factors that impact many life-history traits. Here, we describe liquid-culture protocols for precisely modulating bacterial food availability and population density, facilitating reliable production of arrested L1 larvae, dauer larvae, dietarily restricted worms, or well-fed worms. Worms can be grown in small quantities for standard assays or in the millions for other applications.},
+keywords ={Ad libitum food Dietary restriction Applicat ion I, L1 arrest Application III, Dauer diapause Mixed stages Application II, Large-scale liquid culture},
+note ={https://danhiggins.org/data/papers_technical/1-s2.0-S266616672030263X-main.pdf},
+journal ={STAR Protocols},
+volume ={2},
+pages ={100276},
+source={c19d4a77f2604e02556ce99b9609f8e41fd7356cee57528763f64ca0f0c19e21}
+}
+
+@Article{
+author ={Gabriela C Monsalve and Keith R Yamamoto and Jordan D Ward},
+title ={A New Tool for Inducible Gene Expression in <i>Caenorhabditis elegans</i>},
+year ={2018},
+doi ={10.1534/genetics.118.301705},
+abstract ={Controlling protein activity and localization is a key tool in modern biology. Mammalian steroid receptor ligand-binding domain (LBD) fusions have been used in a range of organisms and cell types to inactivate proteins of interest until the cognate steroid ligand is applied. Here, we demonstrate that the glucocorticoid receptor LBD confers ligand-gated control of a heterologous gene expression system (Q system) and the DAF-16 transcription factor in Caenorhabditis elegans. These experiments provide a powerful tool for temporal control of protein activity, and will bolster existing tools used to modulate gene expression and protein activity in this animal.},
+keywords ={Glucocorticoid receptor, ligand-binding domain, drug inducible, gene expression, Caenorhabditis elegans},
+note ={https://danhiggins.org/data/papers_technical/tgh419.pdf},
+journal ={Genetics},
+volume ={211},
+pages ={419-430},
+source={936f555aa53fe6b7738c83135af750f869e5844121d54fdf790215f0c9529372}
+}
+
+@Article{
+author ={Schmie, Christopher and Nelson, Michael and Avil, Sergiy and Bakk, Gert-Jan and Bertocc, Cristina and Bisch, Johanna and Boehm, Ulrike and Brocher, Ja and Carvalho, Maria and Chiritescu, Catal and Christoph, Jana and Cimi, Beth and Con-Sousa, Eduardo and Ebner, Michael and Eck, Rupert and Eliceir, Kevin and Fernandez-Rodrigue, Julia and Gaudreau, Nathal and Gelma, Laurent and Grunwald, David and Gu, Tingting and Hali, Nadia and Hammer, Mathias and Hartley, Matthew and Held, Mari and Jug, Flori and Kapo, Varun and Koks, Ayse and Lacoste, Judith and Le Dévéde, Sylvia and Le Guyade, Sylvie and Liu, Penghua and Marti, Gabriel and Mathur, Aastha and Miura, Kota and Llopis, Paula and Nitschk, Roland and North, Alison and Parslow, Adam and Payne-Dwyer, Alex and Plantard, Lau and Ali, Rizwan and Schroth-Di, Britta and Schütz, Lucas and Scott, Ryan and Seitz, Arne and Selchow, Ola and Sharma, Ved and Spitaler, Mart and Srinivasa, Sathya and Strambio-De-Castill, Caterina and Taatjes, Douglas and Tischer, Christian and Helena, & and Jambor, Klara},
+title ={nature methods Perspective},
+year ={2023},
+doi ={10.1038/s41592-023-01987-9},
+abstract ={},
+keywords ={},
+note ={https://danhiggins.org/data/papers_technical/s41592-023-01987-9.pdf},
+journal ={},
+volume ={},
+pages ={},
+source={c5b3bcdf1701b5dd5bfad4ce29f1a04b9eb47d0dee9f812665a5425f6cdc1df3}
+}
+
+@Article{
+author ={Valentyna Zinchenko and Johannes Hugger and Virginie Uhlmann and Detlev Arendt and Anna Kreshuk},
+title ={MorphoFeatures for unsupervised exploration of cell types, tissues, and organs in volume electron microscopy},
+year ={2023},
+doi ={10.7554/eLife.80918},
+abstract ={Electron microscopy (EM) provides a uniquely detailed view of cellular morphology, including organelles and fine subcellular ultrastructure. While the acquisition and (semi-)automatic segmentation of multicellular EM volumes are now becoming routine, large-scale analysis remains severely limited by the lack of generally applicable pipelines for automatic extraction of comprehensive morphological descriptors. Here, we present a novel unsupervised method for learning cellular morphology features directly from 3D EM data: a neural network delivers a representation of cells by shape and ultrastructure. Applied to the full volume of an entire three-segmented worm of the annelid Platynereis dumerilii, it yields a visually consistent grouping of cells supported by specific gene expression profiles. Integration of features across spatial neighbours can retrieve tissues and organs, revealing, for example, a detailed organisation of the animal foregut. We envision that the unbiased nature of the proposed morphological descriptors will enable rapid exploration of very different biological questions in large EM volumes, greatly increasing the impact of these invaluable, but costly resources.},
+keywords ={},
+note ={https://danhiggins.org/data/papers_technical/elife-80918-v1.pdf},
+journal ={eLife},
+volume ={12},
+pages ={N/A},
+source={a266d8acdb85a3bb0555852c811126e1bbd075242daf35f88b547d986aebc3a2}
+}
+
+@Article{
+author ={Weiliang Huang and Angela Wilks},
+title ={A rapid seamless method for gene knockout in Pseudomonas aeruginosa},
+year ={2017},
+doi ={10.1186/s12866-017-1112-5},
+abstract ={Background: Pseudomonas aeruginosa is a model organism for the study of quorum sensing, biofilm formation, and also leading cause of nosocomial infections in immune compromised patients. As such P. aeruginosa is one of the most well studied organisms in terms of its genetics. However, the construction of gene deletions and replacements in Pseudomonas aeruginosa is relatively time-consuming, requiring multiple steps including suicide vector construction, conjugation, inactivation with insertion of antibiotic resistance cassettes and allelic exchange. Even employing Gateway recombineering techniques with direct transformation requires a minimum two weeks. Methods: We have developed a rapid streamlined method to create clean deletion mutants in P. aeruginosa through direct transformation, eliminating the need for the creation of Gateway-compatible suicide vectors. In this method, upstream and downstream sequences of the gene/locus to be deleted are amplified by polymerase chain reaction (PCR) and seamlessly fused with the linearized pEX18Tc sacB suicide plasmid by Gibson assembly. The resulting deletion plasmid is transformed into P. aeruginosa by an electroporation method optimized in this study. The plasmid is then integrated into the chromosome by homologous recombination, and deletion mutants are identified via sacB mediated sucrose counter-selection. Results: The current method was employed to generate clean gene deletions of the heme assimilation system anti-σ factor, hasS and the virulence regulator involving ECF system anti-σ and σ factors vreA and vreI, respectively. The process from plasmid construction to confirmation by DNA sequencing of the gene deletion was completed in one week. Furthermore, the utility of the method is highlighted in the construction of the vreA and vreI deletions, where the start codon of vreA and the stop codon of vreI overlap. Utilizing Gibson assembly deletion mutants were constructed with single base pair precision to generate the respective vreA and vreI deletions, while maintaining the start and stop codon of the respective genes. Overall, this method allows for rapid construction of gene deletions in P. aeruginosa with base pair precision. Conclusion: This method from the construction of the suicide vector to sequence confirmation of the unmarked gene deletion can be performed in one week, without the requirement for expensive proprietary reagents or instruments. The precision of Gibson assembly and the fact the accuracy in generating the desirable construct is 95%, makes this a viable and attractive alternative to previous methods.},
+keywords ={Pseudomonas Aeruginosa, Genetic knockout, Gibson assembly},
+note ={https://danhiggins.org/data/papers_technical/s12866-017-1112-5.pdf},
+journal ={BMC Microbiology},
+volume ={17},
+pages ={N/A},
+source={2caa7547de868d3106a6b6790a7cb588b48ae3588e4ddfb446e18057ec7af166}
+}
+
+@Article{
+author ={Michael L Nonet},
+title ={Rapid generation of <i>Caenorhabditis elegans</i> single-copy transgenes combining recombination-mediated cassette exchange and drug selection},
+year ={2023},
+doi ={10.1093/genetics/iyad072},
+abstract ={I outline a streamlined method to insert large, single-copy transgenes into the Caenorhabditis elegans genome using recombinationmediated cassette exchange (RMCE) that relies solely on drug selection yielding a homozygous fluorescent protein (FP) marked transgene in 3 generations (8 days) at high efficiency (>1 insertion per 2 injected P0 animals). Landing sites for this approach are available on four chromosomes in several configurations which yield lines marked in distinct cell types. An array of vectors permit creating transgenes using a variety of selection methods (HygR, NeoR, PuroR, and unc-119) that yield lines expressing different colored FPs (BFP, GFP, mNG, and Scarlet). Although these transgenes retain a plasmid backbone and a selection marker, the inclusion of these sequences typically does not alter the expression of several cell-specific promoters tested. However, in certain orientations, promoters exhibit crosstalk with adjacent transcription units. In cases where crosstalk is problematic, the loxP-flanked fluorescent marker, plasmid backbone, and hygR gene can be excised by crossing through germline Cre expressing lines also created using this technique. Finally, genetic and molecular reagents designed to facilitate customization of both targeting vectors and landing sites are also described. Together, the rapid RMCE toolbox provides a platform for developing further innovative uses of RMCE to create complex genetically engineered tools.},
+keywords ={Cre recombinase, FLP recombinase, promoter crosstalk},
+note ={https://danhiggins.org/data/papers_technical/iyad072.pdf},
+journal ={GENETICS},
+volume ={224},
+pages ={N/A},
+source={c851ea061f8953c212400e429566653c03c7adf1f6354fae6a4674e51abbc83e}
+}
+
+@Article{
+author ={Tatiana Maroilley and K M Tahsin Hassan Rahit and Afiya Razia Chida and Filip Cotra and Victoria Rodrigues Alves Barbosa and Maja Tarailo-Graovac},
+title ={Model Organism Modifier (MOM): a user-friendly Galaxy workflow to detect modifiers from genome sequencing data using <i>Caenorhabditis elegans</i>},
+year ={2023},
+doi ={10.1093/g3journal/jkad184},
+abstract ={Genetic modifiers are variants modulating phenotypic outcomes of a primary detrimental variant. They contribute to rare diseases phenotypic variability, but their identification is challenging. Genetic screening with model organisms is a widely used method for demystifying genetic modifiers. Forward genetics screening followed by whole genome sequencing allows the detection of variants throughout the genome but typically produces thousands of candidate variants making the interpretation and prioritization process very time-consuming and tedious. Despite whole genome sequencing is more time and cost-efficient, usage of computational pipelines specific to modifier identification remains a challenge for biological-experiment-focused laboratories doing research with model organisms. To facilitate a broader implementation of whole genome sequencing in genetic screens, we have developed Model Organism Modifier or MOM, a pipeline as a user-friendly Galaxy workflow. Model Organism Modifier analyses raw short-read whole genome sequencing data and implements tailored filtering to provide a Candidate Variant List short enough to be further manually curated. We provide a detailed tutorial to run the Galaxy workflow Model Organism Modifier and guidelines to manually curate the Candidate Variant Lists. We have tested Model Organism Modifier on published and validated Caenorhabditis elegans modifiers screening datasets. As whole genome sequencing facilitates high-throughput identification of genetic modifiers in model organisms, Model Organism Modifier provides a user-friendly solution to implement the bioinformatics analysis of the short-read datasets in laboratories without expertise or support in Bioinformatics.},
+keywords ={Caenorhabditis elegans, genetic screening, modifiers, bioinformatics pipeline, short-read whole genome sequencing, galaxy},
+note ={https://danhiggins.org/data/papers_technical/jkad184.pdf},
+journal ={G3: Genes, Genomes, Genetics},
+volume ={13},
+pages ={N/A},
+source={10f5af780f84f4c3d0cbd64d31d80cba9f9d9bc1c5e9a708907952335cbb4a15}
+}
+
+@Article{
+author ={Ghaddar, Abbas and Ke, Wenfan and O'rourke, Eyleen},
+title ={Immunostaining of intact C. elegans using polyacrylamide embedding},
+year ={2022},
+doi ={10.1016/j.xpro.2022.101956},
+abstract ={Immunostaining of intact C. elegans using polyacrylamide embedding A major barrier to immunostaining Caenorhabditis elegans is the permeabilization of the worm's cuticle without distorting or damaging its body. We present here a gel-based immobilization protocol for fixed worms coupled with chemical and enzymatic permeabilization. The permeabilization is followed by antibody staining and fluorescent imaging. This protocol can be modified for different fixatives, permeabilizing reagents, or molecular readouts. Unlike previous immunostaining approaches, such as freeze cracking or dissection, this protocol enables immunostaining across the whole body of a well-preserved C. elegans.},
+keywords ={},
+note ={https://danhiggins.org/data/papers_technical/1-s2.0-S266616672200836X-main.pdf},
+journal ={},
+volume ={},
+pages ={},
+source={2a8e9250cbf428a205bdff63efda777fb9733c5c1f0e364340122ec181a97e51}
+}
+
+@Article{
+author ={Omer Shafraz and Carolyn Marie Orduno Davis and Sanjeevi Sivasankar},
+title ={Light Activated BioID (LAB): an optically activated proximity labeling system to study protein-protein interactions},
+year ={2022},
+doi ={10.1101/2022.10.22.513249},
+abstract ={Proximity labeling with genetically encoded enzymes is widely used to study proteinprotein interactions in cells. However, the resolution and accuracy of proximity labeling methods are limited by a lack of control over the enzymatic labeling process. Here, we present a high spatial and temporal resolution technology that can be activated on demand using light, for high accuracy proximity labeling. Our system, called Light Activated BioID (LAB), is generated by fusing the two halves of the split-TurboID proximity labeling enzyme to the photodimeric proteins CRY2 and CIB1. Using live cell imaging, immunofluorescence, western blotting, and mass spectrometry, we show that upon exposure to blue light, CRY2 and CIB1 dimerize, reconstitute the split-TurboID enzyme, and biotinylate proximate proteins. Turning off the light halts the biotinylation reaction. We validate LAB in different cell types and demonstrate that it can identify known binding partners of proteins while reducing background labeling and false positives.},
+keywords ={},
+note ={https://danhiggins.org/data/papers_technical/2022.10.22.513249v2.full.pdf},
+journal ={},
+volume ={N/A},
+pages ={N/A},
+source={9e2473e4b2949c07a03b48bb5c400124d7a3908e0f68072495e8a56de0db40b2}
+}
+
+@Article{
+author ={Vincent J. Lanier and Amanda M. White and Serge Faumont and Shawn R. Lockery},
+title ={Theory and practice of using cell strainers to sort Caenorhabditis elegans by size},
+year ={2023},
+doi ={10.1101/2023.01.07.523116},
+abstract ={The nematode Caenorhabditis elegans is a model organism widely used in basic, translational, and industrial research. C. elegans development is characterized by five morphologically distinct stages, including four larval stages and the adult stage. Stages differ in a variety of aspects including size, gene expression, physiology, and behavior. Enrichment for a particular developmental stage is often the first step in experimental design. When many hundreds of worms are required, the standard methods of enrichment are to grow a synchronized population of hatchlings for a fixed time, or to sort a mixed population of worms according to size. Current size-sorting methods have higher throughput than synchronization and avoid its use of harsh chemicals. However, these size-sorting methods currently require expensive instrumentation or custom microfluidic devices, both of which are unavailable to the majority C. elegans laboratories. Accordingly, there is a need for inexpensive, accessible sorting strategies. We investigated the use of low-cost, commercially available cell strainers to filter C. elegans by size. We found that the probability of recovery after filtration as a function of body size for cell strainers of three different mesh sizes is well described by logistic functions. Application of these functions to predict filtration outcomes revealed non-ideal properties of filtration of worms by cell strainers that nevertheless enhanced filtration outcomes. Further, we found that serial filtration using a pair of strainers that have different mesh sizes can be used to enrich for particular larval stages with a purity close to that of synchronization, the most widely used enrichment method. Throughput of the cell strainer method, up to 14,000 worms per minute, greatly exceeds that of other enrichment methods. We conclude that size sorting by cell strainers is a useful addition to the array of existing methods for enrichment of particular developmental stages in C. elegans.},
+keywords ={},
+note ={https://danhiggins.org/data/papers_technical/2023.01.07.523116v1.full.pdf},
+journal ={},
+volume ={},
+pages ={},
+source={70e34627b1c56d3468153587a4d420b61abdb905560875204a8fe9cff6e4c42a}
+}
+
+@Article{
+author ={Laura E. Wester and Anne Lanjuin and Emanuel H.W. Bruckisch and Maria C. Perez-Matos and Peter G. Stine and Caroline Heintz and Martin S. Denzel and William B. Mair},
+title ={A single-copy knockin translating ribosome immunoprecipitation toolkit for tissue-specific profiling of actively translated mRNAs in C. elegans},
+year ={2023},
+doi ={10.1016/j.crmeth.2023.100433},
+abstract ={Highlights d ''SKI TRIP'' toolkit for translating ribosome immunoprecipitation in C. elegans d Single-copy transgenes that express tagged and functional ribosomal subunit RPL-22 d Cleanly captures cell-type-specific mRNAs from intestine, neurons, and muscle},
+keywords ={},
+note ={https://danhiggins.org/data/papers_technical/PIIS2667237523000486.pdf},
+journal ={Cell Reports Methods},
+volume ={3},
+pages ={100433},
+source={a092dcc60f8598e998782a3746f6d8e8a8f28d22b6983c4780da2d5873be4911}
+}
+
+@Article{
+author ={Aleksandra Zečić and Ineke Dhondt and Bart P. Braeckman},
+title ={The nutritional requirements of Caenorhabditis elegans},
+year ={2019},
+doi ={10.1186/s12263-019-0637-7},
+abstract ={Animals require sufficient intake of a variety of nutrients to support their development, somatic maintenance and reproduction. An adequate diet provides cell building blocks, chemical energy to drive cellular processes and essential nutrients that cannot be synthesised by the animal, or at least not in the required amounts. Dietary requirements of nematodes, including Caenorhabditis elegans have been extensively studied with the major aim to develop a chemically defined axenic medium that would support their growth and reproduction. At the same time, these studies helped elucidating important aspects of nutrition-related biochemistry and metabolism as well as the establishment of C. elegans as a powerful model in studying evolutionarily conserved pathways, and the influence of the diet on health.},
+keywords ={Caenorhabditis elegans, Nutrition, Model organism, Diet},
+note ={https://danhiggins.org/data/papers_technical/s12263-019-0637-7.pdf},
+journal ={Genes &amp; Nutrition},
+volume ={14},
+pages ={N/A},
+source={708dc48aa1b27bb3c4f0ce62fc95c5c6c11d55271913d33842c02c728c4a1d46}
+}
+
+@Article{
+author ={Hu, Di and Abbasova, Leyla and Schilder, Brian and Nott, Alexi and Skene, Nathan and Marzi, Sarah},
+title ={CUT&Tag recovers up to half of ENCODE ChIP-seq peaks},
+year ={},
+doi ={10.1101/2022.03.30.486382},
+abstract ={Techniques for genome-wide epigenetic profiling have been undergoing rapid development toward recovery of high quality data from bulk and single cell samples. DNA-protein interactions have traditionally been profiled via chromatin immunoprecipitation followed by next generation sequencing (ChIP-seq), which has become the gold standard for studying histone modifications or transcription factor binding. Cleavage Under Targets & Tagmentation (CUT&Tag) is a promising new technique, which enables profiling of such interactions in situ at high sensitivity and is adaptable to single cell applications. However thorough evaluation and benchmarking against established ChIP-seq datasets are still lacking. Here we comprehensively benchmarked CUT&Tag for H3K27ac and H3K27me3 against published ChIP-seq profiles from ENCODE in K562 cells. Across a total of 30 new and 6 published CUT&Tag datasets we found that no experiment recovers more than 50% of known ENCODE peaks, regardless of the histone mark. We tested peak callers MACS2 and SEACR, identifying optimal peak calling parameters. Balancing both precision and recall of known ENCODE peaks, SEACR without retention of duplicates showed the best performance. We found that reducing PCR cycles during library preparation lowered duplication rates at the expense of ENCODE peak recovery. Despite the moderate ENCODE peak recovery, peaks identified by CUT&Tag represent the strongest ENCODE peaks and show the same functional and biological enrichments as ChIP-seq peaks identified by ENCODE. Our workflow systematically evaluates the merits of methodological adjustments and will facilitate future efforts to apply CUT&Tag in human tissues and single cells.},
+keywords ={Epigenomics, histone modifications, CUT&Tag, ChIP-seq, NGS, ENCODE},
+note ={https://danhiggins.org/data/papers_technical/2022.03.30.486382v1.full.pdf},
+journal ={},
+volume ={},
+pages ={},
+source={9a4f1c590afbd8c821005ee6aa64e8545f968c08ef3aabf922f9cf22143e6c2b}
+}
+
+@Article{
+author ={Windgassen, Merle and Urban, Andreas and Jaeger, Karl-Erich},
+title ={Rapid gene inactivation in Pseudomonas aeruginosa},
+year ={},
+doi ={},
+abstract ={A rapid and efficient method to inactivate genes in Pseudomonas aeruginosa has been developed. It is based on pKnockout vectors which carry either a gentamicin or a streptomycin/spectinomycin resistance cassette allowing for selection in P. aeruginosa where these vectors do not replicate. A PCR fragment of the gene of interest carrying 5P-and 3P-truncations is cloned into a pKnockout vector, mobilized into P. aeruginosa, and subsequently integrated into the chromosomal copy of the target gene. The orientation of the fragment determines whether (i) the target gene is disrupted without blocking the transcription of downstream genes or (ii) the insertion exerts a polar effect thereby leading to inactivation of a whole operon.},
+keywords ={Insertional mutagenesis, Polar e¡ect, Pseudomonas aeruginosa},
+note ={https://danhiggins.org/data/papers_technical/193-2-201.pdf},
+journal ={},
+volume ={},
+pages ={},
+source={ca139d920f5a381a42e1fd34ea8cc88ef8c05ad16ca06fce50bebf64438de04c}
+}
+
+@Article{
+author ={Loïc A. Royer},
+title ={Omega — harnessing the power of large language models for bioimage analysis},
+year ={2024},
+doi ={10.1038/s41592-024-02310-w},
+abstract ={Omega-harnessing the power of large language models for bioimage analysis W},
+keywords ={},
+note ={https://danhiggins.org/data/papers_technical/s41592-024-02310-w.pdf},
+journal ={Nature Methods},
+volume ={N/A},
+pages ={N/A},
+source={b5d041c8dbae6216c2f070faeb483eef8a3109a528d4f7051dd16ea4898b6972}
+}
+
+@Article{
+author ={Jonas Michaelis and Süleyman Bozkurt and Jasmin Schäfer and Christian Münch},
+title ={Monitoring Mitochondrial Protein Import Using Mitochondrial Targeting Sequence (MTS)-eGFP},
+year ={2022},
+doi ={10.21769/BioProtoc.4578},
+abstract ={Mitochondria are cellular organelles essential for the function and survival of eukaryotic cells. Nearly all mitochondrial proteins are nuclear-encoded and require mitochondrial import upon their synthesis in the cytosol. Various approaches have been described to study mitochondrial protein import, such as monitoring the entry of radiolabeled proteins into purified mitochondria or quantifying newly synthesized proteins within mitochondria by proteomics. Here, we provide a detailed protocol for a commonly used and straightforward assay that quantitatively examines mitochondrial protein import by monitoring the co-localization of mitochondrially targeted enhanced green fluorescent protein (eGFP) with the mitochondrial fluorescence dye MitoTracker TM Deep Red FM by live cell imaging. We describe the preparation and use of a stable mammalian cell line inducibly expressing a mitochondrial targeting sequence (MTS)-eGFP, followed by quantitative image analysis using an open-source ImageJ-based plugin. This inducible expression system avoids the need for transient transfection while enabling titration of MTS-eGFP expression and thereby avoiding protein folding stress. Overall, the assay provides a simple and robust approach to assess mitochondrial import capacity of cells in various disease-related settings.},
+keywords ={Mitochondrial protein import, Microscopy, Mitochondria, Protein translocation, Live cell imaging},
+note ={https://danhiggins.org/data/papers_technical/Bio-protocol4578.pdf},
+journal ={BIO-PROTOCOL},
+volume ={12},
+pages ={N/A},
+source={38fa8bb5915799da11e8dd77805efd1bd521db132bfa31e1290e18ad58019359}
+}
+
+@Article{
+author ={Bo Xia and Dongyu Zhao and Guangyu Wang and Min Zhang and Jie Lv and Alin S. Tomoiaga and Yanqiang Li and Xin Wang and Shu Meng and John P. Cooke and Qi Cao and Lili Zhang and Kaifu Chen},
+title ={Machine learning uncovers cell identity regulator by histone code},
+year ={2020},
+doi ={10.1038/s41467-020-16539-4},
+abstract ={Conversion between cell types, e.g., by induced expression of master transcription factors, holds great promise for cellular therapy. Our ability to manipulate cell identity is constrained by incomplete information on cell identity genes (CIGs) and their expression regulation. Here, we develop CEFCIG, an artificial intelligent framework to uncover CIGs and further define their master regulators. On the basis of machine learning, CEFCIG reveals unique histone codes for transcriptional regulation of reported CIGs, and utilizes these codes to predict CIGs and their master regulators with high accuracy. Applying CEFCIG to 1,005 epigenetic profiles, our analysis uncovers the landscape of regulation network for identity genes in individual cell or tissue types. Together, this work provides insights into cell identity regulation, and delivers a powerful technique to facilitate regenerative medicine.},
+keywords ={},
+note ={https://danhiggins.org/data/papers_technical/41467_2020_Article_16539.pdf},
+journal ={Nature Communications},
+volume ={11},
+pages ={N/A},
+source={181f5ec15fe20a3967150344827aa482a653ea0fca2df035ca923cda63aaca93}
+}
+
+@Article{
+author ={Max Valentín Staller},
+title ={Transcription factors perform a 2-step search of the nucleus},
+year ={2022},
+doi ={10.1093/genetics/iyac111},
+abstract ={Transcription factors regulate gene expression by binding to regulatory DNA and recruiting regulatory protein complexes. The DNA-binding and protein-binding functions of transcription factors are traditionally described as independent functions performed by modular protein domains. Here, I argue that genome binding can be a 2-part process with both DNA-binding and protein-binding steps, enabling transcription factors to perform a 2-step search of the nucleus to find their appropriate binding sites in a eukaryotic genome. I support this hypothesis with new and old results in the literature, discuss how this hypothesis parsimoniously resolves outstanding problems, and present testable predictions.},
+keywords ={transcription factor, intrinsically disordered region, DNA-binding domain, transcriptional condensate, liquid-liquid phase separation, transcription, gene regulation, transcriptional activation domain, transcription initiation},
+note ={https://danhiggins.org/data/papers_technical/iyac111.pdf},
+journal ={Genetics},
+volume ={222},
+pages ={N/A},
+source={2492b139b44da83d01e21d4bdf3b3574e24736e467ad4f678d81e9de7eec8287}
+}
+
+@Article{
+author ={William J. Lu-Culligan and Leah J. Connor and Yixuan Xie and Babatunde E. Ekundayo and Brendan T. Rose and Martin Machyna and Andreas P. Pintado-Urbanc and Joshua T. Zimmer and Isaac W. Vock and Natarajan V. Bhanu and Megan C. King and Benjamin A. Garcia and Franziska Bleichert and Matthew D. Simon},
+title ={Acetyl-methyllysine marks chromatin at active transcription start sites},
+year ={2023},
+doi ={10.1038/s41586-023-06565-9},
+abstract ={Lysine residues in histones and other proteins can be modified by post-translational modifications that encode regulatory information 1. Lysine acetylation and methylation are especially important for regulating chromatin and gene expression 2-4. Pathways involving these post-translational modifications are targets for clinically approved therapeutics to treat human diseases. Lysine methylation and acetylation are generally assumed to be mutually exclusive at the same residue. Here we report cellular lysine residues that are both methylated and acetylated on the same side chain to form N ε-acetyl-N ε-methyllysine (Kacme). We show that Kacme is found on histone H4 (H4Kacme) across a range of species and across mammalian tissues. Kacme is associated with marks of active chromatin, increased transcriptional initiation and is regulated in response to biological signals. H4Kacme can be installed by enzymatic acetylation of monomethyllysine peptides and is resistant to deacetylation by some HDACs in vitro. Kacme can be bound by chromatin proteins that recognize modified lysine residues, as we demonstrate with the crystal structure of acetyllysinebinding protein BRD2 bound to a histone H4Kacme peptide. These results establish Kacme as a cellular post-translational modification with the potential to encode information distinct from methylation and acetylation alone and demonstrate that Kacme has all the hallmarks of a post-translational modification with fundamental importance to chromatin biology.},
+keywords ={},
+note ={https://danhiggins.org/data/papers_technical/s41586-023-06565-9.pdf},
+journal ={Nature},
+volume ={622},
+pages ={173-179},
+source={1ba1c8e8e4a4a76866d885da1ed9bf4fa7e335f1b8473538272ab2f11d223ef8}
+}
+
+@Article{
+author ={Kyu, Seong and Kwon, Hyunwoo and Yang, Jae-Seong and Kim, Sanguk and Lee, Seung-Jae},
+title ={Molecules and Cells MiniResource OASIS portable: User-friendly offline suite for secure survival analysis},
+year ={},
+doi ={10.1016/j.mocell.2024.100011},
+abstract ={Online application for survival analysis (OASIS) and its update, OASIS 2, have been widely used for survival analysis in biological and medical sciences. Here, we provide a portable version of OASIS, an all-in-one offline suite, to facilitate secure survival analysis without uploading the data to online servers. OASIS portable provides a virtualized and isolated instance of the OASIS 2 webserver, operating on the users' personal computers, and enables user-friendly survival analysis without internet connection and security issues.},
+keywords ={Survival analysis, Lifespan, Healthspan, Offline-service, Statistics},
+note ={https://danhiggins.org/data/papers_technical/1-s2.0-S1016847824000049-main.pdf},
+journal ={},
+volume ={},
+pages ={},
+source={73ca856ad743018e2c83312a90578b28d6fd230d7c362c5e97bc7fb1b43c68db}
+}
+
+@Article{
+author ={Brooks, Kyleann and Liang, Bin and Watts, Jennifer},
+title ={The Influence of Bacterial Diet on Fat Storage in C. elegans},
+year ={2009},
+doi ={10.1371/journal.pone.0007545.g001},
+abstract ={Background: The nematode Caenorhabditis elegans has emerged as an important model for studies of the regulation of fat storage. C. elegans feed on bacteria, and various strains of E. coli are commonly used in research settings. However, it is not known whether particular bacterial diets affect fat storage and metabolism. Methodology/Principal Findings: Fat staining of fixed nematodes, as well as biochemical analysis of lipid classes, revealed considerable differences in fat stores in C. elegans growing on four different E. coli strains. Fatty acid composition and carbohydrate levels differ in the E. coli strains examined in these studies, however these nutrient differences did not appear to have a causative effect on fat storage levels in worms. Analysis of C. elegans strains carrying mutations disrupting neuroendocrine and other fat-regulatory pathways demonstrated that the intensity of Nile Red staining of live worms does not correlate well with biochemical methods of fat quantification. Several neuroendocrine pathway mutants and eating defective mutants show higher or lower fat storage levels than wild type, however, these mutants still show differences in fat stores when grown on different bacterial strains. Of all the mutants tested, only pept-1 mutants, which lack a functional intestinal peptide transporter, fail to show differential fat stores. Furthermore, fatty acid analysis of triacylglycerol stores reveals an inverse correlation between total fat stores and the levels of 15-methylpalmitic acid, derived from leucine catabolism. Conclusions: These studies demonstrate that nutritional cues perceived in the intestine regulate fat storage levels independently of neuroendocrine cues. The involvement of peptide transport and the accumulation of a fatty acid product derived from an amino acid suggest that specific peptides or amino acids may provide nutritional signals regulating fat metabolism and fat storage levels.},
+keywords ={},
+note ={https://danhiggins.org/data/papers_technical/file0987.pdf},
+journal ={},
+volume ={},
+pages ={},
+source={cfa6e18d04ddf1f95eba853ac4275166bf96099f4681685cf78a66ae7c54649d}
+}
+

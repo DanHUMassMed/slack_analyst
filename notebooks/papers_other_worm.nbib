@@ -1,0 +1,1403 @@
+@Article{
+author ={Aprison, Erin and Dzitoyeva, Svetlana and Angeles-Albores, David and Ruvinsky, Ilya},
+title ={A male pheromone that improves the quality of the oogenic germline},
+year ={},
+doi ={},
+abstract ={},
+keywords ={},
+note ={https://danhiggins.org/data/papers_other_worm/Aprison-2022-A-male-pheromone-that-improves-the-.pdf},
+journal ={},
+volume ={},
+pages ={},
+source={661cf4d807a5ad8a63b4fce87952016a0a81bdc63e74bed8b5464a6d7a629563}
+}
+
+@Article{
+author ={Jiao Meng and Zhenyu Lv and Yuanyuan Wang and Chang Chen},
+title ={Identification of the redox-stress signaling threshold (RST): Increased RST helps to delay aging in C. elegans},
+year ={2021},
+doi ={10.1016/j.freeradbiomed.2021.11.018},
+abstract ={Reactive oxygen species (ROS) play a dual role since they can be either beneficial or harmful to living systems. With increasing ROS concentrations, the roles of ROS change from advantageous to detrimental. There seems to be a concentration threshold that determines the transition from their advantageous to detrimental effects. If we purposefully increase the threshold, that is, increase the range of ROS that plays an advantageous role, it should be beneficial for individuals. To test this hypothesis, in C. elegans, the effects of oxidative challenge induced by different concentrations of paraquat (PQ) on nematode lifespan were evaluated. We found that there is a maximum level below which redox stress has benefits and named this threshold as "Redox-stress Signaling Threshold (RST)". Furthermore, we found that starvation (or heat stress or exercise) stimuli at early stage in C. elegans could increase the RST, indicating that this value is not fixed and can be increased by the adaptive response. More intriguingly, we found that increasing RST could improve Redox-stress Response Capacity (RRC) and healthspan, suggesting that increasing the RST value through early stimulation will be an effective strategy to delay aging.},
+keywords ={},
+note ={https://danhiggins.org/data/papers_other_worm/1-s2.0-S0891584921008157-main.pdf},
+journal ={Free Radical Biology and Medicine},
+volume ={178},
+pages ={54-58},
+source={a00a996abf9d548239d6982f8e601e62a4977579ddaaf267f07b7b3d51f89442}
+}
+
+@Article{
+author ={Avrami Aharonoff and Jun Kim and Aaliyah Washington and Sevinç Ercan},
+title ={SMC-mediated dosage compensation in<i>C. elegans</i>evolved in the presence of an ancestral nematode mechanism},
+year ={2024},
+doi ={10.1101/2024.05.21.595224},
+abstract ={},
+keywords ={dosage compensation, sex chromosomes, nematodes, pristionchus, caenorhabditis, oscheius, Hi-C, TAD, condensin, X chromosome, Structural Maintenance of Chromosomes, SMC complexes, evolution, transcription, H4K20me1},
+note ={https://danhiggins.org/data/papers_other_worm/2024.05.21.595224v1.full.pdf},
+journal ={},
+volume ={N/A},
+pages ={N/A},
+source={fcaf363ee97566545e3f4e3b8b75ff9679f8a32b67c6792f11e34c10dfa0c36c}
+}
+
+@Article{
+author ={Isabela Cunha Navarro and Francesca Tuorto and David Jordan and Carine Legrand and Jonathan Price and Fabian Braukmann and Alan G Hendrick and Alper Akay and Annika Kotter and Mark Helm and Frank Lyko and Eric A Miska},
+title ={Translational adaptation to heat stress is mediated by RNA 5‐methylcytosine in
+            <i>Caenorhabditis elegans</i>},
+year ={2020},
+doi ={10.15252/embj.2020105496},
+abstract ={Methylation of carbon-5 of cytosines (m 5 C) is a post-transcriptional nucleotide modification of RNA found in all kingdoms of life. While individual m 5 C-methyltransferases have been studied, the impact of the global cytosine-5 methylome on development, homeostasis and stress remains unknown. Here, using Caenorhabditis elegans, we generated the first organism devoid of m 5 C in RNA, demonstrating that this modification is non-essential. Using this genetic tool, we determine the localisation and enzymatic specificity of m 5 C sites in the RNome in vivo. We find that NSUN-4 acts as a dual rRNA and tRNA methyltransferase in C. elegans mitochondria. In agreement with leucine and proline being the most frequently methylated tRNA isoacceptors, loss of m 5 C impacts the decoding of some triplets of these two amino acids, leading to reduced translation efficiency. Upon heat stress, m 5 C loss leads to ribosome stalling at UUG triplets, the only codon translated by an m 5 C34-modified tRNA. This leads to reduced translation efficiency of UUG-rich transcripts and impaired fertility, suggesting a role of m 5 C tRNA wobble methylation in the adaptation to higher temperatures.},
+keywords ={5-methylcytosine, Caenorhabditis elegans, NSUN, RNA modifications, translation efficiency Subject Category RNA Biology},
+note ={https://danhiggins.org/data/papers_other_worm/navarro-et-al-2020-translational-adaptation-to-heat-stress-is-mediated-by-rna-5-methylcytosine-in-caenorhabditis-elegans.pdf},
+journal ={The EMBO Journal},
+volume ={40},
+pages ={N/A},
+source={90bcb1b74bdc8e96937c0c83be3b6c9e7a7716a985f149804770cc196055c787}
+}
+
+@Article{
+author ={Joëlle J. E. Janssen and Sander Grefte and Jaap Keijer and Vincent C. J. de Boer},
+title ={Mito-Nuclear Communication by Mitochondrial Metabolites and Its Regulation by B-Vitamins},
+year ={2019},
+doi ={10.3389/fphys.2019.00078},
+abstract ={Mitochondria are cellular organelles that control metabolic homeostasis and ATP generation, but also play an important role in other processes, like cell death decisions and immune signaling. Mitochondria produce a diverse array of metabolites that act in the mitochondria itself, but also function as signaling molecules to other parts of the cell. Communication of mitochondria with the nucleus by metabolites that are produced by the mitochondria provides the cells with a dynamic regulatory system that is able to respond to changing metabolic conditions. Dysregulation of the interplay between mitochondrial metabolites and the nucleus has been shown to play a role in disease etiology, such as cancer and type II diabetes. Multiple recent studies emphasize the crucial role of nutritional cofactors in regulating these metabolic networks. Since B-vitamins directly regulate mitochondrial metabolism, understanding the role of B-vitamins in mito-nuclear communication is relevant for therapeutic applications and optimal dietary lifestyle. In this review, we will highlight emerging concepts in mito-nuclear communication and will describe the role of B-vitamins in mitochondrial metabolite-mediated nuclear signaling.},
+keywords ={B-vitamins, mito-nuclear signaling, TCA cycle metabolites, acyl-CoA, reactive oxygen species, sirtuins, epigenetic modifications},
+note ={https://danhiggins.org/data/papers_other_worm/fphys-10-00078.pdf},
+journal ={Frontiers in Physiology},
+volume ={10},
+pages ={N/A},
+source={9ad54e9fa16409aba736d8bb960bc91eda7213fa5b3efbe4b7ecd68b81ad7d79}
+}
+
+@Article{
+author ={Seroussi, Uri and Lugowski, Andrew and Wadi, Lina and Lao, Robert and Willis, Alexandra and Zhao, Winnie and Sundby, Adam and Charlesworth, Amanda and Reinke, Aaron and Claycomb, Julie},
+title ={A comprehensive survey of C. elegans argonaute proteins reveals organismwide gene regulatory networks and functions},
+year ={2023},
+doi ={10.7554/eLife.83853},
+abstract ={Argonaute (AGO) proteins associate with small RNAs to direct their effector function on complementary transcripts. The nematode Caenorhabditis elegans contains an expanded family of 19 functional AGO proteins, many of which have not been fully characterized. In this work, we systematically analyzed every C. elegans AGO using CRISPR-Cas9 genome editing to introduce GFP::3xFLAG tags. We have characterized the expression patterns of each AGO throughout development, identified small RNA binding complements, and determined the effects of ago loss on small RNA populations and developmental phenotypes. Our analysis indicates stratification of subsets of AGOs into distinct regulatory modules, and integration of our data led us to uncover novel stress-induced fertility and pathogen response phenotypes due to ago loss. Editor's evaluation This impressive study presents the most comprehensive analysis of the Argonautes, their small RNA partners, their targets, and their biological functions in any species to date. The work provides new insights into Argonaute-based pathways, includes extensive validation of existing models, and describes overall a treasure-trove of reagents and datasets for future exploration of the vast Argonaute world in C. elegans.},
+keywords ={},
+note ={https://danhiggins.org/data/papers_other_worm/elife-83853-v2.pdf},
+journal ={},
+volume ={},
+pages ={},
+source={7f9521508caca0d5fe29b7690a9eb30d7efaf689d9c2423cd831e2dc1794ce2d}
+}
+
+@Article{
+author ={Aaron Z.A. Schwartz and Nikita Tsyba and Yusuff Abdu and Maulik R. Patel and Jeremy Nance},
+title ={Independent regulation of mtDNA quantity and quality resets the mitochondrial genome in <i>C. elegans</i> primordial germ cells},
+year ={2022},
+doi ={10.1101/2022.05.06.490954},
+abstract ={},
+keywords ={},
+note ={https://danhiggins.org/data/papers_other_worm/2022.05.06.490954v1.full.pdf},
+journal ={},
+volume ={N/A},
+pages ={N/A},
+source={324e5a92abdaa3a071ba67735eb55736aa48649cc427b18e009bd6e53444a274}
+}
+
+@Article{
+author ={Sural, Surojit and Hobert, Oliver},
+title ={Nematode nuclear receptors as integrators of sensory information Highlights d Nuclear hormone receptor expansion correlates with freeliving nematode lifestyle d GPCR and insulin genes have co-expanded with NHRs in free-living nematode species d C. elegans sensory neurons show enriched expression of NHR, GPCR, and insulin genes d NHRs may integrate sensory or internal cues to regulate GPCR and insulin expression Authors},
+year ={},
+doi ={10.1016/j.cub.2021.07.019},
+abstract ={},
+keywords ={},
+note ={https://danhiggins.org/data/papers_other_worm/1-s2.0-S096098222100974X-main.pdf},
+journal ={},
+volume ={},
+pages ={},
+source={d8c7931dcc76e6c7d50873d4a9dc1574d7fde0c7fb6d5ed76278425e586fb1a0}
+}
+
+@Article{
+author ={Fay, David},
+title ={Classical genetic methods},
+year ={},
+doi ={},
+abstract ={},
+keywords ={},
+note ={https://danhiggins.org/data/papers_other_worm/Classical%20genetic%20methods%20-%20WormBook%20-%20NCBI%20Bookshelf.pdf},
+journal ={},
+volume ={},
+pages ={},
+source={ef5de59e355dccff3a0b81d5a099e37794601fee189705078929e276ec58ba60}
+}
+
+@Article{
+author ={Sonja L. B. Arneaud and Jacob McClendon and Lexus Tatge and Abigail Watterson and Kielen R. Zuurbier and Bhoomi Madhu and Tina L. Gumienny and Peter M. Douglas},
+title ={Reduced bone morphogenic protein signaling along the gut–neuron axis by heat shock factor promotes longevity},
+year ={2022},
+doi ={10.1111/acel.13693},
+abstract ={Due to the complexity of this multifactorial aging mechanism, a variety of molecular targets have been identified as age determinates across a number of model organisms ranging from yeast to primates (Kenyon, 2010). In multicellular organisms, the ability of these molecules to act across tissues and connect organ systems plays a critical role in animal physiology and age determination. The nervous},
+keywords ={aging, BMP signaling, endocytosis, gut-neuron axis, HSF-1, membrane traffic, Rab GTPases, SMAD, TGFβ BMP, Bone morphogenic protein, EV, Empty vector, FUdR, 5-fluorouracil-2'-deoxyribose, GFP, Green fluorescent protein, HSF, Heat shock factor, LRIG, Leucine rich and immunoglobulin domains, NGM, Nematode growth medium, qPCR, Quantitative reverse-transcriptase PCR, TB, Terrific broth, TGF, Transforming growth factor, WT, wild-type},
+note ={https://danhiggins.org/data/papers_other_worm/Aging%20Cell%20-%202022%20-%20Arneaud%20-%20Reduced%20bone%20morphogenic%20protein%20signaling%20along%20the%20gut%20neuron%20axis%20by%20heat%20shock%20factor.pdf},
+journal ={Aging Cell},
+volume ={21},
+pages ={N/A},
+source={ba9ebf2a56206ee9d2864ec57b0a3a17964d46950a58a6e50aab451ad8ea9846}
+}
+
+@Article{
+author ={Abbas Ghaddar and Erick Armingol and Chau Huynh and Louis Gevirtzman and Nathan E. Lewis and Robert Waterston and Eyleen J. O’Rourke},
+title ={Whole-body gene expression atlas of an adult metazoan},
+year ={2022},
+doi ={10.1101/2022.11.06.515345},
+abstract ={},
+keywords ={},
+note ={https://danhiggins.org/data/papers_other_worm/2022.11.06.515345v2.full.pdf},
+journal ={},
+volume ={N/A},
+pages ={N/A},
+source={e4bcb4f7380609b814315c06744ceaee472e92fe59216aaf50c72112178e47dc}
+}
+
+@Article{
+author ={Aurélie Guisnet and Malosree Maitra and Sreeparna Pradhan and Michael Hendricks},
+title ={Three‐Dimensional Fruit Tissue Habitats for Culturing <i>Caenorhabditis elegans</i>},
+year ={2021},
+doi ={10.1002/cpz1.288},
+abstract ={},
+keywords ={},
+note ={https://danhiggins.org/data/papers_other_worm/Current%20Protocols%20-%202021%20-%20Guisnet%20-%20Three%E2%80%90Dimensional%20Fruit%20Tissue%20Habitats%20for%20Culturing%20Caenorhabditis%20elegans.pdf},
+journal ={Current Protocols},
+volume ={1},
+pages ={N/A},
+source={28aa7633decb1cdb61e49672c0e00363ff60437a4c8e74cd6d711f09233aa4b0}
+}
+
+@Article{
+author ={Emma Jo Ciccarelli and Moshe Bendelstein and Katerina K. Yamamoto and Hannah Reich and Cathy Savage-Dunn},
+title ={BMP signaling to pharyngeal muscle in the<i>C. elegans</i>response to a bacterial pathogen regulates anti-microbial peptide expression and pharyngeal pumping},
+year ={2023},
+doi ={10.1101/2023.03.06.531324},
+abstract ={},
+keywords ={},
+note ={https://danhiggins.org/data/papers_other_worm/2023.03.06.531324v2.full.pdf},
+journal ={},
+volume ={N/A},
+pages ={N/A},
+source={280dbc38995f6db1251abd4354ab3c6800a4c35e13b7b4441803884a93dda40a}
+}
+
+@Article{
+author ={Anastasia Levichev and Serge Faumont and Rachel Z. Berner and Zhifeng Purcell and Amanda M. White and Kathy Chicas-Cruz and Shawn R. Lockery},
+title ={The conserved endocannabinoid anandamide modulates olfactory sensitivity to induce hedonic feeding in C. elegans},
+year ={2023},
+doi ={10.1016/j.cub.2023.03.013},
+abstract ={Highlights d AEA reciprocally alters consumption of high-and low-quality foods in C. elegans d Reciprocity is evident in both feeding rate and chemotaxis preference d Deletion of the native cannabinoid receptor npr-19 is rescued by the human CNR1 gene d AEA reciprocally alters olfactory neuron sensitivity to highand low-quality foods Authors},
+keywords ={},
+note ={https://danhiggins.org/data/papers_other_worm/PIIS0960982223003019.pdf},
+journal ={Current Biology},
+volume ={33},
+pages ={1625-1639.e4},
+source={24e311fcfaee2a0cad668f80529904e4b8e0c8bb2becfe8e63661e03ff730d44}
+}
+
+@Article{
+author ={Erdem Sendinc and David Valle-Garcia and Alan Jiao and Yang Shi},
+title ={Analysis of m6A RNA methylation in Caenorhabditis elegans},
+year ={2020},
+doi ={10.1038/s41421-020-00186-6},
+abstract ={},
+keywords ={},
+note ={https://danhiggins.org/data/papers_other_worm/s41421-020-00186-6.pdf},
+journal ={Cell Discovery},
+volume ={6},
+pages ={N/A},
+source={27d2ba2aa8f31e26ae17c7397f51e1677662fe5ff65de6fba586d081e285b1a7}
+}
+
+@Article{
+author ={Ruhi Patel and Himani Galagali and John K Kim and Alison R Frand},
+title ={Feedback between a retinoid-related nuclear receptor and the let-7 microRNAs controls the pace and number of molting cycles in C. elegans},
+year ={2022},
+doi ={10.7554/eLife.80010},
+abstract ={Animal development requires coordination among cyclic processes, sequential cell fate specifications, and once-a-lifetime morphogenic events, but the underlying timing mechanisms are not well understood. Caenorhabditis elegans undergoes four molts at regular 8 to 10 hour intervals. The pace of the cycle is governed by PERIOD/lin-42 and other as-yet unknown factors. Cessation of the cycle in young adults is controlled by the let-7 family of microRNAs and downstream transcription factors in the heterochronic pathway. Here, we characterize a negative feedback loop between NHR-23, the worm homolog of mammalian retinoid-related orphan receptors (RORs), and the let-7 family of microRNAs that regulates both the frequency and finite number of molts. The molting cycle is decelerated in nhr-23 knockdowns and accelerated in let-7(-) mutants, but timed similarly in let-7(-) nhr-23(-) double mutants and wild-type animals. NHR-23 binds response elements (ROREs) in the let-7 promoter and activates transcription. In turn, let-7 dampens nhr-23 expression across development via a complementary let-7-binding site (LCS) in the nhr-23 3′ UTR. The molecular interactions between NHR-23 and let-7 hold true for other let-7 family microRNAs. Either derepression of nhr-23 transcripts by LCS deletion or high gene dosage of nhr-23 leads to protracted behavioral quiescence and extra molts in adults. NHR-23 and let-7 also coregulate scores of genes required for execution of the molts, including lin-42. In addition, ROREs and LCSs isolated from mammalian ROR and let-7 genes function in C. elegans, suggesting conservation of this feedback mechanism. We propose that this feedback loop unites the molting timer and the heterochronic gene regulatory network, possibly by functioning as a cycle counter.},
+keywords ={},
+note ={https://danhiggins.org/data/papers_other_worm/elife-80010-v1.pdf},
+journal ={eLife},
+volume ={11},
+pages ={N/A},
+source={23ff53bcb47ea679777b00eda0d1edb3674558742821e2e1d029e564e32d9a31}
+}
+
+@Article{
+author ={Inmaculada Martínez-Reyes and Navdeep S. Chandel},
+title ={Mitochondrial TCA cycle metabolites control physiology and disease},
+year ={2020},
+doi ={10.1038/s41467-019-13668-3},
+abstract ={Mitochondria are signaling organelles that regulate a wide variety of cellular functions and can dictate cell fate. Multiple mechanisms contribute to communicate mitochondrial fitness to the rest of the cell. Recent evidence confers a new role for TCA cycle intermediates, generally thought to be important for biosynthetic purposes, as signaling molecules with functions controlling chromatin modifications, DNA methylation, the hypoxic response, and immunity. This review summarizes the mechanisms by which the abundance of different TCA cycle metabolites controls cellular function and fate in different contexts. We will focus on how these metabolites mediated signaling can affect physiology and disease.},
+keywords ={},
+note ={https://danhiggins.org/data/papers_other_worm/s41467-019-13668-3.pdf},
+journal ={Nature Communications},
+volume ={11},
+pages ={N/A},
+source={1cbef5dfcfb8a5d98a08ebc1c7e7407e14297f2f4d63f9d08cb341eedac4ecdb}
+}
+
+@Article{
+author ={Dina Aggad and Nicolas Brouilly and Shizue Omi and Clara Luise Essmann and Benoit Dehapiot and Cathy Savage-Dunn and Fabrice Richard and Chantal Cazevieille and Kristin A Politi and David H Hall and Remy Pujol and Nathalie Pujol},
+title ={Meisosomes, folded membrane microdomains between the apical extracellular matrix and epidermis},
+year ={2023},
+doi ={10.7554/eLife.75906},
+abstract ={Apical extracellular matrices (aECMs) form a physical barrier to the environment. In Caenorhabditis elegans, the epidermal aECM, the cuticle, is composed mainly of different types of collagen, associated in circumferential ridges separated by furrows. Here, we show that in mutants lacking furrows, the normal intimate connection between the epidermis and the cuticle is lost, specifically at the lateral epidermis, where, in contrast to the dorsal and ventral epidermis, there are no hemidesmosomes. At the ultrastructural level, there is a profound alteration of structures that we term 'meisosomes,' in reference to eisosomes in yeast. We show that meisosomes are composed of stacked parallel folds of the epidermal plasma membrane, alternately filled with cuticle. We propose that just as hemidesmosomes connect the dorsal and ventral epidermis, above the muscles, to the cuticle, meisosomes connect the lateral epidermis to it. Moreover, furrow mutants present marked modifications of the biomechanical properties of their skin and exhibit a constitutive damage response in the epidermis. As meisosomes co-localise to macrodomains enriched in phosphatidylinositol (4,5) bisphosphate, they could conceivably act, like eisosomes, as signalling platforms, to relay tensile information from the aECM to the underlying epidermis, as part of an integrated stress response to damage. Editor's evaluation This valuable work addresses the cellular mechanisms that mediate attachment of the lateral epidermis to the cuticle. The evidence supporting the role of structures called 'meisosomes' by the authors is solid, and addresses the roles of these structures in maintaining and patterning the epidermis and cuticle. The work will be of interest to developmental and cell biologists.},
+keywords ={},
+note ={https://danhiggins.org/data/papers_other_worm/elife-75906-v1.pdf},
+journal ={eLife},
+volume ={12},
+pages ={N/A},
+source={d523f4778214c47913759ec2430a67efe22c1d45a914803f7ccc8cd30bbdddf3}
+}
+
+@Article{
+author ={Jiaming Xu and Brendil Sabatino and Junran Yan and Glafira Ermakova and Kelsie R S Doering and Stefan Taubert},
+title ={The unfolded protein response of the endoplasmic reticulum protects <i>Caenorhabditis elegans</i> against DNA damage caused by stalled replication forks},
+year ={2024},
+doi ={10.1093/g3journal/jkae017},
+abstract ={All animals must maintain genome and proteome integrity, especially when experiencing endogenous or exogenous stress. To cope, organisms have evolved sophisticated and conserved response systems: unfolded protein responses (UPRs) ensure proteostasis, while DNA damage responses (DDRs) maintain genome integrity. Emerging evidence suggests that UPRs and DDRs crosstalk, but this remains poorly understood. Here, we demonstrate that depletion of the DNA primases pri-1 or pri-2, which synthesize RNA primers at replication forks and whose inactivation causes DNA damage, activates the UPR of the endoplasmic reticulum (UPR-ER) in Caenorhabditis elegans, with especially strong activation in the germline. We observed activation of both the inositol-requiring-enzyme 1 (ire-1) and the protein kinase RNA-like endoplasmic reticulum kinase (pek-1) branches of the (UPR-ER). Interestingly, activation of the (UPR-ER) output gene heat shock protein 4 (hsp-4) was partially independent of its canonical activators, ire-1 and X-box binding protein (xbp-1), and instead required the third branch of the (UPR-ER), activating transcription factor 6 (atf-6), suggesting functional redundancy. We further found that primase depletion specifically induces the (UPR-ER), but not the distinct cytosolic or mitochondrial UPRs, suggesting that primase inactivation causes compartment-specific rather than global stress. Functionally, loss of ire-1 or pek-1 sensitizes animals to replication stress caused by hydroxyurea. Finally, transcriptome analysis of pri-1 embryos revealed several deregulated processes that could cause (UPR-ER) activation, including protein glycosylation, calcium signaling, and fatty acid desaturation. Together, our data show that the (UPR-ER), but not other UPRs, responds to replication fork stress and that the (UPR-ER) is required to alleviate this stress.},
+keywords ={UPR, BiP, DNA replication, DNA damage, primase},
+note ={https://danhiggins.org/data/papers_other_worm/jkae017.pdf},
+journal ={G3: Genes, Genomes, Genetics},
+volume ={14},
+pages ={N/A},
+source={d4179c763dd9a137437fb67cae3050383f08c9940fe9fe03fcd8013c9c6c4766}
+}
+
+@Article{
+author ={James M. Bellush and Iestyn Whitehouse},
+title ={Persistent chromatin states, pervasive transcription, and shared<i>cis</i>-regulatory sequences have shaped the<i>C. elegans</i>genome},
+year ={2019},
+doi ={10.1101/817130},
+abstract ={Despite highly conserved chromatin states and cis-regulatory elements, studies of metazoan genomes reveal that gene organization and the strategies to control mRNA expression can vary widely among animal species. C. elegans gene regulation is often assumed to be similar to that of other model organisms, yet evidence suggests the existence of distinct molecular mechanisms to pattern the developmental transcriptome, including extensive post-transcriptional RNA control pathways, widespread splice leader (SL) trans-splicing of pre-mRNAs, and the organization of genes into operons. Here, we performed ChIP-seq for histone modifications in highly synchronized embryos cohorts representing three major developmental stages, with the goal of better characterizing whether the dynamic changes in embryonic mRNA expression are accompanied by changes to the chromatin state. We were surprised to find that thousands of promoters are persistently marked by active histone modifications, despite a fundamental restructuring of the transcriptome. We employed global run-on sequencing using a long-read nanopore format to map nascent RNA transcription across embryogenesis, finding that the invariant open chromatin regions are persistently transcribed by Pol II at all stages of embryo development, even though the mature mRNA is not produced. By annotating our nascent RNA sequencing reads into directional transcription units, we find extensive evidence of polycistronic RNA transcription genome-wide, suggesting that nearby genes in C. elegans are linked by shared transcriptional regulatory mechanisms. We present data indicating that the sharing of cisregulatory sequences has constrained C. elegans gene positioning and likely explains the remarkable retention of syntenic gene pairs over long evolutionary timescales.},
+keywords ={},
+note ={https://danhiggins.org/data/papers_other_worm/817130v1.full.pdf},
+journal ={},
+volume ={N/A},
+pages ={N/A},
+source={7ff1dfe3a618b17aa21b7d262d933e859585339958991a4f997197cef6150ff9}
+}
+
+@Article{
+author ={Walter W. Chen and Elizaveta Freinkman and Tim Wang and Kıvanç Birsoy and David M. Sabatini},
+title ={Absolute Quantification of Matrix Metabolites Reveals the Dynamics of Mitochondrial Metabolism},
+year ={2016},
+doi ={10.1016/j.cell.2016.07.040},
+abstract ={Highlights d A workflow for absolute quantification of mitochondrial matrix metabolites d Rapid and specific isolation of mitochondria from cells for metabolite profiling d Profiling guided by MITObolome, a set of all predicted mitochondrial metabolites},
+keywords ={},
+note ={https://danhiggins.org/data/papers_other_worm/PIIS0092867416309904.pdf},
+journal ={Cell},
+volume ={166},
+pages ={1324-1337.e11},
+source={876c7fdf6b89b6dfbfd62d10ce410270eb8324f6573314dd5ccca3e433a2bdce}
+}
+
+@Article{
+author ={Brian J. Thomas and Ira E. Wight and Wendy Y. Y. Chou and Marco Moreno and Zachary Dawson and Arielle Homayouni and Huiyan Huang and Hyori Kim and Hanna Jia and Justin R. Buland and Jennifer A. Wambach and F. Sessions Cole and Stephen C. Pak and Gary A. Silverman and Cliff J. Luke},
+title ={CemOrange2 fusions facilitate multifluorophore subcellular imaging in C. elegans},
+year ={2019},
+doi ={10.1371/journal.pone.0214257},
+abstract ={Due to its ease of genetic manipulation and transparency, Caenorhabditis elegans (C. elegans) has become a preferred model system to study gene function by microscopy. The use of Aequorea victoria green fluorescent protein (GFP) fused to proteins or targeting sequences of interest, further expanded upon the utility of C. elegans by labeling subcellular structures, which enables following their disposition during development or in the presence of genetic mutations. Fluorescent proteins with excitation and emission spectra different from that of GFP accelerated the use of multifluorophore imaging in real time. We have expanded the repertoire of fluorescent proteins for use in C. elegans by developing a codonoptimized version of Orange2 (CemOrange2). Proteins or targeting motifs fused to CemOr-ange2 were distinguishable from the more common fluorophores used in the nematode; such as GFP, YFP, and mKate2. We generated a panel of CemOrange2 fusion constructs, and confirmed they were targeted to their correct subcellular addresses by colocalization with independent markers. To demonstrate the potential usefulness of this new panel of fluorescent protein markers, we showed that CemOrange2 fusion proteins could be used to: 1) monitor biological pathways, 2) multiplex with other fluorescent proteins to determine colocalization and 3) gain phenotypic knowledge of a human ABCA3 orthologue, ABT-4, trafficking variant in the C. elegans model organism.},
+keywords ={},
+note ={https://danhiggins.org/data/papers_other_worm/file444.pdf},
+journal ={PLOS ONE},
+volume ={14},
+pages ={e0214257},
+source={9fdfa3768c8ed1cb6cf00533177889297ad91b7737c33220f46fa73bd1ad4f5f}
+}
+
+@Article{
+author ={Cohen, Merav and Tzur, Yonatan and Neufeld, Esther and Feinstein, Naomi and Delannoy, Michael and Wilson, Katherine and Gruenbaum, Yosef},
+title ={Transmission electron microscope studies of the nuclear envelope in Caenorhabditis elegans embryos},
+year ={},
+doi ={},
+abstract ={Nuclear membranes and nuclear pore complexes (NPCs) are conserved in both animals and plants. However, the lamina composition and the dimensions of NPCs vary between plants, yeast, and vertebrates. In this study, we established a protocol that preserves the structure of Caenorhabditis elegans embryonic cells for high-resolution studies with thin-section transmission electron microscopy (TEM). We show that the NPCs are bigger in C. elegans embryos than in yeast, with dimensions similar to those in higher eukaryotes. We also localized the C. elegans nuclear envelope proteins Ce-lamin and Ce-emerin by pre-embedding gold labeling immunoelectron microscopy. Both proteins are present at or near the inner nuclear membrane. A fraction of Ce-lamin, but not Ce-emerin, is present in the nuclear interior. Removing the nuclear membranes leaves both Ce-lamin and Ce-emerin associated with the chromatin. Eliminating the single lamin protein caused cell death as visualized by characteristic changes in nuclear architecture including condensation of chromatin, clustering of NPCs, membrane blebbing, and the presence of vesicles inside the nucleus. Taken together, these results show evolutionarily conserved protein localization, interactions, and functions of the C. elegans nuclear envelope.},
+keywords ={Electron microscopy, Lamin, Nuclear envelope, Nuclear lamina, Nuclear pore complexes},
+note ={https://danhiggins.org/data/papers_other_worm/1-s2.0-S1047847702005166-main.pdf},
+journal ={},
+volume ={},
+pages ={},
+source={1a8c3cb10466694eceff79dc85f88573a414f6fdd88f81f7aca1e87450a9d099}
+}
+
+@Article{
+author ={Yucen Hu and Jingxiu Xu and Erqing Gao and Xueyuan Fan and Jieli Wei and Bingcheng Ye and Suhong Xu and Weirui Ma},
+title ={Enhanced single RNA imaging reveals dynamic gene expression in live animals},
+year ={2023},
+doi ={10.7554/eLife.82178},
+abstract ={Imaging endogenous mRNAs in live animals is technically challenging. Here, we describe an MS2-based signal amplification with the Suntag system that enables live-cell RNA imaging of high temporal resolution and with 8xMS2 stem-loops, which overcomes the obstacle of inserting a 1300 nt 24xMS2 into the genome for the imaging of endogenous mRNAs. Using this tool, we were able to image the activation of gene expression and the dynamics of endogenous mRNAs in the epidermis of live C. elegans. Editor's evaluation The authors have amplified the signal on MS2 so that a smaller insertion is sufficient to track mRNA in vivo. They provide solid evidence that this approach generates a sufficient signal, equivalent to the full-length MS2. This work, along with a previously reported similar method will be useful to investigators considering single-molecule imaging in Elegans as well as other organisms.},
+keywords ={},
+note ={https://danhiggins.org/data/papers_other_worm/elife-82178-v3.pdf},
+journal ={eLife},
+volume ={12},
+pages ={N/A},
+source={fcabeb537926d9ef9c4483e42375ed3e926805adbfe2a1d75dd050eb0f373e20}
+}
+
+@Article{
+author ={Rhianna Williams and Mihails Laskovs and Rebecca I. Williams and Ananya Mahadevan and John Labbadia},
+title ={A Mitochondrial Stress-Specific Form of HSF1 Protects against Age-Related Proteostasis Collapse},
+year ={2020},
+doi ={10.1016/j.devcel.2020.06.038},
+abstract ={Highlights d Mitochondrial stress promotes HSF-1 dephosphorylation through the PP2A complex d Hypo-phosphorylated HSF-1 drives a stress response that is enriched for small HSPs d Mitochondria protect against cytosolic protein aggregation through small HSPs},
+keywords ={},
+note ={https://danhiggins.org/data/papers_other_worm/1-s2.0-S1534580720305463-main.pdf},
+journal ={Developmental Cell},
+volume ={54},
+pages ={758-772.e5},
+source={370c4eda654859f852862109edf5beac98619bd37edd9c07f3811159ddca7c34}
+}
+
+@Article{
+author ={Yanfang Chen and Romane Leboutet and Céline Largeau and Siham Zentout and Christophe Lefebvre and Agnès Delahodde and Emmanuel Culetto and Renaud Legouis},
+title ={Autophagy facilitates mitochondrial rebuilding after acute heat stress via a DRP-1–dependent process},
+year ={2021},
+doi ={10.1083/jcb.201909139},
+abstract ={Acute heat stress (aHS) can induce strong developmental defects in Caenorhabditis elegans larva but not lethality or sterility. This stress results in transitory fragmentation of mitochondria, formation of aggregates in the matrix, and decrease of mitochondrial respiration. Moreover, active autophagic flux associated with mitophagy events enables the rebuilding of the mitochondrial network and developmental recovery, showing that the autophagic response is protective. This adaptation to aHS does not require Pink1/Parkin or the mitophagy receptors DCT-1/NIX and FUNDC1. We also find that mitochondria are a major site for autophagosome biogenesis in the epidermis in both standard and heat stress conditions. In addition, we report that the depletion of the dynamin-related protein 1 (DRP-1) affects autophagic processes and the adaptation to aHS. In drp-1 animals, the abnormal mitochondria tend to modify their shape upon aHS but are unable to achieve fragmentation. Autophagy is induced, but autophagosomes are abnormally elongated and clustered on mitochondria. Our data support a role for DRP-1 in coordinating mitochondrial fission and autophagosome biogenesis in stress conditions. .},
+keywords ={},
+note ={https://danhiggins.org/data/papers_other_worm/jcb_201909139.pdf},
+journal ={Journal of Cell Biology},
+volume ={220},
+pages ={N/A},
+source={73f409265f1a85e19ed1f1953cc586c731d4272800ce92e3860426c4620bc43c}
+}
+
+@Article{
+author ={Max T. Levenson and Rio Barrere-Cain and Lisa Truong and Yen-Wei Chen and Karissa Shuck and Blake Panter and Ella Reich and Xia Yang and Patrick Allard},
+title ={Protocol for nuclear dissociation of the adult C. elegans for single-nucleus RNA sequencing and its application for mapping environmental responses},
+year ={2023},
+doi ={10.1016/j.xpro.2023.102756},
+abstract ={Caenorhabditis elegans is a valuable model to study organ, tissue, and cell-type responses to external cues. However, the nematode comprises multiple syncytial tissues with spatial coordinates corresponding to distinct nuclear transcriptomes. Here, we present a single-nucleus RNA sequencing (snRNA-seq) protocol that aims to overcome difficulties encountered with single-cell RNA sequencing in C. elegans. We describe steps for isolating C. elegans nuclei for downstream applications including snRNA-seq applied to the context of alcohol exposure.},
+keywords ={},
+note ={https://danhiggins.org/data/papers_other_worm/1-s2.0-S2666166723007232-main.pdf},
+journal ={STAR Protocols},
+volume ={4},
+pages ={102756},
+source={5616f0e7e073d67bb4e9d4712986f7d3fb0496611f75682e166239c242127015}
+}
+
+@Article{
+author ={Nicholas D. Urban and Joseph P. Cavataio and Yasmeen Berry and Brandon Vang and Anirudh Maddali and Richard J. Sukpraphrute and Santiago Schnell and Matthias C. Truttmann},
+title ={Explaining inter-lab variance in C. elegans N2 lifespan: Making a case for standardized reporting to enhance reproducibility},
+year ={2021},
+doi ={10.1016/j.exger.2021.111622},
+abstract ={The nematode Caenorhabditis elegans is a powerful model organism for studying cell development, apoptosis, neuronal circuits, and aging. The isolate N2 is recognized by the C. elegans community as the reference wild-type strain. Interestingly, the lifespan of presumably isogenic C. elegans N2 worms-even when grown under comparable conditions-varies significantly amongst distinct laboratories. This hinders the inter-laboratory comparability of C. elegans lifespan data and raises questions regarding data interpretation and reproducibility. Here, we hypothesized slight alterations in experimental design and worm handling could explain the observed discrepancies. To test this hypothesis, we collected and assessed data from over 1000 published C. elegans N2 lifespan assays as well as corresponding methodological meta-data. We find that mean N2 lifespans range from approximately 7 days to upwards of 35 days, despite laboratories disclosing seemingly comparable experimental conditions. We further demonstrate that, in addition to temperature, the use of the chemical sterilizer 5-fluoro-2 ′-deoxyuridine (FUDR) may change N2 lifespan. Additionally, we observed differences in average N2 lifespan from experiments originating from distinct geographic locations, indicating a potential effect of location-specific factors on experimental outcomes. Taken as a whole, our work indicates the sum of many small, rather than a few critical, differences in experimental conditions may account for the observed variance in N2 lifespan. We also find that the absence of standardized experimental methods and the insufficient disclosure of experiment details in the peer-reviewed literature limits the inter-lab comparability of published results. We thus propose the establishment of a succinct reporting standard for C. elegans lifespan experiments to increase the reliability and reproducibility, and thus scientific value, of these studies.},
+keywords ={},
+note ={https://danhiggins.org/data/papers_other_worm/1-s2.0-S0531556521004046-main.pdf},
+journal ={Experimental Gerontology},
+volume ={156},
+pages ={111622},
+source={3d7cde11c17d2b3e0dad338637197844e2999115fc33e9f35f186ff339080453}
+}
+
+@Article{
+author ={Natascia Ventura and Shane L. Rea and Roberto Testi},
+title ={Long-lived C. elegans Mitochondrial mutants as a model for human mitochondrial-associated diseases},
+year ={2006},
+doi ={10.1016/j.exger.2006.06.060},
+abstract ={Mitochondria play a pivotal role in the life of cells, controlling diverse processes ranging from energy production to the regulation of cell death. In humans, numerous pathological conditions have been linked to mitochondrial dysfunction. Cancer, diabetes, obesity, neurodegeneration, cardiomyopathy and even aging are all associated with mitochondrial dysfunction. Over 400 mutations in mitochondrial DNA result directly in pathology and many more disorders associated with mitochondrial dysfunction arise from mutations in nuclear DNA. It is counter-intuitive then, that a class of mitochondrially defective mutants in the nematode Caenorhabditis elegans, the so called Mit (Mitochondrial) mutants, in fact live longer than wild-type animals. In this review, we will reconcile this paradox and provide support for the idea that the Mit mutants are in fact an excellent model for studying human mitochondrial associated diseases (HMADs). In the context of the 'Mitochondrial Threshold Effect Theory', we propose that the kinds of processes induced to counteract mitochondrial mutations in the Mit mutants (and which mediate their life extension), are very likely the same ones activated in many HMADs to delay disease appearance. The identification of such compensatory pathways opens a window of possibility for future preventative therapies for many HMADs. They may also provide a way of potentially extending human life span.},
+keywords ={Human Mitochondrial-Associated Diseases, Caenorhabditis elegans long lived mitochondrial mutants, Aging, Frataxin, Mitochondria, p53},
+note ={https://danhiggins.org/data/papers_other_worm/25.pdf},
+journal ={Experimental Gerontology},
+volume ={41},
+pages ={974-991},
+source={b7d44451dca858d381809974041d2acd200d6314cfc73df68ef1ed63e3ef7066}
+}
+
+@Article{
+author ={Vanessa Cota and Salman Sohrabi and Rachel Kaletsky and Coleen T. Murphy},
+title ={Oocyte mitophagy is critical for extended reproductive longevity},
+year ={2022},
+doi ={10.1371/journal.pgen.1010400},
+abstract ={Women's reproductive cessation is the earliest sign of human aging and is caused by decreasing oocyte quality. Similarly, C. elegans' reproduction declines in mid-adulthood and is caused by oocyte quality decline. Aberrant mitochondrial morphology is a hallmark of age-related dysfunction, but the role of mitochondrial morphology and dynamics in reproductive aging is unclear. We examined the requirements for mitochondrial fusion and fission in oocytes of both wild-type worms and the long-lived, long-reproducing insulin-like receptor mutant daf-2. We find that normal reproduction requires both fusion and fission, but that daf-2 mutants utilize a shift towards fission, but not fusion, to extend their reproductive span and oocyte health. daf-2 mutant oocytes' mitochondria are punctate (fissioned) and this morphology is primed for mitophagy, as loss of the mitophagy regulator PINK-1 shortens daf-2's reproductive span. daf-2 mutants maintain oocyte mitochondria quality with age at least in part through a shift toward punctate mitochondrial morphology and subsequent mitophagy. Supporting this model, Urolithin A, a metabolite that promotes mitophagy, extends reproductive span in wild-type mothers-even in mid-reproduction-by maintaining youthful oocytes with age. Our data suggest that promotion of mitophagy may be an effective strategy to maintain oocyte health with age.},
+keywords ={},
+note ={https://danhiggins.org/data/papers_other_worm/journal.pgen.1010400.pdf},
+journal ={PLOS Genetics},
+volume ={18},
+pages ={e1010400},
+source={5a30f372a9acfcf6c5ac6e228c365cebc9524e15a11035fb95794a7800b9060b}
+}
+
+@Article{
+author ={Christian Frezza},
+title ={Mitochondrial metabolites: undercover signalling molecules},
+year ={2017},
+doi ={10.1098/rsfs.2016.0100},
+abstract ={One contribution of 9 to a theme issue 'Chemical biology approaches to assessing and modulating mitochondria'.},
+keywords ={biochemistry, chemical biology, systems biology mitochondria, signalling, metabolism},
+note ={https://danhiggins.org/data/papers_other_worm/rsfs20160100.pdf},
+journal ={Interface Focus},
+volume ={7},
+pages ={20160100},
+source={3837ac2e293e7d18d143eb8411c8b46180777589bd2c607ae2ef8b2c9e5655c5}
+}
+
+@Article{
+author ={Laura E. Wester and Anne Lanjuin and Emanuel H. W. Bruckisch and Maria C. Perez Matos and Caroline Heintz and Martin S. Denzel and William B. Mair},
+title ={A Single-copy Knock In Translating Ribosome ImmunoPrecipitation (SKI TRIP) tool kit for tissue specific profiling of actively translated mRNAs in <i>C. elegans</i>},
+year ={2021},
+doi ={10.1101/2021.12.22.473890},
+abstract ={Translating Ribosome Affinity Purification (TRAP) methods have emerged as a powerful approach to profile actively translated transcripts in specific cell and tissue types. Epitope tagged ribosomal subunits are expressed in defined cell populations and used to pull down ribosomes and their associated mRNAs, providing a snapshot of cell type-specific translation occurring in that space and time. Current TRAP toolkits available to the C. elegans community have been built using multi-copy arrays, randomly integrated in the genome. Here we introduce a Single-copy Knock In Translating Ribosome ImmunoPrecipitation (SKI TRIP) tool kit, a collection of C. elegans strains engineered by CRISPR in which tissue specific expression of FLAG tagged ribosomal subunit protein RPL-22 is driven by cassettes present in single copy from defined sites in the genome. In depth characterization of the SKI TRIP strains and methodology shows that 3xFLAG tagged RPL-22 expressed from its endogenous locus or within defined cell types incorporates into actively translating ribosomes and can be used to efficiently and cleanly pull-down cell type specific transcripts without impacting overall mRNA translation or fitness of the animal. We propose SKI TRIP use for the study of processes that are acutely sensitive to changes in translation, such as aging. preprint (which was not certified by peer review) is the author/funder. All rights reserved. No reuse allowed without permission.},
+keywords ={},
+note ={https://danhiggins.org/data/papers_other_worm/2021.12.22.473890v1.full.pdf},
+journal ={},
+volume ={N/A},
+pages ={N/A},
+source={8fc194beab844f3cc2d4c1db3e029501a3240cda22fbd256cb174e698e10c434}
+}
+
+@Article{
+author ={Kelsie R. S. Doering and Glafira Ermakova and Stefan Taubert},
+title ={Nuclear hormone receptor NHR-49 is an essential regulator of stress resilience and healthy aging in Caenorhabditis elegans},
+year ={2023},
+doi ={10.3389/fphys.2023.1241591},
+abstract ={The genome of Caenorhabditis elegans encodes 284 nuclear hormone receptor, which perform diverse functions in development and physiology. One of the best characterized of these is NHR-49, related in sequence and function to mammalian hepatocyte nuclear factor 4α and peroxisome proliferator-activated receptor α. Initially identified as regulator of lipid metabolism, including fatty acid catabolism and desaturation, additional important roles for NHR-49 have since emerged. It is an essential contributor to longevity in several genetic and environmental contexts, and also plays vital roles in the resistance to several stresses and innate immune response to infection with various bacterial pathogens. Here, we review how NHR-49 is integrated into pertinent signaling circuits and how it achieves its diverse functions. We also highlight areas for future investigation including identification of regulatory inputs that drive NHR-49 activity and identification of tissue-specific gene regulatory outputs. We anticipate that future work on this protein will provide information that could be useful for developing strategies to age-associated declines in health and age-related human diseases.},
+keywords ={nhr-49, HNF4, PPAR, longevity, GLP-1, fatty acid desaturation, stress response, fatty acid β oxidation},
+note ={https://danhiggins.org/data/papers_other_worm/fphys-14-1241591.pdf},
+journal ={Frontiers in Physiology},
+volume ={14},
+pages ={N/A},
+source={49b9c73faf82d4c241bdfdbf7ae1038c15816883372763981c8b3609bea369c6}
+}
+
+@Article{
+author ={Umer Saleem Bhat and Navneet Shahi and Siju Surendran and Kavita Babu},
+title ={Neuropeptides and Behaviors: How Small Peptides Regulate Nervous System Function and Behavioral Outputs},
+year ={2021},
+doi ={10.3389/fnmol.2021.786471},
+abstract ={One of the reasons that most multicellular animals survive and thrive is because of the adaptable and plastic nature of their nervous systems. For an organism to survive, it is essential for the animal to respond and adapt to environmental changes. This is achieved by sensing external cues and translating them into behaviors through changes in synaptic activity. The nervous system plays a crucial role in constantly evaluating environmental cues and allowing for behavioral plasticity in the organism. Multiple neurotransmitters and neuropeptides have been implicated as key players for integrating sensory information to produce the desired output. Because of its simple nervous system and well-established neuronal connectome, C. elegans acts as an excellent model to understand the mechanisms underlying behavioral plasticity. Here, we critically review how neuropeptides modulate a wide range of behaviors by allowing for changes in neuronal and synaptic signaling. This review will have a specific focus on feeding, mating, sleep, addiction, learning and locomotory behaviors in C. elegans. With a view to understand evolutionary relationships, we explore the functions and associated pathophysiology of C. elegans neuropeptides that are conserved across different phyla. Further, we discuss the mechanisms of neuropeptidergic signaling and how these signals are regulated in different behaviors. Finally, we attempt to provide insight into developing potential therapeutics for neuropeptide-related disorders.},
+keywords ={neuropeptides, C. elegans, locomotion, behavior, signaling},
+note ={https://danhiggins.org/data/papers_other_worm/fnmol-14-786471.pdf},
+journal ={Frontiers in Molecular Neuroscience},
+volume ={14},
+pages ={N/A},
+source={7cb5d612b5af464e5d4c94f5f13667bf5f53363ce696f697bf8d46a38cfb4156}
+}
+
+@Article{
+author ={Ellen Geens and Pieter Van de Walle and Francesca Caroti and Rob Jelier and Christian Steuwe and Liliane Schoofs and Liesbet Temmerman},
+title ={Yolk-deprived<i>Caenorhabditis elegans</i>secure brood size at the expense of competitive fitness},
+year ={2023},
+doi ={10.26508/lsa.202201675},
+abstract ={Oviparous animals support reproduction via the incorporation of yolk as a nutrient source into the eggs. In Caenorhabditis elegans, however, yolk proteins seem dispensable for fecundity, despite constituting the vast majority of the embryonic protein pool and acting as carriers for nutrient-rich lipids. Here, we used yolk protein-deprived C. elegans mutants to gain insight into the traits that may yet be influenced by yolk rationing. We show that massive yolk provisioning confers a temporal advantage during embryogenesis, while also increasing early juvenile body size and promoting competitive fitness. Opposite to species that reduce egg production under yolk deprivation, our results indicate that C. elegans relies on yolk as a fail-safe to secure offspring survival, rather than to maintain offspring numbers.},
+keywords ={},
+note ={https://danhiggins.org/data/papers_other_worm/e202201675.full.pdf},
+journal ={Life Science Alliance},
+volume ={6},
+pages ={e202201675},
+source={ac3f0d5bb822cca9daafe31256ee25ada256e4a6a885dcb97d97b6f90a12d58f}
+}
+
+@Article{
+author ={Fabian Fischer and Christoph Benner and Anita Goyala and Giovanna Grigolon and Davide Vitiello and JiaYee Wu and Kim Zarse and Collin Y. Ewald and Michael Ristow},
+title ={Ingestion of single guide RNAs induces gene overexpression and extends lifespan in Caenorhabditis elegans via CRISPR activation},
+year ={2022},
+doi ={10.1016/j.jbc.2022.102085},
+abstract ={},
+keywords ={},
+note ={https://danhiggins.org/data/papers_other_worm/1-s2.0-S0021925822005269-main.pdf},
+journal ={Journal of Biological Chemistry},
+volume ={298},
+pages ={102085},
+source={28cc1979d24279423a18ba62e3f2c7a3e0ae9181419d84e3136e7139040328e0}
+}
+
+@Article{
+author ={Erica Li-Leger and Richard Feichtinger and Stephane Flibotte and Heinke Holzkamp and Ralf Schnabel and Donald G. Moerman},
+title ={Identification of essential genes in <i>Caenorhabditis elegans</i> through whole genome sequencing of legacy mutant collections},
+year ={2021},
+doi ={10.1101/2021.06.16.448744},
+abstract ={},
+keywords ={},
+note ={https://danhiggins.org/data/papers_other_worm/2021.06.16.448744v1.full.pdf},
+journal ={},
+volume ={N/A},
+pages ={N/A},
+source={187918e9075dc48e5f63ba5428c38e009e1918e1dcd1e1df2665ef088b12bd49}
+}
+
+@Article{
+author ={Cheng-Lin Li and Mintie Pu and Wenke Wang and Amaresh Chaturbedi and Felicity J. Emerson and Siu Sylvia Lee},
+title ={Region-specific H3K9me3 gain in aged somatic tissues in Caenorhabditis elegans},
+year ={2021},
+doi ={10.1371/journal.pgen.1009432},
+abstract ={Epigenetic alterations occur as organisms age, and lead to chromatin deterioration, loss of transcriptional silencing and genomic instability. Dysregulation of the epigenome has been associated with increased susceptibility to age-related disorders. In this study, we aimed to characterize the age-dependent changes of the epigenome and, in turn, to understand epigenetic processes that drive aging phenotypes. We focused on the aging-associated changes in the repressive histone marks H3K9me3 and H3K27me3 in C. elegans. We observed region-specific gain and loss of both histone marks, but the changes are more evident for H3K9me3. We further found alteration of heterochromatic boundaries in aged somatic tissues. Interestingly, we discovered that the most statistically significant changes reflected H3K9me3-marked regions that are formed during aging, and are absent in developing worms, which we termed "aging-specific repressive regions" (ASRRs). These ASRRs preferentially occur in genic regions that are marked by high levels of H3K9me2 and H3K36me2 in larval stages. Maintenance of high H3K9me2 levels in these regions have been shown to correlate with a longer lifespan. Next, we examined whether the changes in repressive histone marks lead to de-silencing of repetitive DNA elements, as reported for several other organisms. We observed increased expression of active repetitive DNA elements but not global re-activation of silent repeats in old worms, likely due to the distributed nature of repetitive elements in the C. elegans genome. Intriguingly, CELE45, a putative short interspersed nuclear element (SINE), was greatly overexpressed at old age and upon heat stress. SINEs have been suggested to regulate transcription in response to various cellular stresses in mammals. It is likely that CELE45 RNAs also play roles in stress response and aging in C. elegans. Taken together, our study revealed significant and specific agedependent changes in repressive histone modifications and repetitive elements, providing important insights into aging biology.},
+keywords ={},
+note ={https://danhiggins.org/data/papers_other_worm/journal.pgen.1009432.pdf},
+journal ={PLOS Genetics},
+volume ={17},
+pages ={e1009432},
+source={70d8c3475a3ef3e15113db40d9c83ae141c6216dd35e0e0ef1600e38153f9f6b}
+}
+
+@Article{
+author ={David S. Fay},
+title ={A biologist's guide to statistical thinking and analysis},
+year ={2013},
+doi ={10.1895/wormbook.1.159.1},
+abstract ={},
+keywords ={},
+note ={https://danhiggins.org/data/papers_other_worm/Fay-2013-A-biologists-guide-to-statistical-t.pdf},
+journal ={WormBook},
+volume ={N/A},
+pages ={1-54},
+source={7f315e1f3c95947df4f25420a209e53af21c8b25574549070accf17610490dff}
+}
+
+@Article{
+author ={Kenji Kimura and Nozomu Tanaka and Nobuhiro Nakamura and Syuichi Takano and Shoji Ohkuma},
+title ={Knockdown of Mitochondrial Heat Shock Protein 70 Promotes Progeria-like Phenotypes in Caenorhabditis elegans},
+year ={2006},
+doi ={10.1074/jbc.M609025200},
+abstract ={Mitochondrial heat shock protein 70 (mthsp70) functions as a mitochondrial import motor and is essential in mitochondrial biogenesis and energy generation in eukaryotic cells. HSP-6 (hsp70F) is a nematode orthologue of mthsp70. Knockdown of HSP-6 by RNA interference in young adult nematodes caused a reduction in the levels of ATP-2, HSP-60 and CLK-1, leading to abnormal mitochondrial morphology and lower ATP levels. As a result, RNA interference-treated worms had lower motility, defects in oogenesis, earlier accumulation of autofluorescent material, and a shorter life span. These are the major phenotypes observed during the aging of worms, suggesting that the reduction of HSP-6 causes early aging or progeria-like phenotypes. The amount of HSP-6 became dramatically reduced at the expected mean life span in not only wild-type but also in long and short life span mutant worms (wild-type, daf-2, and daf-16). Mitochondrial HSP-60 and ATP-2 were also reduced following the reduction of HSP-6 during aging. These results suggest that the reduction of HSP-6 causes defects in mitochondrial function at the final stage of aging, leading to mortality.},
+keywords ={},
+note ={https://danhiggins.org/data/papers_other_worm/PIIS002192582068886X.pdf},
+journal ={Journal of Biological Chemistry},
+volume ={282},
+pages ={5910-5918},
+source={603c4d53de4599d7ab5c4075bb71c0d38ca11558c32a1cb34dc5a520ca5a97d8}
+}
+
+@Article{
+author ={Iliff, Adam and Wang, Can and Ronan, Elizabeth and Grosh, Karl and Duncan, R and Xu, Shawn and Hake, Alison and Guo, Yuling and Li, Xia and Zhang, Xinxing and Zheng, Maohua and Liu, Jianfeng and Xu, X},
+title ={d Worm sound-sensitive neurons transduce sound via nAChRs independently of ACh Authors},
+year ={2021},
+doi ={10.1016/j.neuron.2021.08.035},
+abstract ={The nematode C. elegans senses airborne sound Highlights d Hearing is thought to only exist in vertebrates and some arthropods d Here we show that the earless nematode C. elegans senses airborne sound d Sound vibrates worm skin, activates sound-sensitive neurons, and triggers phonotaxis},
+keywords ={},
+note ={https://danhiggins.org/data/papers_other_worm/1-s2.0-S0896627321006528-main.pdf},
+journal ={},
+volume ={},
+pages ={},
+source={1bdbc8c654b99237cc7d54c937d5789af9dafc1ce4710b3aec73c1feeea65f06}
+}
+
+@Article{
+author ={Thomas Blumenthal},
+title ={Trans-splicing and operons in C. elegans},
+year ={2012},
+doi ={},
+abstract ={About 70% of C. elegans mRNAs are trans-spliced to one of two 22 nucleotide spliced leaders. SL1 is used to trim off the 5' ends of pre-mRNAs and replace them with the SL1 sequence. This processing event is very closely related to cis-splicing, or intron removal. The SL1 sequence is donated by a 100 nt small nuclear ribonucleoprotein particle (snRNP), the SL1 snRNP. This snRNP is structurally and functionally similar to the U snRNAs (U1, U2, U4, U5 and U6) that play key roles in intron removal and trans-splicing, except that the SL1 snRNP is consumed in the process. More than half of C. elegans pre-mRNAs are subject to SL1 trans-splicing, whereas ~30% are not trans-spliced. The remaining genes are trans-spliced by SL2, which is donated by a similar snRNP, the SL2 snRNP. SL2 recipients are all downstream genes in closely spaced gene clusters similar to bacterial operons. They are transcribed from a promoter at the 5' end of the cluster of between 2 and 8 genes. This transcription makes a polycistronic pre-mRNA that is cotranscriptionally processed by cleavage and polyadenylation at the 3' end of each gene, and this event is closely coupled to the SL2 trans-splicing event that occurs only ~100 nt further downstream. SL2 trans-splicing requires a sequence between the genes, the Ur element, that likely base pairs with the 5' splice site on the SL2 snRNP, in a manner analogous to the interaction between the 5' splice site in cis-splicing with the U1 snRNP. The key difference is that in trans-splicing, the snRNP contains the 5' splice site, whereas in cis-splicing the pre-mRNA does. Some operons, termed "hybrid operons", contain an additional promoter between two genes that can express the downstream gene or genes with a developmental profile that is different from that of the entire operon. The operons contain primarily genes required for rapid growth, including genes whose products are needed for mitochondrial function and the basic machinery of gene expression. Recent evidence suggests that RNA polymerase is poised at the promoters of growth genes, and operons allow more efficient recovery from growth-arrested states, resulting in reduction in the need for this cache of inactive RNA polymerase.},
+keywords ={},
+note ={https://danhiggins.org/data/papers_other_worm/Trans-splicing%20and%20operons%20in%20C.%20elegans%20-%20WormBook%20-%20NCBI%20Bookshelf1.pdf},
+journal ={},
+volume ={},
+pages ={},
+source={fa306bbd0b62cbd711e98046950aa2a2fdef0f77c9c297984e4b509eaf59ca99}
+}
+
+@Article{
+author ={Gabriela F. Paredes and Tobias Viehboeck and Stephanie Markert and Michaela A. Mausz and Yui Sato and Manuel Liebeke and Lena König and Silvia Bulgheresi},
+title ={Differential regulation of degradation and immune pathways underlies adaptation of the ectosymbiotic nematode<i>Laxus oneistus</i>to oxic-anoxic interfaces},
+year ={2021},
+doi ={10.1101/2021.11.11.468236},
+abstract ={},
+keywords ={},
+note ={https://danhiggins.org/data/papers_other_worm/2021.11.11.468236v1.full.pdf},
+journal ={},
+volume ={N/A},
+pages ={N/A},
+source={c49d25db05a1b349dd42120d8ecad34ab7eacbc56177a662563dd31b5954aa03}
+}
+
+@Article{
+author ={Lisa E. Kursel and Jesus E. Aguayo Martinez and Ofer Rog},
+title ={A suppressor screen
+            <i>in C. elegans</i>
+            identifies a multiprotein interaction that stabilizes the synaptonemal complex},
+year ={2023},
+doi ={10.1073/pnas.2314335120},
+abstract ={Significance Gamete production requires tightly regulated interactions between the parental chromosomes, which coalign and exchange information. These events are mediated by the synaptonemal complex-a ladder-like structure that assembles between the parental chromosomes. The molecular interactions that underlie synaptonemal complex assembly remain poorly understood due to rapid sequence divergence and challenges in biochemical reconstitution. Our detailed genetic data suggests a threecomponent interface in the nematode synaptonemal complex. Destabilization and subsequent restoration of this interface link synaptonemal complex integrity with chromosome alignment and regulation of exchanges. Beyond mechanistic understanding of chromosomal interactions, our work provides a blueprint for genetic probing of large cellular assemblies that are refractory to structural analysis and sheds light on the forces that shape their evolution.},
+keywords ={},
+note ={https://danhiggins.org/data/papers_other_worm/Kursel-2023-A-suppressor-screen------------in-c.pdf},
+journal ={Proceedings of the National Academy of Sciences},
+volume ={120},
+pages ={N/A},
+source={433d8534b6a27f9ccf4566037b9fca9fe5b96b501d76470f5dd1a9823c492482}
+}
+
+@Article{
+author ={Begelman, David and Woods, Georgia and Bhaumik, Dipa and Angeli, Suzanne and Foulger, Anna and Lucanic, Mark and Lan, Jianfeng and Andersen, Julie and Lithgow, Gordon},
+title ={An aco-2::gfp knock-in enables the monitoring of mitochondrial morphology throughout C. elegans lifespan},
+year ={},
+doi ={},
+abstract ={We used CRISPR/Cas9 gene editing in C. elegans in order to fluorescently tag endogenous aconitase-2 (ACO-2). ACO-2 is a mitochondrially localized protein, and the aco-2::gfp strain enabled the examination of native mitochondrial morphology in live animals. Here we validate that the aco-2::gfp strain displays the prototypic changes in mitochondrial morphology known to occur during aging and upon paraquat (PQ) induced mitochondrial stress. We also provide evidence that the ACO-2::GFP reporter can serve as a superior means for tracking mitochondrial morphology than conventional MitoTracker dyesespecially in aged-worms.},
+keywords ={},
+note ={https://danhiggins.org/data/papers_other_worm/25789430-2022-micropub.biology.000599.pdf},
+journal ={},
+volume ={},
+pages ={},
+source={48e269c7d2bfc1854c1a2c40c7382223a52dbf5ad83476210c7eef095278408c}
+}
+
+@Article{
+author ={Daskalaki, Ioanna and Markaki, Maria and Gkikas, Ilias and Tavernarakis, Nektarios},
+title ={Local coordination of mRNA storage and degradation near mitochondria modulates C. elegans ageing},
+year ={2023},
+doi ={10.15252/embj.2022112446},
+abstract ={Mitochondria are central regulators of healthspan and lifespan, yet the intricate choreography of multiple, tightly controlled steps regulating mitochondrial biogenesis remains poorly understood. Here, we uncover a pivotal role for specific elements of the 5 0-3 0 mRNA degradation pathway in the regulation of mitochondrial abundance and function. We find that the mRNA degradation and the poly-A tail deadenylase CCR4-NOT complexes form distinct foci in somatic Caenorhabditis elegans cells that physically and functionally associate with mitochondria. Components of these two multi-subunit complexes bind transcripts of nuclear-encoded mitochondria-targeted proteins to regulate mitochondrial biogenesis during ageing in an opposite manner. In addition, we show that balanced degradation and storage of mitochondria-targeted protein mRNAs are critical for mitochondrial homeostasis, stress resistance and longevity. Our findings reveal a multifaceted role of mRNA metabolism in mitochondrial biogenesis and show that finetuning of mRNA turnover and local translation control mitochondrial abundance and promote longevity in response to stress and during ageing.},
+keywords ={ageing, mitochondria, mRNA metabolism, protein synthesis, stress Subject Categories Metabolism, Organelles, Translation & Protein Quality},
+note ={https://danhiggins.org/data/papers_other_worm/EMBJ-42-e112446.pdf},
+journal ={},
+volume ={},
+pages ={},
+source={5ab787f122afd7423de7512277ce5092cf7cd1137718d2127f4e8dffdf60e4ab}
+}
+
+@Article{
+author ={Archer J. Wang and Phillip Wibisono and Blake M. Geppert and Yiyong Liu},
+title ={Using single-worm RNA sequencing to study C. elegans responses to pathogen infection},
+year ={2022},
+doi ={10.1186/s12864-022-08878-x},
+abstract ={Background: Caenorhabditis elegans is an excellent research model whose populations have been used in many studies to address various biological questions. Although worm-to-worm phenotypic variations in isogenic populations have been persistently observed, they are not well understood and are often ignored or averaged out in studies, masking the impacts of such variations on data collection and interpretation. Single-worm RNA sequencing that profiles the transcriptomes of individual animals has the power to examine differences between individuals in a worm population, but this approach has been understudied. The integrity of the starting RNA, the quality of the library and sequence data, as well as the transcriptome-profiling effectiveness of single-worm RNA-seq remain unclear. Therefore, more studies are needed to improve this technique and its application in research. Results: In this study, we aimed to develop a single-worm RNA-seq method that includes five steps: worm lysis and RNA extraction, cDNA synthesis, library preparation, sequencing, and sequence data analysis. We found that the mechanical lysis of worms using a Qiagen TissueLyser maintained RNA integrity and determined that the quality of our single-worm libraries was comparable to that of standard RNA-seq libraries based on assessments of a variety of parameters. Furthermore, analysis of pathogen infection-induced gene expression using single-worm RNA-seq identified a core set of genes and biological processes relating to the immune response and metabolism affected by infection. These results demonstrate the effectiveness of our single-worm RNA-seq method in transcriptome profiling and its usefulness in addressing biological questions. Conclusions: We have developed a single-worm RNA-seq method to effectively profile gene expression in individual C. elegans and have applied this method to study C. elegans responses to pathogen infection. Key aspects of our single-worm RNA-seq libraries were comparable to those of standard RNA-seq libraries. The single-worm method captured the core set of, but not all, infection-affected genes and biological processes revealed by the standard method, indicating that there was gene regulation that is not shared by all individuals in a population. Our study suggests that combining single-worm and standard RNA-seq approaches will allow for detecting and distinguishing shared and individual-specific gene activities in isogenic populations.},
+keywords ={Single-worm RNA sequencing, Low-input RNA sequencing, Library preparation, Library quality metrics, Pathogen infection, Caenorhabditis elegans, Immune response},
+note ={https://danhiggins.org/data/papers_other_worm/12864_2022_Article_8878.pdf},
+journal ={BMC Genomics},
+volume ={23},
+pages ={N/A},
+source={7402699c2ba4ebcee002749e954e7068c7d40cfdaeeca7bee7bcb364f314e002}
+}
+
+@Article{
+author ={Kiyomi, Raye and Kaneshiro and Egelhofer, Thea and Rechtsteiner, Andreas and Cockrum, Chad and Strome, Susan and Gasser, Susan and Brunet, Anne},
+title ={Sperm-inherited H3K27me3 epialleles are transmitted transgenerationally in cis},
+year ={},
+doi ={},
+abstract ={},
+keywords ={},
+note ={https://danhiggins.org/data/papers_other_worm/Kaneshiro-2022-Sperm-inherited-hkme-epialleles-are.pdf},
+journal ={},
+volume ={},
+pages ={},
+source={b1af35efbae9d0f8a99ca1106084d304dac7e6633a143da56f3984d6d7043ceb}
+}
+
+@Article{
+author ={Brian J. Thomas and Ira E. Wight and Wendy Y. Y. Chou and Marco Moreno and Zachary Dawson and Arielle Homayouni and Huiyan Huang and Hyori Kim and Hanna Jia and Justin R. Buland and Jennifer A. Wambach and F. Sessions Cole and Stephen C. Pak and Gary A. Silverman and Cliff J. Luke},
+title ={CemOrange2 fusions facilitate multifluorophore subcellular imaging in C. elegans},
+year ={2019},
+doi ={10.1371/journal.pone.0214257},
+abstract ={Due to its ease of genetic manipulation and transparency, Caenorhabditis elegans (C. elegans) has become a preferred model system to study gene function by microscopy. The use of Aequorea victoria green fluorescent protein (GFP) fused to proteins or targeting sequences of interest, further expanded upon the utility of C. elegans by labeling subcellular structures, which enables following their disposition during development or in the presence of genetic mutations. Fluorescent proteins with excitation and emission spectra different from that of GFP accelerated the use of multifluorophore imaging in real time. We have expanded the repertoire of fluorescent proteins for use in C. elegans by developing a codonoptimized version of Orange2 (CemOrange2). Proteins or targeting motifs fused to CemOr-ange2 were distinguishable from the more common fluorophores used in the nematode; such as GFP, YFP, and mKate2. We generated a panel of CemOrange2 fusion constructs, and confirmed they were targeted to their correct subcellular addresses by colocalization with independent markers. To demonstrate the potential usefulness of this new panel of fluorescent protein markers, we showed that CemOrange2 fusion proteins could be used to: 1) monitor biological pathways, 2) multiplex with other fluorescent proteins to determine colocalization and 3) gain phenotypic knowledge of a human ABCA3 orthologue, ABT-4, trafficking variant in the C. elegans model organism.},
+keywords ={},
+note ={https://danhiggins.org/data/papers_other_worm/file333.pdf},
+journal ={PLOS ONE},
+volume ={14},
+pages ={e0214257},
+source={484422038d1dc0bb3daf446e158a19a923f7d0229caf9e751cf3920696db6a73}
+}
+
+@Article{
+author ={Annika Traa and Jeremy M. Van Raamsdonk},
+title ={Developmental disruption of the mitochondrial fission gene<i>drp-1</i>extends the longevity of<i>daf-2</i>insulin/IGF-1 receptor mutant},
+year ={2024},
+doi ={10.1101/2024.02.07.579360},
+abstract ={},
+keywords ={},
+note ={https://danhiggins.org/data/papers_other_worm/2024.02.07.579360v1.full.pdf},
+journal ={},
+volume ={N/A},
+pages ={N/A},
+source={c1f99861a5588c3484993249195d364e306c243b0bb11424735fa53ee470d4f2}
+}
+
+@Article{
+author ={Arwen W. Gao and Iliana A. Chatzispyrou and Rashmi Kamble and Yasmine J. Liu and Katharina Herzog and Reuben L. Smith and Henk van Lenthe and Martin A. T. Vervaart and Arno van Cruchten and Angela C. Luyf and Antoine van Kampen and Mia L. Pras-Raves and Frédéric M. Vaz and Riekelt H. Houtkooper},
+title ={A sensitive mass spectrometry platform identifies metabolic changes of life history traits in C. elegans},
+year ={2017},
+doi ={10.1038/s41598-017-02539-w},
+abstract ={Abnormal nutrient metabolism is a hallmark of aging, and the underlying genetic and nutritional framework is rapidly being uncovered, particularly using C. elegans as a model. However, the direct metabolic consequences of perturbations in life history of C. elegans remain to be clarified. Based on recent advances in the metabolomics field, we optimized and validated a sensitive mass spectrometry (MS) platform for identification of major metabolite classes in worms and applied it to study age and diet related changes. Using this platform that allowed detection of over 600 metabolites in a sample of 2500 worms, we observed marked changes in fatty acids, amino acids and phospholipids during worm life history, which were independent from the germ-line. Worms underwent a striking shift in lipid metabolism after early adulthood that was at least partly controlled by the metabolic regulator AAK-2/AMPK. Most amino acids peaked during development, except aspartic acid and glycine, which accumulated in aged worms. Dietary intervention also influenced worm metabolite profiles and the regulation was highly specific depending on the metabolite class. Altogether, these MS-based methods are powerful tools to perform worm metabolomics for aging and metabolism-oriented studies.},
+keywords ={},
+note ={https://danhiggins.org/data/papers_other_worm/s41598-017-02539-w.pdf},
+journal ={Scientific Reports},
+volume ={7},
+pages ={N/A},
+source={7ddeb5c9f9c6611f08b6d1a9dcfe8f525738298b61749ffa6ead7b959f6b33d8}
+}
+
+@Article{
+author ={Ellen F. Gregory and G.W. Gant Luxton and Daniel A. Starr},
+title ={Anchorage of H3K9-methylated heterochromatin to the nuclear periphery helps mediate P-cell nuclear migration though constricted spaces in<i>Caenorhabditis elegans</i>},
+year ={2024},
+doi ={10.1101/2024.05.22.595380},
+abstract ={Nuclei adjust their deformability while migrating through constrictions to enable structural changes and maintain nuclear integrity. The effect of heterochromatin anchored at the nucleoplasmic face of the inner nuclear membrane on nuclear morphology and deformability during in vivo nuclear migration through constricted spaces remains unclear. Here, we show that abolishing peripheral heterochromatin anchorage by eliminating CEC-4, a chromodomain protein that tethers H3K9-methylated chromatin to the nuclear periphery, disrupts constrained P-cell nuclear migration in Caenorhabditis elegans larvae in the absence of the established LINC complex-dependent pathway. CEC-4 acts in parallel to an actin and CDC-42-based pathway. We also demonstrate the necessity for the chromatin methyltransferases MET-2 and JMJD-1.2 during P-cell nuclear migration in the absence of functional LINC complexes. We conclude that H3K9nethylated chromatin needs to be anchored to the nucleoplasmic face of the inner nuclear membrane to help facilitate nuclear migration through constricted spaces in vivo.},
+keywords ={},
+note ={https://danhiggins.org/data/papers_other_worm/2024.05.22.595380v1.full.pdf},
+journal ={},
+volume ={N/A},
+pages ={N/A},
+source={56c287798d632e45be35232352bde2d49d2f9dcd1e912139eda359aec3039321}
+}
+
+@Article{
+author ={Tiffany L. Dunbar and Zhi Yan and Keir M. Balla and Margery G. Smelkinson and Emily R. Troemel},
+title ={C. elegans Detects Pathogen-Induced Translational Inhibition to Activate Immune Signaling},
+year ={2012},
+doi ={10.1016/j.chom.2012.02.008},
+abstract ={Pathogens commonly disrupt host cell processes or cause damage, but the surveillance mechanisms used by animals to monitor these attacks are poorly understood. Upon infection with pathogenic Pseudomonas aeruginosa, the nematode C. elegans upregulates infection response gene irg-1 using the zip-2 bZIP transcription factor. Here we show that P. aeruginosa infection inhibits mRNA translation in the intestine via the endocytosed translation inhibitor Exotoxin A, which leads to an increase in ZIP-2 protein levels. In the absence of infection we find that the zip-2/irg-1 pathway is upregulated following disruption of several core host processes, including inhibition of mRNA translation. ZIP-2 induction is conferred by a conserved upstream open reading frame in zip-2 that could de-repress ZIP-2 translation upon infection. Thus, translational inhibition, a common pathogenic strategy, can trigger activation of an immune surveillance pathway to provide host defense.},
+keywords ={},
+note ={https://danhiggins.org/data/papers_other_worm/nihms364799.pdf},
+journal ={Cell Host &amp; Microbe},
+volume ={11},
+pages ={375-386},
+source={b96f30f289064d963f6bb13470322768457fd4b2734309bd57ff63e7b99500cf}
+}
+
+@Article{
+author ={John O. Onukwufor and M. Arsalan Farooqi and Anežka Vodičková and Shon A. Koren and Aksana Baldzizhar and Brandon J. Berry and Gisela Beutner and George A. Porter and Vsevolod Belousov and Alan Grossfield and Andrew P. Wojtovich},
+title ={A reversible mitochondrial complex I thiol switch mediates hypoxic avoidance behavior in C. elegans},
+year ={2022},
+doi ={10.1038/s41467-022-30169-y},
+abstract ={C. elegans react to metabolic distress caused by mismatches in oxygen and energy status via distinct behavioral responses. At the molecular level, these responses are coordinated by under-characterized, redox-sensitive processes, thought to initiate in mitochondria. Complex I of the electron transport chain is a major site of reactive oxygen species (ROS) production and is canonically associated with oxidative damage following hypoxic exposure. Here, we use a combination of optogenetics and CRISPR/Cas9-mediated genome editing to exert spatiotemporal control over ROS production. We demonstrate a photo-locomotory remodeling of avoidance behavior by local ROS production due to the reversible oxidation of a single thiol on the complex I subunit NDUF-2.1. Reversible thiol oxidation at this site is necessary and sufficient for the behavioral response to hypoxia, does not respond to ROS produced at more distal sites, and protects against lethal hypoxic exposure. Molecular modeling suggests that oxidation at this thiol residue alters the ability for NDUF-2.1 to coordinate electron transfer to coenzyme Q by destabilizing the Q-binding pocket, causing decreased complex I activity. Overall, site-specific ROS production regulates behavioral responses and these findings provide a mechanistic target to suppress the detrimental effects of hypoxia.},
+keywords ={},
+note ={https://danhiggins.org/data/papers_other_worm/s41467-022-30169-y.pdf},
+journal ={Nature Communications},
+volume ={13},
+pages ={N/A},
+source={147fb08bcdf8da58c3a0d8f02422c72ff4ec84b4c2e827813010414e01986c57}
+}
+
+@Article{
+author ={Murat Artan and Markus Hartl and Weiqiang Chen and Mario de Bono},
+title ={Depletion of endogenously biotinylated carboxylases enhances the sensitivity of TurboID-mediated proximity labeling in Caenorhabditis elegans},
+year ={2022},
+doi ={10.1016/j.jbc.2022.102343},
+abstract ={Edited by Elizabeth Coulson Proximity-dependent protein labeling provides a powerful in vivo strategy to characterize the interactomes of specific proteins. We previously optimized a proximity labeling protocol for Caenorhabditis elegans using the highly active biotin ligase TurboID. A significant constraint on the sensitivity of TurboID is the presence of abundant endogenously biotinylated proteins that take up bandwidth in the mass spectrometer, notably carboxylases that use biotin as a cofactor. In C. elegans, these comprise POD-2/acetyl-CoA carboxylase alpha, PCCA-1/propionyl-CoA carboxylase alpha, PYC-1/ pyruvate carboxylase, and MCCC-1/methylcrotonyl-CoA carboxylase alpha. Here, we developed ways to remove these carboxylases prior to streptavidin purification and mass spectrometry by engineering their corresponding genes to add a Cterminal His 10 tag. This allows us to deplete them from C. elegans lysates using immobilized metal affinity chromatography. To demonstrate the method's efficacy, we use it to expand the interactome map of the presynaptic active zone protein ELKS-1. We identify many known active zone proteins, including UNC-10/RIM, SYD-2/liprin-alpha, SAD-1/BRSK1, CLA-1/CLArinet, C16E9.2/Sentryn, as well as previously uncharacterized potentially synaptic proteins such as the ortholog of human angiomotin, F59C12.3 and the uncharacterized protein R148.3. Our approach provides a quick and inexpensive solution to a common contaminant problem in biotin-dependent proximity labeling. The approach may be applicable to other model organisms and will enable deeper and more complete analysis of interactors for proteins of interest.},
+keywords ={},
+note ={https://danhiggins.org/data/papers_other_worm/main000.pdf},
+journal ={Journal of Biological Chemistry},
+volume ={298},
+pages ={102343},
+source={3dbb75e4d2ba5a785c5ae1fad9aa8d020db8c3897eacd7be74d368a72144623a}
+}
+
+@Article{
+author ={Emily Machiela and Thomas Liontis and Dylan J. Dues and Paige D. Rudich and Annika Traa and Leslie Wyman and Corah Kaufman and Jason F. Cooper and Leira Lew and Saravanapriah Nadarajan and Megan M. Senchuk and Jeremy M. Van Raamsdonk},
+title ={Disruption of mitochondrial dynamics increases stress resistance through activation of multiple stress response pathways},
+year ={2020},
+doi ={10.1096/fj.201903235R},
+abstract ={Mitochondria are dynamic organelles that can change shape and size depending on the needs of the cell through the processes of mitochondrial fission and fusion. In this work, we investigated the role of mitochondrial dynamics in organismal stress},
+keywords ={ANOVA, analysis of variance, ATP, adenosine triphosphate, cDNA, complementary deoxyribose nucleic acid, cytoUPR, cytosolic unfolded protein response, ER-UPR, endoplasmic reticulum unfolded protein response, EV, empty vector, FUdR, 5-Fluoro-2'-deoxyuridine, GFP, green fluorescent protein, GTP, guanosine triphosphate, IPTG, isopropyl β-D-1-thiogalactopyranoside, mitoUPR, mitochondrial unfolded protein response, mRNA, messenger RNA, NGM, nematode growth media, PCR, polymerase chain reaction, qPCR, quantitative PCR, RNA, ribonucleic acid, RNAi, RNA interference, ROS, reactive oxygen species, RT-PCR, reverse transcriptase PCR},
+note ={https://danhiggins.org/data/papers_other_worm/The%20FASEB%20Journal%20-%202020%20-%20Machiela%20-%20Disruption%20of%20mitochondrial%20dynamics%20increases%20stress%20resistance%20through%20activation.pdf},
+journal ={The FASEB Journal},
+volume ={34},
+pages ={8475-8492},
+source={74adb86a5560b28fb6481c95626b631625800e4b52d458c3f86351ce06d880b0}
+}
+
+@Article{
+author ={Liang, Vanessa and Ullrich, Milena and Lam, Hong and Chew, Yee and Banister, Samuel and Song, Xiaomin and Zaw, Thiri and Kassiou, Michael and Götz, Jürgen and Nicholas, Hannah and Lam},
+title ={Cellular and Molecular Life Sciences},
+year ={2014},
+doi ={10.1007/s00018-014-1558-7},
+abstract ={the de novo proteome. For that, we established a novel method that enables both the visualization and identification of de novo synthesized proteins, by incorporating the noncanonical methionine analogue, azidohomoalanine (aha), into the nascent polypeptides, followed by reacting the azide group of aha by 'click chemistry' with an alkyne-labeled tag. Our analysis of aha-tagged peptides demonstrated that the decreased abundance of, for example, ribosomal proteins in aged animals is not solely due to degradation but also reflects a relative decrease in their synthesis. Interestingly, although the net rate of protein synthesis is reduced in aged animals, our analyses indicate that the synthesis of certain proteins such as the vitellogenins increases with age. Keywords Click chemistry • heat shock proteins • itRaQ quantitative mass spectrometry • Ribosomal proteins • aging • C.},
+keywords ={},
+note ={https://danhiggins.org/data/papers_other_worm/s00018-014-1558-7.pdf},
+journal ={},
+volume ={},
+pages ={},
+source={4583b822194d10d8cdc5c3569d4b9b3e08160e1cdd9edea1a88fe8e32c82e961}
+}
+
+@Article{
+author ={Adriaensse, Elias and Asselbergh, Bob and Rivera-Mejías, Pablo and Bervoets, Sven and Vendredy, Leen and De Winter, Vicky and Spaas, Katri and De Rycke, Riet and Van Isterdael, Gert and Impens, Franc and Langer, Thomas and Timmerman, Vincent},
+title ={nature cell biology},
+year ={2023},
+doi ={10.1038/s41556-022-01074-9},
+abstract ={},
+keywords ={},
+note ={https://danhiggins.org/data/papers_other_worm/s41556-022-01074-9.pdf},
+journal ={},
+volume ={},
+pages ={},
+source={1a73d1438f9892931dc5155f8c0f0d28a895fd9b28c8923eabbdfea21a9d56c9}
+}
+
+@Article{
+author ={Yuyu Zhang and Julia Jelleschitz and Tilman Grune and Weixuan Chen and Yihang Zhao and Mengzhen Jia and Yajie Wang and Zhigang Liu and Annika Höhn},
+title ={Methionine restriction - Association with redox homeostasis and implications on aging and diseases},
+year ={2022},
+doi ={10.1016/j.redox.2022.102464},
+abstract ={Methionine is an essential amino acid, involved in the promotion of growth, immunity, and regulation of energy metabolism. Over the decades, research has long focused on the beneficial effects of methionine supplementation, while data on positive effects of methionine restriction (MR) were first published in 1993. MR is a lowmethionine dietary intervention that has been reported to ameliorate aging and aging-related health concomitants and diseases, such as obesity, type 2 diabetes, and cognitive disorders. In addition, MR seems to be an approach to prolong lifespan which has been validated extensively in various animal models, such as Caenorhabditis elegans, Drosophila, yeast, and murine models. MR appears to be associated with a reduction in oxidative stress via so far mainly undiscovered mechanisms, and these changes in redox status appear to be one of the underlying mechanisms for lifespan extension and beneficial health effects. In the present review, the association of methionine metabolism pathways with redox homeostasis is described. In addition, the effects of MR on lifespan, age-related implications, comorbidities, and diseases are discussed.},
+keywords ={},
+note ={https://danhiggins.org/data/papers_other_worm/main123.pdf},
+journal ={Redox Biology},
+volume ={57},
+pages ={102464},
+source={a8b773d32ef1d03a8222b2b42ceaae973310e8de55de333350c0bd1f5f75afa9}
+}
+
+@Article{
+author ={Wen Yang and Siegfried Hekimi},
+title ={Two modes of mitochondrial dysfunction lead independently to lifespan extension in <i>Caenorhabditis elegans</i>},
+year ={2010},
+doi ={10.1111/j.1474-9726.2010.00571.x},
+abstract ={In Caenorhabditis elegans, longevity is increased by a partial loss-of-function mutation in the mitochondrial complex III subunit gene isp-1. Longevity is also increased by RNAi against the expression of a variety of mitochondrial respiratory chain genes, including isp-1, but it is unknown whether the isp-1(qm150) mutation and the RNAi treatments trigger the same underlying mechanisms of longevity. We have identified nuo-6(qm200), a mutation in a conserved subunit of mitochondrial complex I (NUDFB4). The mutation reduces the function of complex I and, like isp-1(qm150), results in low oxygen consumption, slow growth, slow behavior, and increased lifespan. We have compared the phenotypes of nuo-6(qm200) to those of nuo-6(RNAi) and found them to be distinct in crucial ways, including patterns of growth and fertility, behavioral rates, oxygen consumption, ATP levels, autophagy, and resistance to paraquat, as well as expression of superoxide dismutases, mitochondrial heat-shock proteins, and other gene expression markers. RNAi treatments appear to generate a stress and autophagy response, while the genomic mutation alters electron transport and reactive oxygen species metabolism. For many phenotypes, we also compared isp-1(qm150) to isp-1(RNAi) and found the same pattern of differences. Most importantly, we found that, while the lifespan of nuo-6, isp-1 double mutants is not greater than that of the single mutants, the lifespan increase induced by nuo-6(RNAi) is fully additive to that induced by isp-1(qm150), and the increase induced by isp-1(RNAi) is fully additive to that induced by nuo-6(qm200). Our results demonstrate that distinct and separable aspects of mitochondrial biology affect lifespan independently.},
+keywords ={aging, C. elegans, electron transport, isp-1, mitochondria, nuo-6},
+note ={https://danhiggins.org/data/papers_other_worm/Aging%20Cell%20-%202010%20-%20Yang%20-%20Two%20modes%20of%20mitochondrial%20dysfunction%20lead%20independently%20to%20lifespan%20extension%20in.pdf},
+journal ={Aging Cell},
+volume ={9},
+pages ={433-447},
+source={785fe8d0a48ee33f3cf9d2f01880e72c0ed6d2a78361f4c6d72383223fb8599e}
+}
+
+@Article{
+author ={Li-Wa Shao and Qi Peng and Mingyue Dong and Kaiyu Gao and Yumei Li and Yi Li and Chuan-Yun Li and Ying Liu},
+title ={Histone deacetylase HDA-1 modulates mitochondrial stress response and longevity},
+year ={2020},
+doi ={10.1038/s41467-020-18501-w},
+abstract ={The ability to detect, respond and adapt to mitochondrial stress ensures the development and survival of organisms. Caenorhabditis elegans responds to mitochondrial stress by activating the mitochondrial unfolded protein response (UPR mt) to buffer the mitochondrial folding environment, rewire the metabolic state, and promote innate immunity and lifespan extension. Here we show that HDA-1, the C. elegans ortholog of mammalian histone deacetylase (HDAC) is required for mitochondrial stress-mediated activation of UPR mt. HDA-1 interacts and coordinates with the genome organizer DVE-1 to induce the transcription of a broad spectrum of UPR mt , innate immune response and metabolic reprogramming genes. In rhesus monkey and human tissues, HDAC1/2 transcript levels correlate with the expression of UPR mt genes. Knocking down or pharmacological inhibition of HDAC1/2 disrupts the activation of the UPR mt and the mitochondrial network in mammalian cells. Our results underscore an evolutionarily conserved mechanism of HDAC1/2 in modulating mitochondrial homeostasis and regulating longevity.},
+keywords ={},
+note ={https://danhiggins.org/data/papers_other_worm/s41467-020-18501-w.pdf},
+journal ={Nature Communications},
+volume ={11},
+pages ={N/A},
+source={4a4b9964cc1467ba30809a282e6fcfe12412fa726549f45f24819bfe6edd77a6}
+}
+
+@Article{
+author ={Pavak Shah and Zhirong Bao and Ronen Zaidel-Bar},
+title ={Visualizing and quantifying molecular and cellular processes in <i>Caenorhabditis elegans</i> using light microscopy},
+year ={2022},
+doi ={10.1093/genetics/iyac068},
+abstract ={Light microscopes are the cell and developmental biologists' "best friend," providing a means to see structures and follow dynamics from the protein to the organism level. A huge advantage of Caenorhabditis elegans as a model organism is its transparency, which coupled with its small size means that nearly every biological process can be observed and measured with the appropriate probe and light microscope. Continuous improvement in microscope technologies along with novel genome editing techniques to create transgenic probes have facilitated the development and implementation of a dizzying array of methods for imaging worm embryos, larvae, and adults. In this review, we provide an overview of the molecular and cellular processes that can be visualized in living worms using light microscopy. A partial inventory of fluorescent probes and techniques successfully used in worms to image the dynamics of cells, organelles, DNA, and protein localization and activity is followed by a practical guide to choosing between various imaging modalities, including widefield, confocal, lightsheet, and structured illumination microscopy. Finally, we discuss the available tools and approaches, including machine learning, for quantitative image analysis tasks, such as colocalization, segmentation, object tracking, and lineage tracing. Hopefully, this review will inspire worm researchers who have not yet imaged their worms to begin, and push those who are imaging to go faster, finer, and longer.},
+keywords ={fluorescence microscopy, confocal microscopy, lightsheet microscopy, green fluorescent protein, image analysis, super resolution, molecular dynamics, activity sensors, localization, spatiotemporal resolution, WormBook},
+note ={https://danhiggins.org/data/papers_other_worm/iyac068.pdf},
+journal ={Genetics},
+volume ={221},
+pages ={N/A},
+source={f019d3b918049d241024954015c6c88b00fda35ddce90ac51dbea438b4c77404}
+}
+
+@Article{
+author ={Saxton, Matthew and Morisaki, Tatsuya and Krapf, Diego and Kimura, Hiroshi and Stasevich, Timothy},
+title ={Live-cell imaging uncovers the relationship between histone acetylation, transcription initiation, and nucleosome mobility},
+year ={},
+doi ={},
+abstract ={Histone acetylation and RNA polymerase II phosphorylation are associated with transcriptionally active chromatin, but their spatiotemporal relationship in live cells remains poorly understood. To address this problem, we combine Fab-based labeling of endogenous protein modifications with single-molecule tracking to quantify the dynamics of chromatin enriched with histone H3 lysine-27 acetylation (H3K27ac) and RNA polymerase II serine-5 phosphorylation (RNAP2-Ser5ph). Our analysis reveals that chromatin enriched with these two modifications is generally separate. In these separated sites, we show that the two modifications are inversely correlated with one another on the minutes time scale and that single nucleosomes within each region display distinct and opposing dynamics on the subsecond time scale. While nucleosomes diffuse ~15% faster in chromatin enriched with H3K27ac, they diffuse ~15% slower in chromatin enriched with RNAP2-Ser5ph. These results argue that high levels of H3K27ac and RNAP2-Ser5ph are not often present together at the same place and time, but rather each marks distinct transcriptionally poised or active sites, respectively.},
+keywords ={},
+note ={https://danhiggins.org/data/papers_other_worm/sciadv.adh4819.pdf},
+journal ={},
+volume ={},
+pages ={},
+source={b1d4ac8a9506ab66408dd4d0df7274fadd8e49660d4b9dc78321e75ff626e565}
+}
+
+@Article{
+author ={Nicholas D. Serra and Chelsea B. Darwin and Meera V. Sundaram},
+title ={<i>C. elegans</i>Hedgehog-related proteins are tissue- and substructure-specific components of the cuticle and pre-cuticle},
+year ={2023},
+doi ={10.1101/2023.12.26.573316},
+abstract ={In C. elegans, divergent Hedgehog-related (Hh-r) and Patched-related (PTR) proteins promote numerous processes ranging from epithelial and sense organ development to pathogen responses to cuticle shedding during the molt cycle. Here we show that Hh-r proteins are actual components of the cuticle and pre-cuticle apical extracellular matrices (aECMs) that coat, shape, and protect external epithelia. Different Hh-r proteins stably associate with the aECMs of specific tissues and with specific substructures such as furrows and alae. Hh-r mutations can disrupt matrix structure. These results provide a unifying model for the function of nematode Hh-r proteins and highlight ancient connections between Hh proteins and the extracellular matrix.},
+keywords ={},
+note ={https://danhiggins.org/data/papers_other_worm/nihpp-2023.12.26.573316v1.pdf},
+journal ={},
+volume ={N/A},
+pages ={N/A},
+source={f8ee06becb428ea31ac8a29c215428462a82810080f5209003c68b44ee88472b}
+}
+
+@Article{
+author ={Eyleen J. O'Rourke and Alexander A. Soukas and Christopher E. Carr and Gary Ruvkun},
+title ={C. elegans Major Fats Are Stored in Vesicles Distinct from Lysosome-Related Organelles},
+year ={2009},
+doi ={10.1016/j.cmet.2009.10.002},
+abstract ={Genetic conservation allows ancient features of fat storage endocrine pathways to be explored in C. elegans. Multiple studies have used Nile red or BODIPY-labeled fatty acids to identify regulators of fat mass. When mixed with their food, E. coli bacteria, Nile red, and BODIPY-labeled fatty acids stain multiple spherical cellular structures in the C. elegans major fat storage organ, the intestine. However, here we demonstrate that, in the conditions previously reported, the lysosome-related organelles stained by Nile red and BODIPY-labeled fatty acids are not the C. elegans major fat storage compartment. We show that the major fat stores are contained in a distinct cellular compartment that is not stained by Nile red. Using biochemical assays, we validate oil red O staining as a method to assess major fat stores in C. elegans, allowing for efficient and accurate genetic and functional genomic screens for genes that control fat accumulation at the organismal level.},
+keywords ={},
+note ={https://danhiggins.org/data/papers_other_worm/1-s2.0-S1550413109003015-main.pdf},
+journal ={Cell Metabolism},
+volume ={10},
+pages ={430-435},
+source={5e1de88b1e53e29be84034aa0ec9d61a1776a61244d1cb77ea6ff8f4986311ff}
+}
+
+@Article{
+author ={Stacey L. Edwards and Purevsuren Erdenebat and Allison C. Morphis and Lalit Kumar and Lai Wang and Tomasz Chamera and Constantin Georgescu and Jonathan D. Wren and Jian Li},
+title ={Insulin/IGF-1 signaling and heat stress differentially regulate HSF1 activities in germline development},
+year ={2021},
+doi ={10.1016/j.celrep.2021.109623},
+abstract ={Using auxin-inducible degradation in Caenorhabditis elegans, Edwards et al. uncover germline-specific activities of HSF-1 that only induce the canonical heat shock response in a subset of germ cells upon stress but are coupled to nutrientsensing insulin/IGF-1 signaling during development to enhance expression of key proteostatic genes in support of rapid germline proliferation.},
+keywords ={},
+note ={https://danhiggins.org/data/papers_other_worm/1-s2.0-S2211124721010615-main.pdf},
+journal ={Cell Reports},
+volume ={36},
+pages ={109623},
+source={64b2dbe9b68818547599c941c8ddb48ec060e4a54d1701452e5d466665d05984}
+}
+
+@Article{
+author ={Bennett W. Fox and Maximilian J. Helf and Russell N. Burkhardt and Alexander B. Artyukhin and Brian J. Curtis and Diana Fajardo Palomino and Amaresh Chaturbedi and Arnaud Tauffenberger and Chester J.J. Wrobel and Ying K. Zhang and Siu Sylvia Lee and Frank C. Schroeder},
+title ={Evolutionarily related host and microbial pathways regulate fat desaturation},
+year ={2023},
+doi ={10.1101/2023.08.31.555782},
+abstract ={},
+keywords ={},
+note ={https://danhiggins.org/data/papers_other_worm/2023.08.31.555782v1.full.pdf},
+journal ={},
+volume ={N/A},
+pages ={N/A},
+source={74f5bbcda733c48f1608aa2741304763f263b1446a76990cc738ee5e3ec3f3e1}
+}
+
+@Article{
+author ={Caroline Kumsta and Jessica T. Chang and Jessica Schmalz and Malene Hansen},
+title ={Hormetic heat stress and HSF-1 induce autophagy to improve survival and proteostasis in C. elegans},
+year ={2017},
+doi ={10.1038/ncomms14337},
+abstract ={Stress-response pathways have evolved to maintain cellular homeostasis and to ensure the survival of organisms under changing environmental conditions. Whereas severe stress is detrimental, mild stress can be beneficial for health and survival, known as hormesis. Although the universally conserved heat-shock response regulated by transcription factor HSF-1 has been implicated as an effector mechanism, the role and possible interplay with other cellular processes, such as autophagy, remains poorly understood. Here we show that autophagy is induced in multiple tissues of Caenorhabditis elegans following hormetic heat stress or HSF-1 overexpression. Autophagy-related genes are required for the thermoresistance and longevity of animals exposed to hormetic heat shock or HSF-1 overexpression. Hormetic heat shock also reduces the progressive accumulation of PolyQ aggregates in an autophagy-dependent manner. These findings demonstrate that autophagy contributes to stress resistance and hormesis, and reveal a requirement for autophagy in HSF-1-regulated functions in the heat-shock response, proteostasis and ageing.},
+keywords ={},
+note ={https://danhiggins.org/data/papers_other_worm/ncomms14337.pdf},
+journal ={Nature Communications},
+volume ={8},
+pages ={N/A},
+source={3fe496e0c8705ceb3459731ea9e606ee4e121d510099f64117c753a5f6f342b0}
+}
+
+@Article{
+author ={Aleksandra Zečić and Ineke Dhondt and Bart P. Braeckman},
+title ={The nutritional requirements of Caenorhabditis elegans},
+year ={2019},
+doi ={10.1186/s12263-019-0637-7},
+abstract ={Animals require sufficient intake of a variety of nutrients to support their development, somatic maintenance and reproduction. An adequate diet provides cell building blocks, chemical energy to drive cellular processes and essential nutrients that cannot be synthesised by the animal, or at least not in the required amounts. Dietary requirements of nematodes, including Caenorhabditis elegans have been extensively studied with the major aim to develop a chemically defined axenic medium that would support their growth and reproduction. At the same time, these studies helped elucidating important aspects of nutrition-related biochemistry and metabolism as well as the establishment of C. elegans as a powerful model in studying evolutionarily conserved pathways, and the influence of the diet on health.},
+keywords ={Caenorhabditis elegans, Nutrition, Model organism, Diet},
+note ={https://danhiggins.org/data/papers_other_worm/s12263-019-0637-7.pdf},
+journal ={Genes &amp; Nutrition},
+volume ={14},
+pages ={N/A},
+source={8501ee9cad4845ddf975ee25fc5d8f2c2313d080468ad5b5ccf4b11705f174d1}
+}
+
+@Article{
+author ={Murat Artan and Stephen Barratt and Sean M. Flynn and Farida Begum and Mark Skehel and Armel Nicolas and Mario de Bono},
+title ={Interactome analysis of Caenorhabditis elegans synapses by TurboID-based proximity labeling},
+year ={2021},
+doi ={10.1016/j.jbc.2021.101094},
+abstract ={Proximity labeling provides a powerful in vivo tool to characterize the proteome of subcellular structures and the interactome of specific proteins. The nematode Caenorhabditis elegans is one of the most intensely studied organisms in biology, offering many advantages for biochemistry. Using the highly active biotin ligase TurboID, we optimize here a proximity labeling protocol for C. elegans. An advantage of TurboID is that biotin's high affinity for streptavidin means biotin-labeled proteins can be affinitypurified under harsh denaturing conditions. By combining extensive sonication with aggressive denaturation using SDS and urea, we achieved near-complete solubilization of worm proteins. We then used this protocol to characterize the proteomes of the worm gut, muscle, skin, and nervous system. Neurons are among the smallest C. elegans cells. To probe the method's sensitivity, we expressed TurboID exclusively in the two AFD neurons and showed that the protocol could identify known and previously unknown proteins expressed selectively in AFD. The active zones of synapses are composed of a protein matrix that is difficult to solubilize and purify. To test if our protocol could solubilize active zone proteins, we knocked TurboID into the endogenous elks-1 gene, which encodes a presynaptic active zone protein. We identified many known ELKS-1-interacting active zone proteins, as well as previously uncharacterized synaptic proteins. Versatile vectors and the inherent advantages of using C. elegans, including fast growth and the ability to rapidly make and functionally test knock-ins, make proximity labeling a valuable addition to the armory of this model organism.},
+keywords ={},
+note ={https://danhiggins.org/data/papers_other_worm/main666.pdf},
+journal ={Journal of Biological Chemistry},
+volume ={297},
+pages ={101094},
+source={96e484a094cf8c078aa39c4c40b6d8b544d361e0e7771c43556b5db729014273}
+}
+
+@Article{
+author ={Konstantinos Palikaras and Eirini Lionaki and Nektarios Tavernarakis},
+title ={Coordination of mitophagy and mitochondrial biogenesis during ageing in C. elegans},
+year ={2015},
+doi ={10.1038/nature14300},
+abstract ={},
+keywords ={},
+note ={https://danhiggins.org/data/papers_other_worm/nature14300.pdf},
+journal ={Nature},
+volume ={521},
+pages ={525-528},
+source={1603274d4ebe7122ac892b25d789cb21fd101cf36e808071e95a67637a1b6e3c}
+}
+
+@Article{
+author ={L Ryan Baugh and Patrick J Hu},
+title ={Starvation Responses Throughout the<i>Caenorhabditis</i> <i>elegans</i>Life Cycle},
+year ={2020},
+doi ={10.1534/genetics.120.303565},
+abstract ={Caenorhabditis elegans survives on ephemeral food sources in the wild, and the species has a variety of adaptive responses to starvation. These features of its life history make the worm a powerful model for studying developmental, behavioral, and metabolic starvation responses. Starvation resistance is fundamental to life in the wild, and it is relevant to aging and common diseases such as cancer and diabetes. Worms respond to acute starvation at different times in the life cycle by arresting development and altering gene expression and metabolism. They also anticipate starvation during early larval development, engaging an alternative developmental program resulting in dauer diapause. By arresting development, these responses postpone growth and reproduction until feeding resumes. A common set of signaling pathways mediates systemic regulation of development in each context but with important distinctions. Several aspects of behavior, including feeding, foraging, taxis, egg laying, sleep, and associative learning, are also affected by starvation. A variety of conserved signaling, gene regulatory, and metabolic mechanisms support adaptation to starvation. Early life starvation can have persistent effects on adults and their descendants. With its short generation time, C. elegans is an ideal model for studying maternal provisioning, transgenerational epigenetic inheritance, and developmental origins of adult health and disease in humans. This review provides a comprehensive overview of starvation responses throughout the C. elegans life cycle.},
+keywords ={dauer, L1 arrest, starvation, quiescence, WormBook},
+note ={https://danhiggins.org/data/papers_other_worm/genetics0837.pdf},
+journal ={Genetics},
+volume ={216},
+pages ={837-878},
+source={ff54e16a0c5ce1a40301d958600da6b4e24dfe762eddb11163422d634259210d}
+}
+
+@Article{
+author ={Suriyalaksh, Manusnan and Raimondi, Celia and Mains, Abraham and Segonds-Pichon, Anne and Mukhtar, Shahzabe and Murdoch, Sharlene and Aldunate, Rebeca and Krueger, Felix and Guimera, Roger and Andrews, Simon and Sales-Pardo, Marta and Casanueva, Olivia},
+title ={Gene regulatory network inference in long-lived C. elegans reveals modular properties that are predictive of novel aging genes},
+year ={},
+doi ={10.1016/j.isci},
+abstract ={Highlights Gene-regulatory inference provides global network of long-lived animals},
+keywords ={},
+note ={https://danhiggins.org/data/papers_other_worm/1-s2.0-S2589004221016333-main.pdf},
+journal ={},
+volume ={},
+pages ={},
+source={276e08e05ee41277a0adfc7f34753293143339173139516edd393f217aaf81ec}
+}
+
+@Article{
+author ={Amy K Webster and Rojin Chitrakar and Maya Powell and Jingxian Chen and Kinsey Fisher and Robyn E Tanny and Lewis Stevens and Kathryn Evans and Angela Wei and Igor Antoshechkin and Erik C Andersen and L Ryan Baugh},
+title ={Using population selection and sequencing to characterize natural variation of starvation resistance in Caenorhabditis elegans},
+year ={2022},
+doi ={10.7554/eLife.80204},
+abstract ={Starvation resistance is important to disease and fitness, but the genetic basis of its natural variation is unknown. Uncovering the genetic basis of complex, quantitative traits such as starvation resistance is technically challenging. We developed a synthetic-population (re)sequencing approach using molecular inversion probes (MIP-seq) to measure relative fitness during and after larval starvation in Caenorhabditis elegans. We applied this competitive assay to 100 genetically diverse, sequenced, wild strains, revealing natural variation in starvation resistance. We confirmed that the most starvation-resistant strains survive and recover from starvation better than the most starvation-sensitive strains using standard assays. We performed genome-wide association (GWA) with the MIP-seq trait data and identified three quantitative trait loci (QTL) for starvation resistance, and we created near isogenic lines (NILs) to validate the effect of these QTL on the trait. These QTL contain numerous candidate genes including several members of the Insulin/EGF Receptor-L Domain (irld) family. We used genome editing to show that four different irld genes have modest effects on starvation resistance. Natural variants of irld-39 and irld-52 affect starvation resistance, and increased resistance of the irld-39; irld-52 double mutant depends on daf-16/FoxO. DAF-16/ FoxO is a widely conserved transcriptional effector of insulin/IGF signaling (IIS), and these results suggest that IRLD proteins modify IIS, although they may act through other mechanisms as well. This work demonstrates efficacy of using MIP-seq to dissect a complex trait and it suggests that irld genes are natural modifiers of starvation resistance in C. elegans. Editor's evaluation The authors identify natural genetic variants in C. elegans that are associated with variation in starvation resistance. The authors focus on a gene family (irld's) that are thought to regulate insulin signaling. These studies are very interesting in that the approach for identifying natural gene variants is highly innovative and the work provides novel information about this family of genes.},
+keywords ={},
+note ={https://danhiggins.org/data/papers_other_worm/elife-80204-v2.pdf},
+journal ={eLife},
+volume ={11},
+pages ={N/A},
+source={3eab40a21f74ffe5050b05fb600fe39d6bfc0f1a3d539984348bd773ab166800}
+}
+
+@Article{
+author ={Li-Tzu Chen and Chih-Ta Lin and Liang-Yi Lin and Jiun-Min Hsu and Yu-Chun Wu and Chun-Liang Pan},
+title ={Neuronal mitochondrial dynamics coordinate systemic mitochondrial morphology and stress response to confer pathogen resistance in C. elegans},
+year ={2021},
+doi ={10.1016/j.devcel.2021.04.021},
+abstract ={Highlights d Neuronal mitochondrial dynamics control global mitochondrial states d Neuronal signals regulate stress responses and mitophagy nonautonomously d Mitochondrial stress response and mitophagy are independently regulated d Neural control of mitochondrial states strengthens pathogen defense Authors},
+keywords ={},
+note ={https://danhiggins.org/data/papers_other_worm/1-s2.0-S1534580721003592-main.pdf},
+journal ={Developmental Cell},
+volume ={56},
+pages ={1770-1785.e12},
+source={304563e02793105c3828d39da383f9a6e36860f8537593c850ca4eab6f73c0e4}
+}
+
+@Article{
+author ={Johnathan Labbadia and Renee M. Brielmann and Mario F. Neto and Yi-Fan Lin and Cole M. Haynes and Richard I. Morimoto},
+title ={Mitochondrial Stress Restores the Heat Shock Response and Prevents Proteostasis Collapse during Aging},
+year ={2017},
+doi ={10.1016/j.celrep.2017.10.038},
+abstract ={Highlights d Impaired mitochondrial function suppresses the programmed repression of the HSR d Mitochondria regulate the collapse of stress resistance and cytosolic proteostasis d The effect of mitochondria on stress resistance and proteostasis is regulated by HSF-1},
+keywords ={},
+note ={https://danhiggins.org/data/papers_other_worm/PIIS2211124717314857.pdf},
+journal ={Cell Reports},
+volume ={21},
+pages ={1481-1494},
+source={9e0c9755bf74af8e450a53f97ddaa6cc209ff7459eee55b6cd2e368f7c2ffa37}
+}
+
+@Article{
+author ={Fischer, Christian and Besora-Casals, Laura and Rolland, Ste and Haeussler, Simon and Singh, Kritarth and Duchen, Michael and Conradt, Barbara and Marr, Carsten},
+title ={MitoSegNet: Easy-to-use Deep Learning Segmentation for Analyzing Mitochondrial Morphology},
+year ={},
+doi ={10.1016/j.isci},
+abstract ={While the analysis of mitochondrial morphology has emerged as a key tool in the study of mitochondrial function, efficient quantification of mitochondrial microscopy images presents a challenging task and bottleneck for statistically robust conclusions. Here, we present Mitochondrial Segmentation Network (MitoSegNet), a pretrained deep learning segmentation model that enables researchers to easily exploit the power of deep learning for the quantification of mitochondrial morphology. We tested the performance of MitoSegNet against three featurebased segmentation algorithms and the machine-learning segmentation tool Ilastik. MitoSegNet outperformed all other methods in both pixelwise and morphological segmentation accuracy. We successfully applied MitoSegNet to unseen fluorescence microscopy images of mitoGFP expressing mitochondria in wild-type and catp-6 ATP13A2 mutant C. elegans adults. Additionally, MitoSegNet was capable of accurately segmenting mitochondria in HeLa cells treated with fragmentation inducing reagents. We provide MitoSegNet in a toolbox for Windows and Linux operating systems that combines segmentation with morphological analysis.},
+keywords ={},
+note ={https://danhiggins.org/data/papers_other_worm/1-s2.0-S2589004220307938-main.pdf},
+journal ={},
+volume ={},
+pages ={},
+source={d7aa92962cf898782dc588b226c49c1401d9abacf80303dad5df927344879bd8}
+}
+
+@Article{
+author ={Rui Miao and Meijiao Li and Qianqian Zhang and Chonglin Yang and Xiaochen Wang},
+title ={An ECM-to-Nucleus Signaling Pathway Activates Lysosomes for C. elegans Larval Development},
+year ={2019},
+doi ={10.1016/j.devcel.2019.10.020},
+abstract ={Highlights d Lysosomes are specifically activated in epidermis at molt to promote ECM replacement d Disturbance of ECM-epidermis attachments triggers lysosomal activation d V-ATPase expression is upregulated at molt by the transcription factors ELT-3 and STA-2},
+keywords ={},
+note ={https://danhiggins.org/data/papers_other_worm/1-s2.0-S1534580719308676-main.pdf},
+journal ={Developmental Cell},
+volume ={52},
+pages ={21-37.e5},
+source={0bb1fd5236e9f4e81f90b7d8c90521507c246eb93f4bf87976f332ec149a5666}
+}
+
+@Article{
+author ={Patricija van Oosten-Hawle},
+title ={Exploiting inter-tissue stress signaling mechanisms to preserve organismal proteostasis during aging},
+year ={2023},
+doi ={10.3389/fphys.2023.1228490},
+abstract ={Aging results in a decline of cellular proteostasis capacity which culminates in the accumulation of phototoxic material, causing the onset of age-related maladies and ultimately cell death. Mechanisms that regulate proteostasis such as cellular stress response pathways sense disturbances in the proteome. They are activated to increase the expression of protein quality control components that counteract cellular damage. Utilizing invertebrate model organisms such as Caenorhabditis elegans, it has become increasingly evident that the regulation of proteostasis and the activation of cellular stress responses is not a cell autonomous process. In animals, stress responses are orchestrated by signals coming from other tissues, including the nervous system, the intestine and the germline that have a profound impact on determining the aging process. Genetic pathways discovered in C. elegans that facilitate cell nonautonomous regulation of stress responses are providing an exciting feeding ground for new interventions. In this review I will discuss cell nonautonomous proteostasis mechanisms and their impact on aging as well as ongoing research and clinical trials that can increase organismal proteostasis to lengthen health-and lifespan.},
+keywords ={proteostasis, aging, stress responses, transcellular, healthspan},
+note ={https://danhiggins.org/data/papers_other_worm/fphys-14-1228490.pdf},
+journal ={Frontiers in Physiology},
+volume ={14},
+pages ={N/A},
+source={5b07251281ca408cf7273a3f94f4cbd9033d2d042488b56c3c43412fff96186d}
+}
+
+@Article{
+author ={Isabel W. Kenny-Ganzert and David R. Sherwood},
+title ={The C. elegans anchor cell: A model to elucidate mechanisms underlying invasion through basement membrane},
+year ={2023},
+doi ={10.1016/j.semcdb.2023.07.002},
+abstract ={Cell invasion through basement membrane barriers is crucial during many developmental processes and in immune surveillance. Dysregulation of invasion also drives the pathology of numerous human diseases, such as metastasis and inflammatory disorders. Cell invasion involves dynamic interactions between the invading cell, basement membrane, and neighboring tissues. Owing to this complexity, cell invasion is challenging to study in vivo, which has hampered the understanding of mechanisms controlling invasion. Caenorhabditis elegans anchor cell invasion is a powerful in vivo model where subcellular imaging of cell-basement membrane interactions can be combined with genetic, genomic, and single-cell molecular perturbation studies. In this review, we outline insights gained by studying anchor cell invasion, which span transcriptional networks, translational regulation, secretory apparatus expansion, dynamic and adaptable protrusions that breach and clear basement membrane, and a complex, localized metabolic network that fuels invasion. Together, investigation of anchor cell invasion is building a comprehensive understanding of the mechanisms that underlie invasion, which we expect will ultimately facilitate better therapeutic strategies to control cell invasive activity in human disease.},
+keywords ={Basement membrane Cell invasion Transcriptional networks Ribosome biogenesis Endomembrane Invadopodia Adaptive invasion Glycolysis Mitochondria ATP BM, Basement membrane, AC, Anchor cell, ER, Endoplasmic reticulum, ECM, Extracellular matrix, VPCs, Vulval precursor cells, MMPs, Matrix metalloproteinases, F-actin, Filamentous actin, EMT, Epithelial-mesenchymal transition, VU, Ventral uterine, PM, Plasma membrane, MT, Microtubules, ATP, Adenosine triphosphate, DIC, Differential Interference Contrast Microscopy},
+note ={https://danhiggins.org/data/papers_other_worm/1-s2.0-S1084952123001398-main.pdf},
+journal ={Seminars in Cell &amp; Developmental Biology},
+volume ={154},
+pages ={23-34},
+source={4463cdddbad8dbc4035528fd5ed8aa4f7f69931a10576d447f6109a61bdaf56a}
+}
+
+@Article{
+author ={Watabe, Eichi and Togo-Ohno, Marina and Ishigami, Yuma and Wani, Shotaro and Hirota, Keiko and Kimura-Asami, Mariko and Hasan, Sharmin and Takei, Satomi and Fukamizu, Akiyoshi and Suzuki, Yutaka and Suzuki, Tsutomu and Kuroyanagi, Hidehito},
+title ={m 6 A-mediated alternative splicing coupled with nonsense-mediated mRNA decay regulates SAM synthetase homeostasis},
+year ={2021},
+doi ={10.15252/embj.2020106434},
+abstract ={Alternative splicing of pre-mRNAs can regulate gene expression levels by coupling with nonsense-mediated mRNA decay (NMD). In order to elucidate a repertoire of mRNAs regulated by alternative splicing coupled with NMD (AS-NMD) in an organism, we performed long-read RNA sequencing of poly(A) + RNAs from an NMD-deficient mutant strain of Caenorhabditis elegans, and obtained full-length sequences for mRNA isoforms from 259 highconfidence AS-NMD genes. Among them are the S-adenosyl-L-methionine (SAM) synthetase (sams) genes sams-3 and sams-4. SAM synthetase activity autoregulates sams gene expression through AS-NMD in a negative feedback loop. We furthermore find that METT-10, the orthologue of human U6 snRNA methyltransferase METTL16, is required for the splicing regulation in vivo, and specifically methylates the invariant AG dinucleotide at the distal 3 0 splice site (3 0 SS) in vitro. Direct RNA sequencing coupled with machine learning confirms m 6 A modification of endogenous sams mRNAs. Overall, these results indicate that homeostasis of SAM synthetase in C. elegans is maintained by alternative splicing regulation through m 6 A modification at the 3 0 SS of the sams genes.},
+keywords ={Caenorhabditis elegans, machine learning, N 6 -methyladenosine, nanopore direct RNA sequencing, S-adenosyl-L-methionine synthetase Subject Categories Chromatin, Transcription & Genomics, RNA Biology},
+note ={https://danhiggins.org/data/papers_other_worm/watabe-et-al-2021-m6a-mediated-alternative-splicing-coupled-with-nonsense-mediated-mrna-decay-regulates-sam-synthetase.pdf},
+journal ={},
+volume ={},
+pages ={},
+source={bb842f4d7d54ccaeb045cea4b7572ef678993e4c83041a38dba29f42fc22535c}
+}
+
+@Article{
+author ={Goyala, Anita and Ewald, Collin},
+title ={CRISPR-activated expression of collagen col-120 increases lifespan and heat tolerance},
+year ={},
+doi ={},
+abstract ={Transgenic overexpression of collagen col-120 increases the lifespan of C. elegans. However, whether post-developmental enhancement of collagen expression could also increase the lifespan is unknown. Recently, we described a method to induce the expression of a target gene using catalytically dead Cas9 (dCas9)-engineered C. elegans via ingestion of bacteria expressing a pair of promoter-specific single guide RNAs (sgRNA). Here, we cloned col-120 promoter-specific sgRNA oligo pair into L4440-Biobrick-sgRNA and fed these bacteria to dCas9::VP64 transgenic C. elegans. We observed a similar percentage of lifespan extension by post-developmentally dCas9-induced expression of col-120, as previously reported through transgenic overexpression of col-120. Consistent with this result is that induction of another previously shown longevity-promoting collagen, col-10, also increased lifespan. Furthermore, we found an enhanced resilience to heat stress and increased expression of hsp-16.2 upon dCas9-activated col-120 expression. Together, these results provide an orthogonal method to validate longevity by enhancing col-120 expression and point towards a potential role of collagen enhancement in thermotolerance.},
+keywords ={},
+note ={https://danhiggins.org/data/papers_other_worm/micropub-biology-000730.pdf},
+journal ={},
+volume ={},
+pages ={},
+source={b0790113fe9e3aa488dbbb7996fbd06aaba677feebd1792cef1bd084f4cf0031}
+}
+
+@Article{
+author ={Yutong Xiao and Callista Yee and Michael A. Q. Martinez and Chris Z. Zhao and Wan Zhang and Kang Shen and David Q. Matus and Christopher Hammell},
+title ={An expandable FLP-ON::TIR1 system for precise spatiotemporal protein degradation in<i>C. elegans</i>},
+year ={2022},
+doi ={10.1101/2022.10.14.512315},
+abstract ={The auxin-inducible degradation system has been widely adopted in the C. elegans research community for its ability to empirically control the spatiotemporal expression of target proteins. This system can efficiently degrade auxin-inducible degron (AID)-tagged proteins via the expression of a ligand-activatable At TIR1 protein derived from A. thaliana that adapts target proteins to the endogenous C. elegans proteosome. While broad expression of At TIR1 using strong, ubiquitous promoters can lead to rapid degradation of AID-tagged proteins, cell type-specific expression of At TIR1 using spatially restricted promoters often results in less efficient target protein degradation. To circumvent this limitation, we have developed a FLP/FRT 3-based system that functions to reanimate a dormant, high-powered promoter that can drive sufficient At TIR1expression in a cell type-specific manner. We benchmark the utility of this system by generating a number of tissue specific FLP-ON::TIR1 drivers to reveal genetically separable cell type-specific phenotypes for several target proteins. We also demonstrate that the FLP-ON::TIR1 system is compatible with enhanced degron epitopes. Finally, we provide an expandable toolkit utilizing the basic FLP-ON::TIR1 system that can be adapted to drive optimized At TIR1expression in any tissue or cell type of interest.},
+keywords ={},
+note ={https://danhiggins.org/data/papers_other_worm/2022.10.14.512315v1.full.pdf},
+journal ={},
+volume ={N/A},
+pages ={N/A},
+source={60a8a618230f439725ef51def22cbe5285a418b291dc1c74e2438bcf7978d63b}
+}
+
+@Article{
+author ={Patrick Lansdon and Maci Carlson and Brian D. Ackley},
+title ={Wild-type Caenorhabditis elegans isolates exhibit distinct gene expression profiles in response to microbial infection},
+year ={2022},
+doi ={10.1186/s12864-022-08455-2},
+abstract ={The soil-dwelling nematode Caenorhabditis elegans serves as a model system to study innate immunity against microbial pathogens. C. elegans have been collected from around the world, where they, presumably, adapted to regional microbial ecologies. Here we use survival assays and RNA-sequencing to better understand how two isolates from disparate climates respond to pathogenic bacteria. We found that, relative to N2 (originally isolated in Bristol, UK), CB4856 (isolated in Hawaii), was more susceptible to the Gram-positive microbe, Staphylococcus epidermidis, but equally susceptible to Staphylococcus aureus as well as two Gram-negative microbes, Providencia rettgeri and Pseudomonas aeruginosa. We performed transcriptome analysis of infected worms and found gene-expression profiles were considerably different in an isolate-specific and microbe-specific manner. We performed GO term analysis to categorize differential gene expression in response to S. epidermidis. In N2, genes that encoded detoxification enzymes and extracellular matrix proteins were significantly enriched, while in CB4856, genes that encoded detoxification enzymes, C-type lectins, and lipid metabolism proteins were enriched, suggesting they have different responses to S. epidermidis, despite being the same species. Overall, discerning gene expression signatures in an isolate by pathogen manner can help us to understand the different possibilities for the evolution of immune responses within organisms.},
+keywords ={Bacterial pathogens, Innate immunity, Transcriptomes, Caenorhabditis elegans},
+note ={https://danhiggins.org/data/papers_other_worm/12864_2022_Article_8455.pdf},
+journal ={BMC Genomics},
+volume ={23},
+pages ={N/A},
+source={02b8e98606eac77c7cd2d59754ae416bfb11912cda3b5a9044d3e0260a185d12}
+}
+
+@Article{
+author ={Jessica B. Spinelli and Marcia C. Haigis},
+title ={The multifaceted contributions of mitochondria to cellular metabolism},
+year ={2018},
+doi ={10.1038/s41556-018-0124-1},
+abstract ={Although classically appreciated for their role as the powerhouse of the cell, the metabolic functions of mitochondria reach far beyond bioenergetics. Mitochondria catabolize nutrients for energy, generate biosynthetic precursors for macromolecules, compartmentalize metabolites for the maintenance of redox homeostasis, and function as hubs for metabolic waste management. We discuss the importance of these roles in both normal physiology and in disease.},
+keywords ={},
+note ={https://danhiggins.org/data/papers_other_worm/nihms-1025118.pdf},
+journal ={Nature Cell Biology},
+volume ={20},
+pages ={745-754},
+source={535dbfc4e521d01c94175b1f359d004fe98034332105f09d754204f1e1b2ff36}
+}
+
+@Article{
+author ={Lisa Truong and Yen-Wei Chen and Rio Barrere-Cain and Max T. Levenson and Karissa Shuck and Wen Xiao and Eduardo da Veiga Beltrame and Blake Panter and Ella Reich and Paul W. Sternberg and Xia Yang and Patrick Allard},
+title ={Single-nucleus resolution mapping of the adult C. elegans and its application to elucidate inter- and trans-generational response to alcohol},
+year ={2023},
+doi ={10.1016/j.celrep.2023.112535},
+abstract ={Highlights d Single-nucleus RNA-seq was used to profile the transcriptome of the adult C. elegans d This approach captured the transcriptome of syncytial tissues such as the germline d snRNA-seq was applied to assess ethanol's inter-and transgenerational effects d Ethanol transcriptionally and functionally impacts germline homeostasis Authors},
+keywords ={},
+note ={https://danhiggins.org/data/papers_other_worm/PIIS2211124723005466.pdf},
+journal ={Cell Reports},
+volume ={42},
+pages ={112535},
+source={1fd3c576ab7a7332f0b7d371d15f14e9b0869369a7a2a9432b3c988f4eb96553}
+}
+
+@Article{
+author ={Kumsta, Caroline and Hansen, Malene},
+title ={Hormetic heat shock and HSF-1 overexpression improve C. elegans survival and proteostasis by inducing autophagy},
+year ={},
+doi ={10.1038/ncomms14337.},
+abstract ={The cellular recycling process of macroautophagy/autophagy is an essential homeostatic system induced by various stresses, but it remains unclear how autophagy contributes to organismal stress resistance. In a recent study, we report that a mild and physiologically beneficial ("hormetic") heat shock as well as overexpression of the heat-shock responsive transcription factor HSF-1 systemically increases autophagy in C. elegans. Accordingly, we found HSF-1-and heat stress-inducible autophagy to be required for C. elegans thermoresistance and longevity. Moreover, a hormetic heat shock or HSF-1 overexpression alleviated PolyQ protein aggregation in an autophagy-dependent manner. Collectively, we demonstrate a critical role for autophagy in C. elegans stress resistance and hormesis, and reveal a requirement for autophagy in HSF-1 regulated functions in the heat-shock response, proteostasis, and aging.},
+keywords ={aging, autophagy, C. elegans, heat shock, HLH-30, hormesis, HSF-1, polyQ aggregation, proteostasis, stress resistance},
+note ={https://danhiggins.org/data/papers_other_worm/Hormetic%20heat%20shock%20and%20HSF-1%20overexpression%20improve%20C.%20elegans%20survival%20and%20proteostasis%20by%20inducing%20autophagy.pdf},
+journal ={},
+volume ={},
+pages ={},
+source={231f9ea591ae85c15e8d1ed41f8f741862615eba3b8f75a539294689a0e2a546}
+}
+
+@Article{
+author ={John Yochem},
+title ={Nomarski images for learning the anatomy, with tips for mosaic analysis},
+year ={2006},
+doi ={10.1895/wormbook.1.100.1},
+abstract ={},
+keywords ={},
+note ={https://danhiggins.org/data/papers_other_worm/nomarskianatomymosaic.pdf},
+journal ={WormBook},
+volume ={N/A},
+pages ={N/A},
+source={8a8668b8a1629a7a2010a3c50225f8b059b649c54d9d12b7549aef55aeec84aa}
+}
+
+@Article{
+author ={Shouyong Ju and Hanqiao Chen and Shaoying Wang and Jian Lin and Yanli Ma and Raffi V. Aroian and Donghai Peng and Ming Sun},
+title ={C. elegans monitor energy status via the AMPK pathway to trigger innate immune responses against bacterial pathogens},
+year ={2022},
+doi ={10.1038/s42003-022-03589-1},
+abstract ={Pathogen recognition and the triggering of host innate immune system are critical to understanding pathogen-host interaction. Cellular surveillance systems have been identified as an important strategy for the identification of microbial infection. In the present study, using Bacillus thuringiensis-Caenorhabditis elegans as a model, we found an approach for surveillance systems to sense pathogens. We report that Bacillus thuringiensis Cry5Ba, a typical pore-forming toxin, caused mitochondrial damage and energy imbalance by triggering potassium ion leakage, instead of directly targeting mitochondria. Interestingly, we find C. elegans can monitor intracellular energy status to trigger innate immune responses via AMPactivated protein kinase (AMPK), secreting multiple effectors to defend against pathogenic attacks. Our study indicates that the imbalance of energy status is a prevalent side effect of pathogen infection. Furthermore, the AMPK-dependent surveillance system may serve as a practicable strategy for the host to recognize and defense against pathogens.},
+keywords ={},
+note ={https://danhiggins.org/data/papers_other_worm/s42003-022-03589-1.pdf},
+journal ={Communications Biology},
+volume ={5},
+pages ={N/A},
+source={bdae71d72a4ce6029fe04211a3f71e0e469267c5ece50ad13a8625450c34a633}
+}
+
+@Article{
+author ={Sonia El Mouridi and Faisal Alkhaldi and Christian Frøkjær-Jensen},
+title ={Modular safe-harbor transgene insertion for targeted single-copy and extrachromosomal array integration in <i>Caenorhabditis elegans</i>},
+year ={2022},
+doi ={10.1093/g3journal/jkac184},
+abstract ={Efficient and reproducible transgenesis facilitates and accelerates research using genetic model organisms. Here, we describe a modular safe-harbor transgene insertion (MosTI) for use in Caenorhabditis elegans which improves targeted insertion of single-copy transgenes by homology directed repair and targeted integration of extrachromosomal arrays by nonhomologous end-joining. MosTI allows easy conversion between selection markers at insertion site and a collection of universal targeting vectors with commonly used promoters and fluorophores. Insertions are targeted at three permissive safe-harbor intergenic locations and transgenes are reproducibly expressed in somatic and germ cells. Chromosomal integration is mediated by CRISPR/Cas9, and positive selection is based on a set of split markers (unc-119, hygroR, and gfp) where only animals with chromosomal insertions are rescued, resistant to antibiotics, or fluorescent, respectively. Singlecopy insertion is efficient using either constitutive or heat-shock inducible Cas9 expression (25-75%) and insertions can be generated from a multiplexed injection mix. Extrachromosomal array integration is also efficient (7-44%) at modular safe-harbor transgene insertion landing sites or at the endogenous unc-119 locus. We use short-read sequencing to estimate the plasmid copy numbers for 8 integrated arrays (6-37 copies) and long-read Nanopore sequencing to determine the structure and size (5.4 Mb) of 1 array. Using universal targeting vectors, standardized insertion strains, and optimized protocols, it is possible to construct complex transgenic strains which should facilitate the study of increasingly complex biological problems in C. elegans.},
+keywords ={Caenorhabditis elegans, CRISPR/Cas9, transgenesis, genome engineering, long-read assembly},
+note ={https://danhiggins.org/data/papers_other_worm/jkac184.pdf},
+journal ={G3 Genes|Genomes|Genetics},
+volume ={12},
+pages ={N/A},
+source={4c8f0a93528a14beee4c5541d651202248d33a122d5b624e435d13b5d96004ae}
+}
+
+@Article{
+author ={Vladimir Lažetić and Fengting Wu and Lianne B. Cohen and Kirthi C. Reddy and Ya-Ting Chang and Spencer S. Gang and Gira Bhabha and Emily R. Troemel},
+title ={The transcription factor ZIP-1 promotes resistance to intracellular infection in Caenorhabditis elegans},
+year ={2022},
+doi ={10.1038/s41467-021-27621-w},
+abstract ={Defense against intracellular infection has been extensively studied in vertebrate hosts, but less is known about invertebrate hosts; specifically, the transcription factors that induce defense against intracellular intestinal infection in the model nematode Caenorhabditis elegans remain understudied. Two different types of intracellular pathogens that naturally infect the C. elegans intestine are the Orsay virus, which is an RNA virus, and microsporidia, which comprise a phylum of fungal pathogens. Despite their molecular differences, these pathogens induce a common host transcriptional response called the intracellular pathogen response (IPR). Here we show that zip-1 is an IPR regulator that functions downstream of all known IPR-activating and regulatory pathways. zip-1 encodes a putative bZIP transcription factor, and we show that zip-1 controls induction of a subset of genes upon IPR activation. ZIP-1 protein is expressed in the nuclei of intestinal cells, and is at least partially required in the intestine to upregulate IPR gene expression. Importantly, zip-1 promotes resistance to infection by the Orsay virus and by microsporidia in intestinal cells. Altogether, our results indicate that zip-1 represents a central hub for triggers of the IPR, and that this transcription factor has a protective function against intracellular pathogen infection in C. elegans.},
+keywords ={},
+note ={https://danhiggins.org/data/papers_other_worm/41467_2021_Article_27621.pdf},
+journal ={Nature Communications},
+volume ={13},
+pages ={N/A},
+source={62a7e31fce307baae5ffcddb449b143248d70e25e550ec7610ac725f4d5f06aa}
+}
+
+@Article{
+author ={Nicholas D. Serra and Chelsea B. Darwin and Meera V. Sundaram},
+title ={<i>C. elegans</i>Hedgehog-related proteins are tissue- and substructure-specific components of the cuticle and pre-cuticle},
+year ={2023},
+doi ={10.1101/2023.12.26.573316},
+abstract ={In C. elegans, divergent Hedgehog-related (Hh-r) and Patched-related (PTR) proteins promote numerous processes ranging from epithelial and sense organ development to pathogen responses to cuticle shedding during the molt cycle. Here we show that Hh-r proteins are actual components of the cuticle and pre-cuticle apical extracellular matrices (aECMs) that coat, shape, and protect external epithelia. Different Hh-r proteins stably associate with the aECMs of specific tissues and with specific substructures such as furrows and alae. Hh-r mutations can disrupt matrix structure. These results provide a unifying model for the function of nematode Hh-r proteins and highlight ancient connections between Hh proteins and the extracellular matrix.},
+keywords ={},
+note ={https://danhiggins.org/data/papers_other_worm/2023.12.26.573316v1.full.pdf},
+journal ={},
+volume ={N/A},
+pages ={N/A},
+source={75382cf7a2bc665afa5d4085848eb4f521678f05d0b012797aebb9eef3404562}
+}
+
+@Article{
+author ={Matthias Arzt and Joran Deschamps and Christopher Schmied and Tobias Pietzsch and Deborah Schmidt and Pavel Tomancak and Robert Haase and Florian Jug},
+title ={LABKIT: Labeling and Segmentation Toolkit for Big Image Data},
+year ={2022},
+doi ={10.3389/fcomp.2022.777728},
+abstract ={We present LABKIT, a user-friendly Fiji plugin for the segmentation of microscopy image data. It offers easy to use manual and automated image segmentation routines that can be rapidly applied to single-and multi-channel images as well as to timelapse movies in 2D or 3D. LABKIT is specifically designed to work efficiently on big image data and enables users of consumer laptops to conveniently work with multiple-terabyte images. This efficiency is achieved by using ImgLib2 and BigDataViewer as well as a memory efficient and fast implementation of the random forest based pixel classification algorithm as the foundation of our software. Optionally we harness the power of graphics processing units (GPU) to gain additional runtime performance. LABKIT is easy to install on virtually all laptops and workstations. Additionally, LABKIT is compatible with high performance computing (HPC) clusters for distributed processing of big image data. The ability to use pixel classifiers trained in LABKIT via the ImageJ macro language enables our users to integrate this functionality as a processing step in automated image processing workflows. Finally, LABKIT comes with rich online resources such as tutorials and examples that will help users to familiarize themselves with available features and how to best use LABKIT in a number of practical real-world use-cases.},
+keywords ={segmentation, labeling, machine learning, random forest, Fiji, open-source},
+note ={https://danhiggins.org/data/papers_other_worm/fcomp-04-777728.pdf},
+journal ={Frontiers in Computer Science},
+volume ={4},
+pages ={N/A},
+source={a0a7a1e398c59e33943514d4d7355158a05d25ad97d904d44ded09a51671a199}
+}
+
+@Article{
+author ={Prisca Liberali and Alexander F. Schier},
+title ={The evolution of developmental biology through conceptual and technological revolutions},
+year ={2024},
+doi ={10.1016/j.cell.2024.05.053},
+abstract ={Developmental biology-the study of the processes by which cells, tissues, and organisms develop and change over time-has entered a new golden age. After the molecular genetics revolution in the 80s and 90s and the diversification of the field in the early 21st century, we have entered a phase when powerful technologies provide new approaches and open unexplored avenues. Progress in the field has been accelerated by advances in genomics, imaging, engineering, and computational biology and by emerging model systems ranging from tardigrades to organoids. We summarize how revolutionary technologies have led to remarkable progress in understanding animal development. We describe how classic questions in gene regulation, pattern formation, morphogenesis, organogenesis, and stem cell biology are being revisited. We discuss the connections of development with evolution, self-organization, metabolism, time, and ecology. We speculate how developmental biology might evolve in an era of synthetic biology, artificial intelligence, and human engineering.},
+keywords ={},
+note ={https://danhiggins.org/data/papers_other_worm/PIIS0092867424006329.pdf},
+journal ={Cell},
+volume ={187},
+pages ={3461-3495},
+source={61a2ef71bbdd8e891b5ec7abb36c37302c86973f19d74dfdf9dd649b621037f8}
+}
+
+@Article{
+author ={Carolyn Y. Johnson},
+title ={Scientists woke up a 46,000-year-old roundworm from Siberian permafrost},
+year ={2023},
+doi ={},
+abstract ={A female microscopic roundworm that spent the last 46,000 years in suspended animation deep in the Siberian permafrost was revived and started having babies in a laboratory dish. By sequencing the genome of this Rip Van Winkle roundworm, scientists revealed it to be a new species of nematode, which is described in a study published Thursday in the journal PLOS Genetics. Nematodes today are among the most ubiquitous organisms on Earth, inhabiting the soil, the water and the ocean floor. "The vast majority of nematode species have not been described," William Crow, a nematologist at the University of Florida who was not involved in the study, wrote in an email. The ancient Siberian worm could be a species that has},
+keywords ={},
+note ={https://danhiggins.org/data/papers_other_worm/Scientists%20revived%20a%2046%2C000-year-old%20nematode%20from%20Siberian%20permafrost%20-%20The%20Washington%20Post.pdf},
+journal ={},
+volume ={},
+pages ={},
+source={16095a89d7ec3c01c6a8a1a6d4104018228d049d72cbffc9276febbd0e6b1902}
+}
+
+@Article{
+author ={Okkenhaug, Hanneke and Chauve, Laetitia and Masoudzadeh, Fatemeh and Okkenhaug, Lars and Casanueva, Olivia},
+title ={Worm-align and Worm_CP, Two Open-Source Pipelines for Straightening and Quantification of Fluorescence Image Data Obtained from Caenorhabditis elegans},
+year ={2020},
+doi ={10.3791/61136},
+abstract ={An issue often encountered when acquiring image data from fixed or anesthetized C. elegans is that worms cross and cluster with their neighbors. This problem is aggravated with increasing density of worms and creates challenges for imaging and quantification. We developed a FIJI-based workflow, Worm-align, that can be used to generate single-or multi-channel montages of user-selected, straightened and aligned worms from raw image data of C. elegans. Worm-align is a simple and user-friendly workflow that does not require prior training of either the user or the analysis algorithm. Montages generated with Worm-align can aid the visual inspection of worms, their classification and representation. In addition, the output of Worm-align can be used for subsequent quantification of fluorescence intensity in single worms, either in FIJI directly, or in other image analysis software platforms. We demonstrate this by importing the Worm-align output into Worm_CP, a pipeline that uses the opensource CellProfiler software. CellProfiler's flexibility enables the incorporation of additional modules for high-content screening. As a practical example, we have used the pipeline on two datasets: the first dataset are images of heat shock reporter worms that express green fluorescent protein (GFP) under the control of the promoter of a heat shock inducible gene hsp-70, and the second dataset are images obtained from fixed worms, stained for fat-stores with a fluorescent dye.},
+keywords ={Biology, Issue 159, C. elegans, fluorescence, quantification, worm-straightening, CellProfiler, FIJI, Image J},
+note ={https://danhiggins.org/data/papers_other_worm/jove-protocol-61136-worm-align-wormcp-two-open-source-pipelines-for-straightening.pdf},
+journal ={},
+volume ={},
+pages ={},
+source={5adb241ad401304aead595410d4b3d1b6fad1db658c8bc57490b45b66f9d5193}
+}
+
+@Article{
+author ={Barbara Pees and Julia Johnke and Michelle Möhl and Inga K. Hamerich and Matthias Leippe and Carola Petersen},
+title ={Microbes to‐go: slugs as source for <i>Caenorhabditis elegans</i> microbiota acquisition},
+year ={2021},
+doi ={10.1111/1462-2920.15730},
+abstract ={Research on the Caenorhabditis elegans microbiota only recently started, with little known about how C. elegans acquires its microbiota. Slugs live in the same habitat as C. elegans and are known vectors for the worm. Hence, we wondered how the passage through a slug affects the C. elegans gut microbiota and whether worms can acquire bacteria from the slug. Using fluorescently labelled microbiota and 16S rRNA gene amplicon sequencing, we evaluated microbiota persistence and acquisition in C. elegans after slug passage. We compared C. elegans gut microbiomes isolated from wild-caught slugs to the microbiomes of worms after experimental slug passage to compare similarities and differences in microbiome composition. We found that microbiota persists in C. elegans while passing the slug gut and that worms simultaneously acquire additional bacteria species from the slug. Although the amplicon sequencing variant (ASV) richness of worms from the experiment did not exceed the richness of worms that naturally occur in slugs, we found a high number of shared ASVs indicating the importance of commonly associated microbiota. We demonstrate that C. elegans can take advantage of its passage through the slug by acquiring new potential microbiota without losing its native microbiota.},
+keywords ={},
+note ={https://danhiggins.org/data/papers_other_worm/Environmental%20Microbiology%20-%202021%20-%20Pees%20-%20Microbes%20to%E2%80%90go%20%20slugs%20as%20source%20for%20Caenorhabditis%20elegans%20microbiota.pdf},
+journal ={Environmental Microbiology},
+volume ={23},
+pages ={6721-6733},
+source={ae74ef8a1eff76433911a0eabdc1d4df2533af2ebd269e481e635d19c4c8af39}
+}
+
+@Article{
+author ={Abdeen Elkhedir and Aamir Iqbal and Amgad Albahi and Mingfang Tao and Li Rong and Xiaoyun Xu},
+title ={Capsaicinoid-Glucosides of Fresh Hot Pepper Promotes Stress Resistance and Longevity in Caenorhabditis elegans},
+year ={2022},
+doi ={10.1007/s11130-021-00939-y},
+abstract ={In this study, capsaicin-glucoside and dihydro-capsaicin-glucoside derived from fresh hot-red pepper were isolated and identified using UPLC-ESI-Q-TOF-MS/PDA. Synchronized worms were treated with capsaicinoid-glucosides (CG), and then lifespan and stress resistance were examined. The 50 µg/ml concentration of CG-intake could effectively protect the Caenorhabditis elegans (C. elegans) against stresses factors including oxidation and heat as well as reactive oxygen species (ROS), thereby enhancing the survival of CG-treated worms under stress. Enhancing stress resistance in CG-treated worms could be due to the increased expressions of stress-related genes in C. elegans such as daf-16, skn-1 and their downstream target genes (sod-3, hsp-16.2, gst-4 and gcs-1). Lifespan study of different C. elegans strains and RT-PCR showed that the CG-mediated lifespan extension was dependent on DAF-16/FOXO and SKN-1/Nrf2 transcription factors. The study is a step forward in exploring the stress resistance and anti-aging properties of this beneficial extract. Thus, this study will be useful in formulating remedies for stresses factors and age associated disorders.},
+keywords ={Capsaicinoid-glucosides, Oxidative stress, DAF-16/FOXO, SKN-1/Nrf2, Lifespan, Caenorhabditis elegans, UPLC-ESI-Q-TOF-MS/PDA},
+note ={https://danhiggins.org/data/papers_other_worm/s11130-021-00939-y.pdf},
+journal ={Plant Foods for Human Nutrition},
+volume ={77},
+pages ={30-36},
+source={3dca8123564deed9e42f4b9b5b64b8239c28f99b4afc0ddd31f7ca54f966ca94}
+}
+
+@Article{
+author ={Celja J. Uebel and Sanjana Rajeev and Carolyn M. Phillips},
+title ={<i>Caenorhabditis elegans</i>germ granules are present in distinct configurations that differentially associate with RNAi-targeted RNAs},
+year ={2023},
+doi ={10.1101/2023.05.25.542330},
+abstract ={RNA silencing pathways are complex, highly conserved, and perform widespread, critical regulatory roles. In C. elegans germlines, RNA surveillance occurs through a series of perinuclear germ granule compartments-P granules, Z granules, SIMR foci, and Mutator foci-multiple of which form via phase separation and exhibit liquid-like properties. The functions of individual proteins within germ granules are well-studied, but the spatial organization, physical interaction, and coordination of biomolecule exchange between compartments within germ granule "nuage" is less understood. Here we find that key proteins are sufficient for compartment separation, and that the boundary between compartments can be reestablished after perturbation. Using superresolution microscopy, we discover a toroidal P granule morphology which encircles the other germ granule compartments in a consistent exterior-to-interior spatial organization. Combined with findings that nuclear pores primarily interact with P granules, this nuage compartment organization has broad implications for the trajectory of an RNA as it exits the nucleus and enters small RNA pathway compartments. Furthermore, we quantify the stoichiometric relationships between germ granule compartments and RNA to reveal discrete populations of nuage that differentially associate with RNAi-targeted transcripts, possibly suggesting functional differences between nuage configurations. Together, our work creates a more spatially and compositionally accurate model of C. elegans nuage which informs the conceptualization of RNA silencing through different germ granule compartments.},
+keywords ={},
+note ={https://danhiggins.org/data/papers_other_worm/2023.05.25.542330v1.full.pdf},
+journal ={},
+volume ={N/A},
+pages ={N/A},
+source={88f326e7a40f09ac4de5a7bbe72de54541b577d1274c45d33f3bd976689fc5c3}
+}
+
+@Article{
+author ={Liberman, Noa and O'brown, Zach and Scott Earl, Andrew and Boulias, Konstantinos and Gerashchenko, Maxim and Wang, Simon and Fritsche, Colette and Fady, Paul-Enguerrand and Dong, Anna and Gladyshev, Vadim and Greer, Eric},
+title ={N6-adenosine methylation of ribosomal RNA affects lipid oxidation and stress resistance},
+year ={},
+doi ={},
+abstract ={During stress, global translation is reduced, but specific transcripts are actively translated. How stress-responsive mRNAs are selectively translated is unknown. We show that METL-5 methylates adenosine 1717 on 18S ribosomal RNA in C. elegans, enhancing selective ribosomal binding and translation of specific mRNAs. One of these mRNAs, CYP-29A3, oxidizes the omega-3 polyunsaturated fatty acid eicosapentaenoic acid to eicosanoids, key stress signaling molecules. While metl-5-deficient animals grow normally under homeostatic conditions, they are resistant to a variety of stresses. metl-5 mutant worms also show reduced bioactive lipid eicosanoids and dietary supplementation of eicosanoid products of CYP-29A3 restores stress sensitivity of metl-5 mutant worms. Thus, methylation of a specific residue of 18S rRNA by METL-5 selectively enhances translation of cyp-29A3 to increase production of eicosanoids, and blocking this pathway increases stress resistance. This study suggests that ribosome methylation can facilitate selective translation, providing another layer of regulation of the stress response.},
+keywords ={},
+note ={https://danhiggins.org/data/papers_other_worm/sciadv.aaz4370.pdf},
+journal ={},
+volume ={},
+pages ={},
+source={fb2b4a6d9b8d6a8f3050e211275f84468bb680c3981b0c2c671a14b596834447}
+}
+

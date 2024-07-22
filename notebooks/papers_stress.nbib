@@ -1,0 +1,126 @@
+@Article{
+author ={Nikki D Russell and Clement Y Chow},
+title ={The dynamic effect of genetic variation on the in vivo ER stress transcriptional response in different tissues},
+year ={2022},
+doi ={10.1093/g3journal/jkac104},
+abstract ={The genetic regulation of gene expression varies greatly across tissue-type and individuals and can be strongly influenced by the environment. Many variants, under healthy control conditions, may be silent or even have the opposite effect under diseased stress conditions. This study uses an in vivo mouse model to investigate how the effect of genetic variation changes with cellular stress across different tissues. Endoplasmic reticulum stress occurs when misfolded proteins accumulate in the endoplasmic reticulum. This triggers the unfolded protein response, a large transcriptional response which attempts to restore homeostasis. This transcriptional response, despite being a conserved, basic cellular process, is highly variable across different genetic backgrounds, making it an ideal system to study the dynamic effects of genetic variation. In this study, we sought to better understand how genetic variation alters expression across tissues, in the presence and absence of endoplasmic reticulum stress. The use of different mouse strains and their F1s allow us to also identify contextspecific cis-and trans-regulatory variation underlying variable transcriptional responses. We found hundreds of genes that respond to endoplasmic reticulum stress in a tissue-and/or genotype-dependent manner. The majority of the regulatory effects we identified were acting in cis-, which in turn, contribute to the variable endoplasmic reticulum stress-and tissue-specific transcriptional response. This study demonstrates the need for incorporating environmental stressors across multiple different tissues in future studies to better elucidate the effect of any particular genetic factor in basic biological pathways, like the endoplasmic reticulum stress response.},
+keywords ={ER stress, regulatory variation, GÂE, tissue effects, genetic variation, in vivo mouse},
+note ={https://danhiggins.org/data/papers_stress/jkac104.pdf},
+journal ={G3 Genes|Genomes|Genetics},
+volume ={12},
+pages ={N/A},
+source={5ba1ce59c6bf55b87c54bdb30209f818cd7c35125c8bcb70a327e468b119fa1d}
+}
+
+@Article{
+author ={Anja Wagner and Markus Schosserer},
+title ={The epitranscriptome in ageing and stress resistance: A systematic review},
+year ={2022},
+doi ={10.1016/j.arr.2022.101700},
+abstract ={Modifications of RNA, collectively called the "epitranscriptome", might provide novel biomarkers and innovative targets for interventions in geroscience but are just beginning to be studied in the context of ageing and stress resistance. RNA modifications modulate gene expression by affecting translation initiation and speed, miRNA binding, RNA stability, and RNA degradation. Nonetheless, the precise underlying molecular mechanisms and physiological consequences of most alterations of the epitranscriptome are still only poorly understood. We here systematically review different types of modifications of rRNA, tRNA and mRNA, the methodology to analyze them, current challenges in the field, and human disease associations. Furthermore, we compiled evidence for a connection between individual enzymes, which install RNA modifications, and lifespan in yeast, worm and fly. We also included resistance to different stressors and competitive fitness as search criteria for genes potentially relevant to ageing. Promising candidates identified by this approach include RCM1/NSUN5, RRP8, and F33A8.4/ ZCCHC4 that introduce base methylations in rRNA, the methyltransferases DNMT2 and TRM9/ALKBH8, as well as factors involved in the thiolation or A to I editing in tRNA, and finally the m 6 A machinery for mRNA.},
+keywords ={},
+note ={https://danhiggins.org/data/papers_stress/1-s2.0-S1568163722001428-main.pdf},
+journal ={Ageing Research Reviews},
+volume ={81},
+pages ={101700},
+source={208522566053d76bdf8b0d83d885b39d4316ac79024be9062256b6b785776787}
+}
+
+@Article{
+author ={Takayuki Ohira and Tsutomu Suzuki},
+title ={Transfer RNA modifications and cellular thermotolerance},
+year ={2024},
+doi ={10.1016/j.molcel.2023.11.041},
+abstract ={RNA molecules are modified post-transcriptionally to acquire their diverse functions. Transfer RNA (tRNA) has the widest variety and largest numbers of RNA modifications. tRNA modifications are pivotal for decoding the genetic code and stabilizing the tertiary structure of tRNA molecules. Alternation of tRNA modifications directly modulates the structure and function of tRNAs and regulates gene expression. Notably, thermophilic organisms exhibit characteristic tRNA modifications that are dynamically regulated in response to varying growth temperatures, thereby bolstering fitness in extreme environments. Here, we review the history and latest findings regarding the functions and biogenesis of several tRNA modifications that contribute to the cellular thermotolerance of thermophiles.},
+keywords ={},
+note ={https://danhiggins.org/data/papers_stress/PIIS1097276523010183.pdf},
+journal ={Molecular Cell},
+volume ={84},
+pages ={94-106},
+source={22f57c6a522e7daa2ccccc9cf695fc656065ffd4ca451abb079f90de48711d6e}
+}
+
+@Article{
+author ={Najmeh Soltanmohammadi and Siyao Wang and Björn Schumacher},
+title ={Somatic PMK-1/p38 signaling links environmental stress to germ cell apoptosis and heritable euploidy},
+year ={2022},
+doi ={10.1038/s41467-022-28225-8},
+abstract ={Inheritance of stable and euploid genomes is a prerequisite for species maintenance. The DNA damage response in germ cells controls the integrity of heritable genomes. Whether and how somatic stress responses impact the quality control of germline genomes has remained unclear. Here, we show that PMK-1/p38-mediated stress signaling in intestinal cells is required for germ cell apoptosis amid ionizing radiation (IR)-induced or meiotic DNA double strand breaks (DSBs) in C. elegans. We demonstrate that intestinal PMK-1/ p38 signaling regulates the germ cell death in response to environmental stress. The PMK-1/ p38 target SYSM-1 is secreted from the intestine into the germline to trigger apoptosis of meiotic pachytene cells. Compromised PMK-1/p38 signaling in intestinal cells leads to stressinduced aneuploidy in the consequent generation. Our data suggest that somatic stress surveillance controls heritable genome integrity and euploidy.},
+keywords ={},
+note ={https://danhiggins.org/data/papers_stress/s41467-022-28225-8.pdf},
+journal ={Nature Communications},
+volume ={13},
+pages ={N/A},
+source={83466c47c3cce031fdf671386e8a666daf06d8e7eec9b72635a545c14056e77a}
+}
+
+@Article{
+author ={Triana Amen and Daniel Kaganovich},
+title ={Stress granules inhibit fatty acid oxidation by modulating mitochondrial permeability},
+year ={2021},
+doi ={10.1016/j.celrep.2021.109237},
+abstract ={Highlights d Stress granules inhibit fatty acid oxidation d Stress granules regulate VDAC levels d Stress granules control mitochondrial permeability to fatty acids d Stress granules redirect fatty acids to lipid droplets Authors Triana Amen, Daniel Kaganovich},
+keywords ={},
+note ={https://danhiggins.org/data/papers_stress/mmc4.pdf},
+journal ={Cell Reports},
+volume ={35},
+pages ={109237},
+source={8dd6a375b9bbe680b6b54a0d7200eb3c75e70975ee53375a6f53d49f7ddffd2d}
+}
+
+@Article{
+author ={Zeyad D. Nassar and Chui Yan Mah and Margaret M. Centenera and Swati Irani and Martin C. Sadowski and Julia S. Scott and Elizabeth V. Nguyen and Shilpa R. Nagarajan and Max Moldovan and David J. Lynn and Roger J. Daly and Andrew J. Hoy and Lisa M. Butler},
+title ={Fatty Acid Oxidation Is an Adaptive Survival Pathway Induced in Prostate Tumors by HSP90 Inhibition},
+year ={2020},
+doi ={10.1158/1541-7786.MCR-20-0570},
+abstract ={◥ HSP90 is a molecular chaperone required for stabilization and activation of hundreds of client proteins, including many known oncoproteins. AUY922 (luminespib), a new-generation HSP90 inhibitor, exhibits potent preclinical efficacy against several cancer types including prostate cancer. However, clinical use of HSP90 inhibitors for prostate cancer has been limited by toxicity and treatment resistance. Here, we aimed to design an effective combinatorial therapeutic regimen that utilizes subtoxic doses of AUY922, by identifying potential survival pathways induced by AUY922 in clinical prostate tumors. We conducted a proteomic analysis of 30 patient-derived explants (PDE) cultured in the absence and presence of AUY922, using quantitative mass spectrometry. AUY922 significantly increased the abundance of proteins involved in oxidative phosphorylation and fatty acid metabolism in the PDEs. Consistent with these findings, AUY922-treated prostate cancer cell lines exhibited increased mitochondrial mass and activated fatty acid metabolism processes. We hypothesized that activation of fatty acid oxidation is a potential adaptive response to AUY922 treatment and that cotargeting this process will sensitize prostate cancer cells to HSP90 inhibition. Combination treatment of AUY922 with a clinical inhibitor of fatty acid oxidation, perhexiline, synergistically decreased viability of several prostate cancer cell lines, and had significant efficacy in PDEs. The novel drug combination treatment induced cell-cycle arrest and apoptosis, and attenuated the heat shock response, a known mediator of HSP90 treatment resistance. This combination warrants further preclinical and clinical investigation as a novel strategy to overcome resistance to HSP90 inhibition. Implications: Metabolic pathways induced in tumor cells by therapeutic agents may be critical, but targetable, mediators of treatment resistance.},
+keywords ={},
+note ={https://danhiggins.org/data/papers_stress/1500.pdf},
+journal ={Molecular Cancer Research},
+volume ={18},
+pages ={1500-1511},
+source={b319b61449df261f5b4069c3c8530c93c573d4329b1eb8a61afbde923cf44814}
+}
+
+@Article{
+author ={Wenyi Zhang and Yunwei Dong},
+title ={Membrane lipid metabolism, heat shock response and energy costs mediate the interaction between acclimatization and heat-hardening response in the razor clam <i>Sinonovacula constricta</i>},
+year ={2021},
+doi ={10.1242/jeb.243031},
+abstract ={Thermal plasticity on different time scales, including acclimation/ acclimatization and heat-hardening responsea rapid adjustment for thermal tolerance after non-lethal thermal stress, can interact to improve the resilience of organisms to thermal stress. However, little is known about physiological mechanisms mediating this interaction. To investigate the underpinnings of heat-hardening responses after acclimatization in warm seasons, we measured thermal tolerance plasticity, and compared transcriptomic and metabolomic changes after heat hardening at 33 or 37°C followed by recovery of 3 or 24 h in an intertidal bivalve Sinonovacula constricta. Clams showed explicit heat-hardening responses after acclimatization in a warm season. The higher inducing temperature (37°C) caused less effective heathardening effects than the inducing temperature that was closer to the seasonal maximum temperature (33°C). Metabolomic analysis highlighted the elevated content of glycerophospholipids in all heathardened clams, which may help to maintain the structure and function of the membrane. Heat shock proteins (HSPs) tended to be upregulated after heat hardening at 37°C but not at 33°C, indicating that there was no complete dependency of heat-hardening effects on upregulated HSPs. Enhanced energy metabolism and decreased energy reserves were observed after heat hardening at 37°C, suggesting more energy costs during exposure to a higher inducing temperature, which may restrict heat-hardening effects. These results highlight the mediating role of membrane lipid metabolism, heat shock responses and energy costs in the interaction between heathardening response and seasonal acclimatization, and contribute to the mechanistic understanding of evolutionary change and thermal plasticity during global climate change.},
+keywords ={Climate change, Heat shock protein, Intertidal bivalve, Membrane lipids, Thermal plasticity},
+note ={https://danhiggins.org/data/papers_stress/jeb243031.pdf},
+journal ={Journal of Experimental Biology},
+volume ={224},
+pages ={N/A},
+source={0b5e681bf73f1329fb30cb008ec19645f44d2a2c9de0c8aa3b0a7642c6d4dfa0}
+}
+
+@Article{
+author ={Pierre-Emmanuel Tardo-Dino and Julianne Touron and Stéphane Baugé and Stéphanie Bourdon and Nathalie Koulmann and Alexandra Malgoyre},
+title ={The effect of a physiological increase in temperature on mitochondrial fatty acid oxidation in rat myofibers},
+year ={2019},
+doi ={10.1152/japplphysiol.00652.2018},
+abstract ={},
+keywords ={},
+note ={https://danhiggins.org/data/papers_stress/tardo-dino-et-al-2019-the-effect-of-a-physiological-increase-in-temperature-on-mitochondrial-fatty-acid-oxidation-in.pdf},
+journal ={Journal of Applied Physiology},
+volume ={127},
+pages ={312-319},
+source={950b0213ba2af389ce11ab1f32fcfd6d455b9ad155d3dd4c33ede6b1328e5062}
+}
+
+@Article{
+author ={Hendrik Glauninger and Jared A.M. Bard and Caitlin J. Wong Hickernell and Edo M. Airoldi and Weihan Li and Robert H. Singer and Sneha Paul and Jingyi Fei and Tobin R. Sosnick and Edward W. J. Wallace and D. Allan Drummond},
+title ={Transcriptome-wide mRNA condensation precedes stress granule formation and excludes stress-induced transcripts},
+year ={2024},
+doi ={10.1101/2024.04.15.589678},
+abstract ={Stress-induced condensation of mRNA and proteins into stress granules is conserved across eukaryotes, yet the function, formation mechanisms, and relation to well-studied conserved transcriptional responses remain largely unresolved. Stress-induced exposure of ribosome-free mRNA following translational shutoff is thought to cause condensation by allowing new multivalent RNA-dependent interactions, with RNA length and associated interaction capacity driving increased condensation. Here we show that, in striking contrast, virtually all mRNA species condense in response to multiple unrelated stresses in budding yeast, length plays a minor role, and instead, stress-induced transcripts are preferentially excluded from condensates, enabling their selective translation. Using both endogenous genes and reporter constructs, we show that translation initiation blockade, rather than resulting ribosome-free RNA, causes condensation. These translation initiation-inhibited condensates (TIICs) are biochemically detectable even when stress granules, defined as microscopically visible foci, are absent or blocked. TIICs occur in unstressed yeast cells, and, during stress, grow before the appearance of visible stress granules. Stress-induced transcripts are excluded from TIICs primarily due to the timing of their expression, rather than their sequence features. Together, our results reveal a simple system by which cells redirect translational activity to newly synthesized transcripts during stress, with broad implications for cellular regulation in changing conditions.},
+keywords ={},
+note ={https://danhiggins.org/data/papers_stress/2024.04.15.589678v2.full.pdf},
+journal ={},
+volume ={N/A},
+pages ={N/A},
+source={b8e52706fa27e375fb0a3cb29ab18135888c27ff8e03b956f8e136fe0d319608}
+}
+

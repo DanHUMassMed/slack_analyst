@@ -1,0 +1,266 @@
+@Article{
+author ={Prashant Bhat and Amy Chow and Benjamin Emert and Olivia Ettlin and Sofia A. Quinodoz and Mackenzie Strehle and Yodai Takei and Alex Burr and Isabel N. Goronzy and Allen W. Chen and Wesley Huang and Jose Lorenzo M. Ferrer and Elizabeth Soehalim and Say-Tar Goh and Tara Chari and Delaney K. Sullivan and Mario R. Blanco and Mitchell Guttman},
+title ={Genome organization around nuclear speckles drives mRNA splicing efficiency},
+year ={2024},
+doi ={10.1038/s41586-024-07429-6},
+abstract ={},
+keywords ={},
+note ={https://danhiggins.org/data/papers_chromatin_lifespan/s41586-024-07429-6.pdf},
+journal ={Nature},
+volume ={629},
+pages ={1165-1173},
+source={a4a4f3028951a284d327e8002a459d3e2ab50e0155d97f8d5e02063d3f19ac4f}
+}
+
+@Article{
+author ={Emily M. Bertucci-Richter and Benjamin B. Parrott},
+title ={The rate of epigenetic drift scales with maximum lifespan across mammals},
+year ={2023},
+doi ={10.1038/s41467-023-43417-6},
+abstract ={Epigenetic drift or "disorder" increases across the mouse lifespan and is suggested to underlie epigenetic clock signals. While the role of epigenetic drift in determining maximum lifespan across species has been debated, robust tests of this hypothesis are lacking. Here, we test if epigenetic disorder at various levels of genomic resolution explains maximum lifespan across four mammal species. We show that epigenetic disorder increases with age in all species and at all levels of genomic resolution tested. The rate of disorder accumulation occurs faster in shorter lived species and corresponds to species adjusted maximum lifespan. While the density of cytosine-phosphate-guanine dinucleotides ("CpGs") is negatively associated with the rate of age-associated disorder accumulation, it does not fully explain differences across species. Our findings support the hypothesis that the rate of epigenetic drift explains maximum lifespan and provide partial support for the hypothesis that CpG density buffers against epigenetic drift.},
+keywords ={},
+note ={https://danhiggins.org/data/papers_chromatin_lifespan/s41467-023-43417-6.pdf},
+journal ={Nature Communications},
+volume ={14},
+pages ={N/A},
+source={082d33ec2c1dc5b16bd3d10ed5dbac7ef3fc8d69240a53642ca1caae11765dd6}
+}
+
+@Article{
+author ={Jun Kim and Haoyu Wang and Sevinç Ercan},
+title ={Cohesin mediated loop extrusion from active enhancers form chromatin jets in<i>C. elegans</i>},
+year ={2023},
+doi ={10.1101/2023.09.18.558239},
+abstract ={In mammals, cohesin and CTCF organize the 3D genome into topologically associated domains (TADs) to regulate communication between cis-regulatory elements. However, many organisms, including S. cerevisiae, C. elegans, and A. thaliana lack CTCF. Here, we use C. elegans as a model to investigate the function of cohesin in 3D genome organization in an animal without CTCF. We use auxin-inducible degradation to acutely deplete SMC-3 or its negative regulator WAPL-1 from somatic cells. Using Hi-C data, we identify a cohesin-dependent 3D genome organization feature called chromatin jets (aka fountains). These are population average reflections of DNA loops that are ~20-40 kb in scale and often cover a few transcribed genes. The jets emerge from NIPBL occupied segments, and the trajectory of the jets coincides with cohesin binding. Cohesin translocation from jet origins depends on a fully intact complex and is extended upon WAPL-1 depletion. Hi-C results support the idea that cohesin is preferentially loaded at NIPBL occupied sites and loop extrudes in an effectively two-sided manner. The location of putative loading sites coincide with active enhancers and the strength of chromatin jet pattern correlates with transcription. Hi-C analyses upon WAPL-1 depletion reveal unequal loop extrusion processivity on each side and stalling due to cohesin molecules colliding. Compared to mammalian systems, average processivity of C. elegans cohesin is ~10-fold shorter and NIPBL binding does not depend on cohesin. We conclude that the processivity of cohesin scales with genome size; and regardless of CTCF presence, preferential loading of cohesin at enhancers is a conserved mechanism of genome organization that regulates the interaction of gene regulatory elements in 3D.},
+keywords ={},
+note ={https://danhiggins.org/data/papers_chromatin_lifespan/nihpp-2023.09.18.558239v2.pdf},
+journal ={},
+volume ={N/A},
+pages ={N/A},
+source={a2107a360c203d6cf31beecde1f08a47f54c2dbd90142b73fde504eb10153ef7}
+}
+
+@Article{
+author ={Tim Liebner and Sinan Kilic and Jonas Walter and Hitoshi Aibara and Takeo Narita and Chunaram Choudhary},
+title ={Acetylation of histones and non-histone proteins is not a mere consequence of ongoing transcription},
+year ={2024},
+doi ={10.1038/s41467-024-49370-2},
+abstract ={},
+keywords ={},
+note ={https://danhiggins.org/data/papers_chromatin_lifespan/s41467-024-49370-2.pdf},
+journal ={Nature Communications},
+volume ={15},
+pages ={N/A},
+source={c11c76b035421b87eb4c92c1bb47dd6f3794f5794a6ac6c75de7a0f87b46be15}
+}
+
+@Article{
+author ={Jason B. Ross and Lara M. Myers and Joseph J. Noh and Madison M. Collins and Aaron B. Carmody and Ronald J. Messer and Erica Dhuey and Kim J. Hasenkrug and Irving L. Weissman},
+title ={Depleting myeloid-biased haematopoietic stem cells rejuvenates aged immunity},
+year ={2024},
+doi ={10.1038/s41586-024-07238-x},
+abstract ={},
+keywords ={},
+note ={https://danhiggins.org/data/papers_chromatin_lifespan/s41586-024-07238-x.pdf},
+journal ={Nature},
+volume ={628},
+pages ={162-170},
+source={16c1208588cf00831224aea58e79996bb60d0a3828a537484d57ca6729d2c366}
+}
+
+@Article{
+author ={Felicity J. Emerson and Siu Sylvia Lee},
+title ={Chromatin: the old and young of it},
+year ={2023},
+doi ={10.3389/fmolb.2023.1270285},
+abstract ={Aging affects nearly all aspects of our cells, from our DNA to our proteins to how our cells handle stress and communicate with each other. Age-related chromatin changes are of particular interest because chromatin can dynamically respond to the cellular and organismal environment, and many modifications at chromatin are reversible. Changes at chromatin occur during aging, and evidence from model organisms suggests that chromatin factors could play a role in modulating the aging process itself, as altering proteins that work at chromatin often affect the lifespan of yeast, worms, flies, and mice. The field of chromatin and aging is rapidly expanding, and high-resolution genomics tools make it possible to survey the chromatin environment or track chromatin factors implicated in longevity with precision that was not previously possible. In this review, we discuss the state of chromatin and aging research. We include examples from yeast, Drosophila, mice, and humans, but we particularly focus on the commonly used aging model, the worm Caenorhabditis elegans, in which there are many examples of chromatin factors that modulate longevity. We include evidence of both agerelated changes to chromatin and evidence of specific chromatin factors linked to longevity in core histones, nuclear architecture, chromatin remodeling, and histone modifications.},
+keywords ={chromatin, aging, longevity, histone modifications, C. elegans},
+note ={https://danhiggins.org/data/papers_chromatin_lifespan/fmolb-10-1270285.pdf},
+journal ={Frontiers in Molecular Biosciences},
+volume ={10},
+pages ={N/A},
+source={9213e663f8f9e96d8dd7be2bdb8a493c29066fc972a63318bd8a543bb266cba0}
+}
+
+@Article{
+author ={Yuancheng Ryan Lu and Xiao Tian and David A. Sinclair},
+title ={The Information Theory of Aging},
+year ={2023},
+doi ={10.1038/s43587-023-00527-6},
+abstract ={Information storage and retrieval is essential for all life. In biology, information is primarily stored in two distinct ways: the genome, comprising nucleic acids, acts as a foundational blueprint and the epigenome, consisting of chemical modifications to DNA and histone proteins, regulates gene expression patterns and endows cells with specific identities and functions. Unlike the stable, digital nature of genetic information, epigenetic information is stored in a digital-analog format, susceptible to alterations induced by diverse environmental signals and cellular damage. The Information Theory of Aging (ITOA) states that the aging process is driven by the progressive loss of youthful epigenetic information, the retrieval of which via epigenetic reprogramming can improve the function of damaged and aged tissues by catalyzing age reversal.},
+keywords ={},
+note ={https://danhiggins.org/data/papers_chromatin_lifespan/Lu_et_al-2023-Nature_Aging.pdf},
+journal ={Nature Aging},
+volume ={3},
+pages ={1486-1499},
+source={e2b30b0c7985ce3f4c27c2e4351bf1d7201d22e1c47132f5f95936ebddc0d992}
+}
+
+@Article{
+author ={Katie G Owings and Clement Y Chow},
+title ={A <i>Drosophila</i> screen identifies a role for histone methylation in ER stress preconditioning},
+year ={2023},
+doi ={10.1093/g3journal/jkad265},
+abstract ={Stress preconditioning occurs when transient, sublethal stress events impact an organism's ability to counter future stresses. Although preconditioning effects are often noted in the literature, very little is known about the underlying mechanisms. To model preconditioning, we exposed a panel of genetically diverse Drosophila melanogaster to a sublethal heat shock and measured how well the flies survived subsequent exposure to endoplasmic reticulum (ER) stress. The impact of preconditioning varied with genetic background, ranging from dying half as fast to 4 and a half times faster with preconditioning compared to no preconditioning. Subsequent association and transcriptional analyses revealed that histone methylation, and transcriptional regulation are both candidate preconditioning modifier pathways. Strikingly, almost all subunits (7/8) in the Set1/COMPASS complex were identified as candidate modifiers of preconditioning. Functional analysis of Set1 knockdown flies demonstrated that loss of Set1 led to the transcriptional dysregulation of canonical ER stress genes during preconditioning. Based on these analyses, we propose a preconditioning model in which Set1 helps to establish an interim transcriptional "memory" of previous stress events, resulting in a preconditioned response to subsequent stress.},
+keywords ={stress preconditioning, Drosophila melanogaster, DGRP, ER stress, heat shock, natural genetic variation},
+note ={https://danhiggins.org/data/papers_chromatin_lifespan/jkad265.pdf},
+journal ={G3: Genes, Genomes, Genetics},
+volume ={14},
+pages ={N/A},
+source={628f186d113aa850b5f20577e693e33bc145ede11ee344bda18b9aea2a335d06}
+}
+
+@Article{
+author ={Andre Pires da Silva and Rhianne Kelleher and Luke Reynoldson},
+title ={Decoding lifespan secrets: the role of the gonad in Caenorhabditis elegans aging},
+year ={2024},
+doi ={10.3389/fragi.2024.1380016},
+abstract ={The gonad has become a central organ for understanding aging in C. elegans, as removing the proliferating stem cells in the germline results in significant lifespan extension. Similarly, when starvation in late larval stages leads to the quiescence of germline stem cells the adult nematode enters reproductive diapause, associated with an extended lifespan. This review summarizes recent advancements in identifying the mechanisms behind gonad-mediated lifespan extension, including comparisons with other nematodes and the role of lipid signaling and transcriptional changes. Given that the gonad also mediates lifespan regulation in other invertebrates and vertebrates, elucidating the underlying mechanisms may help to gain new insights into the mechanisms and evolution of aging.},
+keywords ={diapause, evolution of aging, lipids, germline, reproduction},
+note ={https://danhiggins.org/data/papers_chromatin_lifespan/fragi-05-1380016.pdf},
+journal ={Frontiers in Aging},
+volume ={5},
+pages ={N/A},
+source={617d5bb31b9b4d2d5d6e5cab2a23539b582c803beecaa2b06f998de854d33f32}
+}
+
+@Article{
+author ={Phu Duong and Anjelica Rodriguez-Parks and Junsu Kang and Patrick J. Murphy},
+title ={CUT&amp;Tag applied to zebrafish adult tail fins reveals a return of embryonic H3K4me3 patterns during regeneration},
+year ={2024},
+doi ={10.1186/s13072-024-00547-5},
+abstract ={Regenerative potential is governed by a complex process of transcriptional reprogramming, involving chromatin reorganization and dynamics in transcription factor binding patterns throughout the genome. The degree to which chromatin and epigenetic changes contribute to this process remains only partially understood. Here we provide a modified CUT&Tag protocol suitable for improved characterization and interrogation of changes in chromatin modifications during adult fin regeneration in zebrafish. Our protocol generates data that recapitulates results from previously published ChIP-Seq methods, requires far fewer cells as input, and significantly improves signal to noise ratios. We deliver high-resolution enrichment maps for H3K4me3 of uninjured and regenerating fin tissues. During regeneration, we find that H3K4me3 levels increase over gene promoters which become transcriptionally active and genes which lose H3K4me3 become silenced. Interestingly, these reprogramming events recapitulate the H3K4me3 patterns observed in developing fin folds of 24-h old zebrafish embryos. Our results indicate that changes in genomic H3K4me3 patterns during fin regeneration occur in a manner consistent with reactivation of developmental programs, demonstrating CUT&Tag to be an effective tool for profiling chromatin landscapes in regenerating tissues.},
+keywords ={},
+note ={https://danhiggins.org/data/papers_chromatin_lifespan/s13072-024-00547-5.pdf},
+journal ={Epigenetics &amp; Chromatin},
+volume ={17},
+pages ={N/A},
+source={1ad33f582183359606fc5b146b0457a558034848917e768de77ab6fb48855781}
+}
+
+@Article{
+author ={Yinwen Zhang and Hosung Jang and Ziliang Luo and Yinxin Dong and Yangyang Xu and Yamini Kantamneni and Robert J. Schmitz},
+title ={Dynamic evolution of the heterochromatin sensing histone demethylase IBM1},
+year ={2024},
+doi ={10.1101/2024.01.08.574644},
+abstract ={Heterochromatin constitutes a fundamental aspect of genomes that is crucial for maintaining genome stability. In flowering plants, maintenance of heterochromatin relies on a positive feedback loop involving the histone 3 lysine nine methyltransferase (H3K9), KRYPTONITE (KYP), and the DNA methyltransferase, CHROMOMETHYLASE3 (CMT3). An H3K9},
+keywords ={},
+note ={https://danhiggins.org/data/papers_chromatin_lifespan/2024.01.08.574644v1.full.pdf},
+journal ={},
+volume ={N/A},
+pages ={N/A},
+source={76d42db7aaaf540fd66c7649b391bcdecd423ba2783ba17e2396da810ca904a8}
+}
+
+@Article{
+author ={Ralph Patrick and Marina Naval-Sanchez and Nikita Deshpande and Yifei Huang and Jingyu Zhang and Xiaoli Chen and Ying Yang and Kanupriya Tiwari and Mohammadhossein Esmaeili and Minh Tran and Amin R. Mohamed and Binxu Wang and Di Xia and Jun Ma and Jacqueline Bayliss and Kahlia Wong and Michael L. Hun and Xuan Sun and Benjamin Cao and Denny L. Cottle and Tara Catterall and Hila Barzilai-Tutsch and Robin-Lee Troskie and Zhian Chen and Andrea F. Wise and Sheetal Saini and Ye Mon Soe and Snehlata Kumari and Matthew J. Sweet and Helen E. Thomas and Ian M. Smyth and Anne L. Fletcher and Konstantin Knoblich and Matthew J. Watt and Majid Alhomrani and Walaa Alsanie and Kylie M. Quinn and Tobias D. Merson and Ann P. Chidgey and Sharon D. Ricardo and Di Yu and Thierry Jardé and Seth W. Cheetham and Christophe Marcelle and Susan K. Nilsson and Quan Nguyen and Melanie D. White and Christian M. Nefzger},
+title ={The activity of early-life gene regulatory elements is hijacked in aging through pervasive AP-1-linked chromatin opening},
+year ={2024},
+doi ={10.1016/j.cmet.2024.06.006},
+abstract ={Highlights d Multi-omic analysis of maturation and aging across >45 mouse and human cell types d Common transcription factor pattern for chromatin remodeling in maturation and aging d Encoded via relative abundance of AP-1, CTCF, and cell identity factor binding sites d Remodeling mechanism activated by AP-1, stress, systemic factor, or PRC2 inhibition},
+keywords ={},
+note ={https://danhiggins.org/data/papers_chromatin_lifespan/1-s2.0-S1550413124002316-main.pdf},
+journal ={Cell Metabolism},
+volume ={N/A},
+pages ={N/A},
+source={60e622e07dd7d312c7819fff8ed1e58890b3a91c2f938b2254748c42fc80078d}
+}
+
+@Article{
+author ={Flavio R. Palma and Diego R. Coelho and Kirthi Pulakanti and Marcelo J. Sakiyama and Yunping Huang and Fernando T. Ogata and Jeanne M. Danes and Alison Meyer and Cristina M. Furdui and Douglas R. Spitz and Ana P. Gomes and Benjamin N. Gantner and Sridhar Rao and Vadim Backman and Marcelo G. Bonini},
+title ={Histone H3.1 is a chromatin-embedded redox sensor triggered by tumor cells developing adaptive phenotypic plasticity and multidrug resistance},
+year ={2024},
+doi ={10.1016/j.celrep.2024.113897},
+abstract ={Highlights d Cysteine oxidation is a functional modification of the H3.1 histone variant d H3.1Cys96 oxidation promotes its exchange by H3.3 d H3.1Cys96 oxidation promotes multidrug resistance in breast cancer d H3.1Cys96 modification by ROS promotes metastasis},
+keywords ={},
+note ={https://danhiggins.org/data/papers_chromatin_lifespan/PIIS2211124724002250.pdf},
+journal ={Cell Reports},
+volume ={43},
+pages ={113897},
+source={3f0d2f93a90dd48456dd4a9cc8504035d4a1675c7ab97c072e27e3c2db88ea1f}
+}
+
+@Article{
+author ={Apoorva Uboveja and Zhentai Huang and Raquel Buj and Amandine Amalric and Hui Wang and Naveen Kumar Tangudu and Aidan R. Cole and Emily Megill and Daniel Kantner and Adam Chatoff and Hafsah Ahmad and Mariola M. Marcinkiewicz and Julie A. Disharoon and Sarah Graff and Erika S. Dahl and Nadine Hempel and Wayne Stallaert and Simone Sidoli and Benjamin G. Bitler and David T. Long and Nathaniel W. Snyder and Katherine M. Aird},
+title ={αKG-mediated carnitine synthesis promotes homologous recombination via histone acetylation},
+year ={2024},
+doi ={10.1101/2024.02.06.578742},
+abstract ={},
+keywords ={Epigenetics, histone acetylation, alpha-ketoglutarate, isocitrate dehydrogenase, homologous recombination, ovarian cancer, cyclin E, DNA damaging agents},
+note ={https://danhiggins.org/data/papers_chromatin_lifespan/2024.02.06.578742v1.full.pdf},
+journal ={},
+volume ={N/A},
+pages ={N/A},
+source={b45e91b1c4d09bf032da834e0a44b38e9b5e606aee7a124e07c72c103c86a9ad}
+}
+
+@Article{
+author ={Kang, Jengmin and Benjami, Dani and Kim, Soochi and Salvi, Jayes and Dhaliw, Gurkamal and Lam, Richa and Goshayes, Armon and Brett, Jamie and Liu, Ling and Rando, Thomas},
+title ={Depletion of SAM leading to loss of hetero chromatin drives muscle stem cell ageing},
+year ={2024},
+doi ={10.1038/s42255-023-00955-z},
+abstract ={},
+keywords ={},
+note ={https://danhiggins.org/data/papers_chromatin_lifespan/s42255-023-00955-z.pdf},
+journal ={},
+volume ={},
+pages ={},
+source={a6690a39143915f6a107f2b27490614f94414eb1ef3603db7643a9e575c1ed35}
+}
+
+@Article{
+author ={Meng Huang and Minjie Hong and Chengming Zhu and Di Chen and Xiangyang Chen and Shouhong Guang and Xuezhu Feng},
+title ={H3K9me1/2 methylation limits the lifespan of<i>C. elegans</i>},
+year ={2021},
+doi ={10.1101/2021.10.27.466082},
+abstract ={},
+keywords ={longevity, lifespan, aging, epigenetic, Histone modification, H3K9me, Histone methyltransferases, met-2, Insulin pathway, daf-2, FOXO transcription factor, C. elegans},
+note ={https://danhiggins.org/data/papers_chromatin_lifespan/2021.10.27.466082v1.full.pdf},
+journal ={},
+volume ={N/A},
+pages ={N/A},
+source={e8a6c839d4df7d917d6618bb58d8f9763266c506810064b229d8f7f5d3cff769}
+}
+
+@Article{
+author ={Aaron T. Crain and Markus Nevil and Mary P. Leatham-Jensen and Katherine B. Reeves and A. Gregory Matera and Daniel J. McKay and Robert J. Duronio},
+title ={Redesigning the<i>Drosophila</i>histone gene cluster: An improved genetic platform for spatiotemporal manipulation of histone function},
+year ={2024},
+doi ={10.1101/2024.04.25.591202},
+abstract ={},
+keywords ={},
+note ={https://danhiggins.org/data/papers_chromatin_lifespan/2024.04.25.591202v1.full.pdf},
+journal ={},
+volume ={N/A},
+pages ={N/A},
+source={8a8ac2be9757614e6a72aae50faccc69e4c26a523223d01a81791e4c2b39c22b}
+}
+
+@Article{
+author ={S Kourtis and M Guirola and N Pardo-Lorente and R Ghose and M Garcia-Cao and A Gañez-Zapater and S Haynes and F Fontaine and A Muller and S Sdelci},
+title ={Comprehensive chromatome profiling identifies metabolic enzymes on chromatin in healthy and cancer cells},
+year ={2023},
+doi ={10.1101/2023.12.06.570368},
+abstract ={Metabolic and epigenetic rewiring are widely considered hallmarks of cancer, with emerging evidence of crosstalk between them. Anecdotal evidence of metabolic enzymes moonlighting in the chromatin environment has suggested how this crosstalk might be facilitated, but the extent of nuclear relocalization of metabolic enzymes remains elusive. Here, we provide a comprehensive chromatin proteomics resource across cancer lineages as well as healthy samples and demonstrate that metabolic enzyme moonlighting on chromatin is widespread across tissues and pathways. We show that the abundance of metabolic enzymes on chromatin is tissue-specific, with oxidative phosphorylation proteins depleted in lung cancer samples, perhaps suggesting an interplay between cell identity and nuclear metabolism. Finally, we explore metabolic functions in the chromatin environment and show that one-carbon folate enzymes are associated with DNA damage and repair processes, providing an approach to explore non-canonical functions of metabolic enzymes.},
+keywords ={},
+note ={https://danhiggins.org/data/papers_chromatin_lifespan/2023.12.06.570368v1.full.pdf},
+journal ={},
+volume ={N/A},
+pages ={N/A},
+source={dc77a1363fa74105fdf7ec834a635c4ed187ee2666ecdb9a76fcb0468091dbba}
+}
+
+@Article{
+author ={Xiang Li and Fan Wu and Stefan Günther and Mario Looso and Carsten Kuenne and Ting Zhang and Marion Wiesnet and Stephan Klatt and Sven Zukunft and Ingrid Fleming and Gernot Poschet and Astrid Wietelmann and Ann Atzberger and Michael Potente and Xuejun Yuan and Thomas Braun},
+title ={Inhibition of fatty acid oxidation enables heart regeneration in adult mice},
+year ={2023},
+doi ={10.1038/s41586-023-06585-5},
+abstract ={Postnatal maturation of cardiomyocytes is characterized by a metabolic switch from glycolysis to fatty acid oxidation, chromatin reconfiguration and exit from the cell cycle, instating a barrier for adult heart regeneration 1,2. Here, to explore whether metabolic reprogramming can overcome this barrier and enable heart regeneration, we abrogate fatty acid oxidation in cardiomyocytes by inactivation of Cpt1b. We find that disablement of fatty acid oxidation in cardiomyocytes improves resistance to hypoxia and stimulates cardiomyocyte proliferation, allowing heart regeneration after ischaemia-reperfusion injury. Metabolic studies reveal profound changes in energy metabolism and accumulation of α-ketoglutarate in Cpt1b-mutant cardiomyocytes, leading to activation of the α-ketoglutarate-dependent lysine demethylase KDM5 (ref. 3). Activated KDM5 demethylates broad H3K4me3 domains in genes that drive cardiomyocyte maturation, lowering their transcription levels and shifting cardiomyocytes into a less mature state, thereby promoting proliferation. We conclude that metabolic maturation shapes the epigenetic landscape of cardiomyocytes, creating a roadblock for further cell divisions. Reversal of this process allows repair of damaged hearts.},
+keywords ={},
+note ={https://danhiggins.org/data/papers_chromatin_lifespan/41586_2023_Article_6585.pdf},
+journal ={Nature},
+volume ={N/A},
+pages ={N/A},
+source={9dfd3554a1ed0da80e03950b470255a37abf546cdde791b4c30b85211f3dbf2d}
+}
+

@@ -34,3 +34,17 @@ https://www.nature.com/articles ("This is a preview subscription" trim to end)
 
 # Home tabe
 https://api.slack.com/tutorials/tracks/app-home-and-modals
+
+# URLS in Channels
+https://slackbot1.danhiggins.org/urls-to-process/papers_arf_lipid_golgi
+https://slackbot1.danhiggins.org/urls-to-process/papers_bioinformatics-methods
+https://slackbot1.danhiggins.org/urls-to-process/papers_chromatin_lifespan
+https://slackbot1.danhiggins.org/urls-to-process/papers_etfb
+https://slackbot1.danhiggins.org/urls-to-process/papers_lifespan_1cc
+https://slackbot1.danhiggins.org/urls-to-process/papers_other_worm
+https://slackbot1.danhiggins.org/urls-to-process/papers_other-lipid
+https://slackbot1.danhiggins.org/urls-to-process/papers_other-metabolism
+https://slackbot1.danhiggins.org/urls-to-process/papers_stress
+https://slackbot1.danhiggins.org/urls-to-process/papers_technical
+https://slackbot1.danhiggins.org/urls-to-process/papers_unknown_unknowns
+https://slackbot1.danhiggins.org/urls-to-process/papers-pa-media

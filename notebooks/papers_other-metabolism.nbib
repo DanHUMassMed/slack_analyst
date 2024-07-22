@@ -1,0 +1,700 @@
+@Article{
+author ={Jun Ding and Jian Ji and Zachary Rabow and Tong Shen and Jacob Folz and Christopher R. Brydges and Sili Fan and Xinchen Lu and Sajjan Mehta and Megan R. Showalter and Ying Zhang and Renee Araiza and Lynette R. Bower and K. C. Kent Lloyd and Oliver Fiehn},
+title ={A metabolome atlas of the aging mouse brain},
+year ={2021},
+doi ={10.1038/s41467-021-26310-y},
+abstract ={The mammalian brain relies on neurochemistry to fulfill its functions. Yet, the complexity of the brain metabolome and its changes during diseases or aging remain poorly understood. Here, we generate a metabolome atlas of the aging wildtype mouse brain from 10 anatomical regions spanning from adolescence to old age. We combine data from three assays and structurally annotate 1,547 metabolites. Almost all metabolites significantly differ between brain regions or age groups, but not by sex. A shift in sphingolipid patterns during aging related to myelin remodeling is accompanied by large changes in other metabolic pathways. Functionally related brain regions (brain stem, cerebrum and cerebellum) are also metabolically similar. In cerebrum, metabolic correlations markedly weaken between adolescence and adulthood, whereas at old age, cross-region correlation patterns reflect decreased brain segregation. We show that metabolic changes can be mapped to existing gene and protein brain atlases. The brain metabolome atlas is publicly available (https:// mouse.atlas.metabolomics.us/) and serves as a foundation dataset for future metabolomic studies.},
+keywords ={},
+note ={https://danhiggins.org/data/papers_other-metabolism/s41467-021-26310-y.pdf},
+journal ={Nature Communications},
+volume ={12},
+pages ={N/A},
+source={c71a231aaec54946c68fb7b39254a866a119eb0aa9d013548146283ea53e1255}
+}
+
+@Article{
+author ={Manish K. Singh and Laetitia Cavellini and Christina Kunz and Mickaël Lelek and Perrine Bomme and Naïma Belgareh-Touzé and Adeline Mallet and Lea Dietrich and Christophe Zimmer and Mickael M. Cohen},
+title ={A constricted mitochondrial morphology optimizes respiration},
+year ={2024},
+doi ={10.1101/2024.03.21.582105},
+abstract ={Mitochondria assemble in a dynamic tubular network with a morphology governed by mitochondrial fusion and fission, which regulate all mitochondrial functions including oxidative phosphorylation 1-4. Yet, the link between mitochondrial morphology and respiration remains unclear 5-9. Here, we discover a previously unknown mitochondrial morphology dedicated to respiratory growth of Saccharomyces cerevisiae, which we refer to as "Ringo". The Ringo},
+keywords ={},
+note ={https://danhiggins.org/data/papers_other-metabolism/2024.03.21.582105v1.full.pdf},
+journal ={},
+volume ={N/A},
+pages ={N/A},
+source={eb22295aefe2301d7d847fd3566831bb031668d1590a8ba376faf7b033f010b2}
+}
+
+@Article{
+author ={Nick Burton and Jason Cooper and Kim Nguyen and Darrick Gates and Emily Wolfram and Colt Capan and Hyoungjoo Lee and Devia Williams and Chidozie Okoye and Andrew Wojtovich},
+title ={Oocyte mitochondria link maternal environment to offspring phenotype},
+year ={2024},
+doi ={10.21203/rs.3.rs-4087193/v1},
+abstract ={},
+keywords ={Intergenerational, C. elegans, oocyte, mitochondria, AMP kinase, insulin, isp-1, nduf-7, nuo-6, mev-1, gas-1, daf-2, aak-2},
+note ={https://danhiggins.org/data/papers_other-metabolism/v1_covered_f18d614b-5546-42bf-acb8-025b89d260a9.pdf},
+journal ={},
+volume ={N/A},
+pages ={N/A},
+source={c9a706f60d12670e2081de6203a2372c71e7c6bdc231e82dcc58aa88f8aec824}
+}
+
+@Article{
+author ={Xujun Liu and Wenzhe Si and Lin He and Jianguo Yang and Yani Peng and Jie Ren and Xiaoping Liu and Tong Jin and Huajing Yu and Zihan Zhang and Xiao Cheng and Wenting Zhang and Lu Xia and Yunchao Huang and Yue Wang and Shumeng Liu and Lin Shan and Yu Zhang and Xiaohan Yang and Haixia Li and Jing Liang and Luyang Sun and Yongfeng Shang},
+title ={The existence of a nonclassical TCA cycle in the nucleus that wires the metabolic-epigenetic circuitry},
+year ={2021},
+doi ={10.1038/s41392-021-00774-2},
+abstract ={The scope and variety of the metabolic intermediates from the mitochondrial tricarboxylic acid (TCA) cycle that are engaged in epigenetic regulation of the chromatin function in the nucleus raise an outstanding question about how timely and precise supply/ consumption of these metabolites is achieved in the nucleus. We report here the identification of a nonclassical TCA cycle in the nucleus (nTCA cycle). We found that all the TCA cycle-associated enzymes including citrate synthase (CS), aconitase 2 (ACO2), isocitrate dehydrogenase 3 (IDH3), oxoglutarate dehydrogenase (OGDH), succinyl-CoA synthetase (SCS), fumarate hydratase (FH), and malate dehydrogenase 2 (MDH2), except for succinate dehydrogenase (SDH), a component of electron transport chain for generating ATP, exist in the nucleus. We showed that these nuclear enzymes catalyze an incomplete TCA cycle similar to that found in cyanobacteria. We propose that the nTCA cycle is implemented mainly to generate/consume metabolic intermediates, not for energy production. We demonstrated that the nTCA cycle is intrinsically linked to chromatin dynamics and transcription regulation. Together, our study uncovers the existence of a nonclassical TCA cycle in the nucleus that links the metabolic pathway to epigenetic regulation.},
+keywords ={},
+note ={https://danhiggins.org/data/papers_other-metabolism/s41392-021-00774-2.pdf},
+journal ={Signal Transduction and Targeted Therapy},
+volume ={6},
+pages ={N/A},
+source={e1a1eb3fac21ea5e83723ba0b677bd8d905c99a7467c553d3f26add691dcb3c0}
+}
+
+@Article{
+author ={Abdul Sammad and Lirong Hu and Hanpeng Luo and Zaheer Abbas and Saqib Umer and Shanjiang Zhao and Qing Xu and Adnan Khan and Yajing Wang and Huabin Zhu and Yachun Wang},
+title ={Investigation of Metabolome Underlying the Biological Mechanisms of Acute Heat Stressed Granulosa Cells},
+year ={2022},
+doi ={10.3390/ijms23042146},
+abstract ={Heat stress affects granulosa cells and the ovarian follicular microenvironment, ultimately resulting in poor oocyte developmental competence. This study aims to investigate the metabolomics response of bovine granulosa cells (bGCs) to in vitro acute heat stress of 43 • C. Heat stress triggers oxidative stress-mediated apoptosis in cultured bGCs. Heat-stressed bGCs exhibited a time-dependent recovery of proliferation potential by 48 h. A total of 119 metabolites were identified through LC-MS/MS-based metabolomics of the spent culture media, out of which, 37 metabolites were determined as differentially involved in metabolic pathways related to bioenergetics support mechanisms and the physical adaptations of bGCs. Multiple analyses of metabolome data identified choline, citric acid, 3-hydroxy-3-methylglutaric acid, glutamine, and glycocyamine as being upregulated, while galactosamine, AICAR, ciliatine, 16-hydroxyhexadecanoic acid, lysine, succinic acid, uridine, xanthine, and uraconic acid were the important downregulated metabolites in acute heat stress. These differential metabolites were implicated in various important metabolic pathways directed towards bioenergetics support mechanisms including glycerophospholipid metabolism, the citrate cycle (TCA cycle), glyoxylate and dicarboxylate metabolism, and serine, threonine, and tyrosine metabolism. Our study presents important metabolites and metabolic pathways involved in the adaptation of bGCs to acute heat stress in vitro.},
+keywords ={granulosa cells, heat stress, metabolomics, metabolites, bioenergetics, pathways},
+note ={https://danhiggins.org/data/papers_other-metabolism/ijms-23-02146-v2.pdf},
+journal ={International Journal of Molecular Sciences},
+volume ={23},
+pages ={2146},
+source={71d85cfa5038de08f6551444fc310947e2101e2f8c52f6836eab5d4a0496563f}
+}
+
+@Article{
+author ={Chen Lesnik and Rachel Kaletsky and Jasmine M. Ashraf and Salman Sohrabi and Vanessa Cota and Titas Sengupta and William Keyes and Shijing Luo and Coleen T. Murphy},
+title ={Enhanced branched-chain amino acid metabolism improves age-related reproduction in C. elegans},
+year ={2024},
+doi ={10.1038/s42255-024-00996-y},
+abstract ={},
+keywords ={},
+note ={https://danhiggins.org/data/papers_other-metabolism/s42255-024-00996-y.pdf},
+journal ={Nature Metabolism},
+volume ={6},
+pages ={724-740},
+source={a875bd59bb16322d5d22b9483e33a87eaf760f4bb8804ae31200845cd31d9262}
+}
+
+@Article{
+author ={Anna S Monzel and Michael Levin and Martin Picard},
+title ={The energetics of cellular life transitions},
+year ={2023},
+doi ={10.1093/lifemeta/load051},
+abstract ={Major life transitions are always difficult because change costs energy. Recent findings have demonstrated how mitochondrial oxida tive phosphorylation (OxPhos) defects increase the energetic cost of living and that excessive integrated stress response (ISR) signal ing may prevent cellular identity transitions during development. In this perspective, we discuss general bioenergetic principles of life transitions and the costly molecular processes involved in reprograming the cellular hardware/software as cells shift identity. The energetic cost of cellular differentiation has not been directly quantified, representing a gap in knowledge. We propose that the ISR is an energetic checkpoint evolved to (i) prevent OxPhosdeficient cells from engaging in excessively costly transitions and (ii) allow ISRpositive cells to recruit systemic energetic resources by signaling via GDF15 and the brain.},
+keywords ={energy, mitochondria, signaling pathway, growth differentiation factor 15, energy balance, development},
+note ={https://danhiggins.org/data/papers_other-metabolism/load051.pdf},
+journal ={Life Metabolism},
+volume ={3},
+pages ={N/A},
+source={d06a54f6b891e3cca0ca8de8a134e626b5d400ad8bb9f1d50958153f227e54b8}
+}
+
+@Article{
+author ={Ryo Yamamoto and Ryan Chung and Juan Manuel Vazquez and Huanjie Sheng and Philippa L. Steinberg and Nilah M. Ioannidis and Peter H. Sudmant},
+title ={Tissue-specific impacts of aging and genetics on gene expression patterns in humans},
+year ={2022},
+doi ={10.1038/s41467-022-33509-0},
+abstract ={},
+keywords ={},
+note ={https://danhiggins.org/data/papers_other-metabolism/s41467-022-33509-0.pdf},
+journal ={Nature Communications},
+volume ={13},
+pages ={N/A},
+source={17483b56c97d28e2c67eddcb1d034c15cd6c473e493c69ca38defc1df88c4472}
+}
+
+@Article{
+author ={Shruthi Hamsanathan and Tamil Anthonymuthu and Denise Prosser and Anna Lokshin and Susan L. Greenspan and Neil M. Resnick and Subashan Perera and Satoshi Okawa and Giri Narasimhan and Aditi U. Gurkar},
+title ={A molecular index for biological age identified from the metabolome and senescence‐associated secretome in humans},
+year ={2024},
+doi ={10.1111/acel.14104},
+abstract ={Unlike chronological age, biological age is a strong indicator of health of an individual. However, the molecular fingerprint associated with biological age is ill-defined. To define a high-resolution signature of biological age, we analyzed metabolome, circulating senescence-associated secretome (SASP)/inflammation markers and the inter},
+keywords ={AUC, area under the curve, BMI, body mass index, cAMP, cyclic adenosine monophosphate, CRP, C-reactive protein, DCAs, dicarboxylic acids, HAM, healthy aging metabolic index, HIF1a, hypoxia-inducible factor 1-alpha, MCP1, monocyte chemoattractant protein 1, MMP-1, matrix metalloproteinase, MOCA, montreal cognitive assessment, OPLS-DA, orthogonal partial least square-discriminant analysis, PAI-1, plasminogen activator inhibitor-1, RMSE, root mean square cross validation error, ROC, receiver operative characteristic, ROS, reactive oxygen species, SAM, S adenosyl methionine, SASP, senescence-associated secretory phenotype, UPLC-MS/MS, ultrahigh-performance liquid chromatography-tandem mass spectroscopy, VIP, variable importance of the projection, VLSFA, very long chain saturated fatty acids, WRAP, wisconsin registry of Alzheimer's patients},
+note ={https://danhiggins.org/data/papers_other-metabolism/Aging%20Cell%20-%202024%20-%20Hamsanathan%20-%20A%20molecular%20index%20for%20biological%20age%20identified%20from%20the%20metabolome%20and.pdf},
+journal ={Aging Cell},
+volume ={23},
+pages ={N/A},
+source={2e201af2186238fc2f476272165f5ce25dd74727317d18d052cb860e8495ce75}
+}
+
+@Article{
+author ={Shenlu Qin and Yihan Wang and Lili Li and Junli Liu and Congmei Xiao and Duo Duan and Wanyu Hao and Chunxia Qin and Jie Chen and Luxia Yao and Runshuai Zhang and Jia You and Ju-Sheng Zheng and Enzhi Shen and Lianfeng Wu},
+title ={Early-life vitamin B12 orchestrates lipid peroxidation to ensure reproductive success via SBP-1/SREBP1 in Caenorhabditis elegans},
+year ={2022},
+doi ={10.1016/j.celrep.2022.111381},
+abstract ={Highlights d Early-life B12 deficiency causes fat level increase and sterility in adult C. elegans d Early-life B12 acts through the methionine cycle-SBP-1/ SREBP1 axis d SBP-1/SREBP1 plays a key role in maintaining cellular B12 homeostasis d Repressing lipogenesis or ferroptosis can be late-life options against infertility Authors},
+keywords ={},
+note ={https://danhiggins.org/data/papers_other-metabolism/PIIS2211124722012165.pdf},
+journal ={Cell Reports},
+volume ={40},
+pages ={111381},
+source={e0b393a6203e5bf844617a55c7aaa61cc7ad42c8f5759de9e0db982fb8bed52e}
+}
+
+@Article{
+author ={Dittmann, Marie and Lakatos, Gabriella and Wainwright, Jodie and Mokrosinski, Jacek and Cross, Eloise and Sadaf Farooqi, I and Wallis, Natalie and Halsey, Lewis and Wilson, Rory and O'rahilly, Stephen and Yeo, Giles and Raffan, Eleanor},
+title ={Low resting metabolic rate and increased hunger due to β-MSH and βendorphin deletion in a canine model},
+year ={},
+doi ={},
+abstract ={Mutations that perturb leptin-melanocortin signaling are known to cause hyperphagia and obesity, but energy expenditure has not been well studied outside rodents. We report on a common canine mutation in proopiomelanocortin (POMC), which prevents production of β-melanocytestimulating hormone (β-MSH) and βendorphin but not α-MSH; humans, similar to dogs, produce α-MSH and β-MSH from the POMC propeptide, but rodents produce only α-MSH. We show that energy expenditure is markedly lower in affected dogs, which also have increased motivational salience in response to a food cue, indicating increased wanting or hunger. There was no difference in satiety at a modified ad libitum meal or in their hedonic response to food, nor disruption of adrenocorticotropic hormone (ACTH) or thyroid axes. In vitro, we show that β-MSH signals comparably to α-MSH at melanocortin receptors. These data implicate β-MSH and βendorphin as important in determining hunger and moderating energy expenditure and suggest that this role is independent of the presence of α-MSH.},
+keywords ={},
+note ={https://danhiggins.org/data/papers_other-metabolism/sciadv.adj3823.pdf},
+journal ={},
+volume ={},
+pages ={},
+source={6850138b808ee428773a8b4788a3b0be4a5592293f8dc409bf8cf3f59c047bed}
+}
+
+@Article{
+author ={Elisa Benedetti and Eric Minwei Liu and Cerise Tang and Fengshen Kuo and Mustafa Buyukozkan and Tricia Park and Jinsung Park and Fabian Correa and A. Ari Hakimi and Andrew M. Intlekofer and Jan Krumsiek and Ed Reznik},
+title ={A multimodal atlas of tumour metabolism reveals the architecture of gene–metabolite covariation},
+year ={2023},
+doi ={10.1038/s42255-023-00817-8},
+abstract ={},
+keywords ={},
+note ={https://danhiggins.org/data/papers_other-metabolism/s42255-023-00817-8.pdf},
+journal ={Nature Metabolism},
+volume ={5},
+pages ={1029-1044},
+source={fe9f75d1960961dc3352f7fbe36e3fbd510599bcd795de7b9f9ee245eb3fbc0f}
+}
+
+@Article{
+author ={Deng, Yanxiang and Bartosovic, Marek and Kukanja, Petra and Zhang, Di and Liu, Yang and Su, Graham and Enninful, Archibald and Bai, Zhiliang and Castelo-Branco, Gonçalo and Fan, Rong},
+title ={Spatial-CUT&Tag: Spatially resolved chromatin modification profiling at the cellular level},
+year ={2024},
+doi ={},
+abstract ={},
+keywords ={},
+note ={https://danhiggins.org/data/papers_other-metabolism/science.abg7216.pdf},
+journal ={},
+volume ={},
+pages ={},
+source={495a66265707d1e06d7632f292dc85caee91c0037b6f474ce704c025df48feda}
+}
+
+@Article{
+author ={West, Robert and Delattre, Hadrien and Noor, Elad and Feliu, Elisenda and Soyer, Orkun},
+title ={Dynamics of co-substrate pools can constrain and regulate metabolic fluxes},
+year ={},
+doi ={},
+abstract ={Cycling of co-substrates, whereby a metabolite is converted among alternate forms via different reactions, is ubiquitous in metabolism. Several cycled co-substrates are well known as energy and electron carriers (e.g. ATP and NAD(P)H), but there are also other metabolites that act as cycled co-substrates in different parts of central metabolism. Here, we develop a mathematical framework to analyse the effect of co-substrate cycling on metabolic flux. In the cases of a single reaction and linear pathways, we find that co-substrate cycling imposes an additional flux limit on a reaction, distinct to the limit imposed by the kinetics of the primary enzyme catalysing that reaction. Using analytical methods, we show that this additional limit is a function of the total pool size and turnover rate of the cycled co-substrate. Expanding from this insight and using simulations, we show that regulation of these two parameters can allow regulation of flux dynamics in branched and coupled pathways. To support these theoretical insights, we analysed existing flux measurements and enzyme levels from the central carbon metabolism and identified several reactions that could be limited by the dynamics of co-substrate cycling. We discuss how the limitations imposed by co-substrate cycling provide experimentally testable hypotheses on specific metabolic phenotypes. We conclude that measuring and controlling co-substrate dynamics is crucial for understanding and engineering metabolic fluxes in cells.},
+keywords ={},
+note ={https://danhiggins.org/data/papers_other-metabolism/elife-84379-v1.pdf},
+journal ={},
+volume ={},
+pages ={},
+source={d3d0b35578ea57986650b317de1d83be2df4aedcf4b2111f8760abcad66ced6b}
+}
+
+@Article{
+author ={Junxiang Zhou and Mei Duan and Xin Wang and Fengxia Zhang and Hejiang Zhou and Tengfei Ma and Qiuyuan Yin and Jie Zhang and Fei Tian and Guodong Wang and Chonglin Yang},
+title ={A feedback loop engaging propionate catabolism intermediates controls mitochondrial morphology},
+year ={2022},
+doi ={10.1038/s41556-022-00883-2},
+abstract ={itochondrial oxidation of carbohydrates, fatty acids and amino acids generates acetyl-coA and many organic acid intermediates, which are oxidized through the tricarboxylic acid cycle or used for macromolecule biosynthesis. Abnormal accumulation of such intermediates often leads to organic acidurias or organic acidaemias 1-3. Although patients with organic acidaemia frequently exhibit features of mitochondrial disorders 1 , it is largely unknown how individual organic acid intermediates affect mitochondrial homeostasis. D-2HG is a mitochondrial organic acid derived from the tricarboxylic acid cycle intermediate α-ketoglutarate (α-KG). In humans, D-2HG is produced together with succinic semialdehyde (SSA) by the hydroxyacid-oxoacid transhydrogenase (HOT; encoded by ADHFE1), using γ-hydroxybutyrate (GHB) and α-KG as co-substrates 4. D-2HG is rapidly converted back to α-KG by D-2HG dehydrogenase (D2HGDH). D-2HG accumulation leads to a rare and devastating developmental disorder, d-2-hydroxyglutaric aciduria (D-2-HGA) 5,6. D-2HG is also implicated in cancers with neomorphic gain-of-function mutations of the isocitrate dehydrogenases IDH1 and IDH2, which plays debatable roles in tumorigenesis 7-10. The effects of D-2HG on mitochondrion-related disease pathology are not currently understood. Similar to D-2HG, 3-HP is a highly toxic intermediate of mitochondrial oxidation of branched-chain amino acids (BCAAs), propionate and odd-chain fatty acids 11,12. 3-HP is the diagnostic metabolite in propionic acidaemia (PPA) and methylmalonic acidaemia (MMA), two lethal genetic disorders that result from defective propionate catabolism 13-15. Nevertheless, it is not understood how 3-HP exerts adverse effects on mitochondria. Notably, 3-HP is a structural analogue of GHB, a co-substrate for HOT to produce D-2HG. Whether D-2HG and 3-HP are functionally linked to affect mitochondria is unknown. The nematode C. elegans, which is normally fed on Escherichia coli strains that also colonize the intestine, provides an excellent system for dissecting the metabolic and the dietary and gut bacterial effects on mitochondria 16-23. Worms fed on bacteria with or without vitamin B12 (VB12) adopt VB12-dependent or VB12-independent pathways to break down propionate in mitochondria and generate a variety of metabolic intermediates 24. Here, we use unbiased genetic screening to reveal genes and metabolites that affect mitochondrial homeostasis in C. elegans. We identify a mitochondrion-damaging feedback loop that involves D-2HG and 3-HP. We further reveal that dietary and gut bacteria affect mitochondrial health by modulating host 3-HP levels. These results provide mechanistic insights into human diseases related to D-2HG and 3-HP.},
+keywords ={},
+note ={https://danhiggins.org/data/papers_other-metabolism/s41556-022-00883-2.pdf},
+journal ={Nature Cell Biology},
+volume ={24},
+pages ={526-537},
+source={2cab307d735a6a2eea13fada78085b208c0ad34188bb7be23b05be07f22cd872}
+}
+
+@Article{
+author ={Levy, Tal and Voeltzke, Kai and Hruby, Laura and Alasad, Khawla and Bas, Zuelal and Snaebjörnsson, Marteinn and Marciano, Ran and Scharov, Katerina and Planque, Mélanie and Vriens, Kim and Christen, Stefan and Funk, Cornelius and Hassiepen, Christina and Kahler, Alisa and Heider, Beate and Picard, Daniel and Lim, Jonathan and Stefanski, Anja and Bendrin, Katja and Vargas-Toscano, Andres and Kahlert, Ulf and Stühler, Kai and Remke, Marc and Elkabets, Moshe and Grünewald, Thomas and Reichert, Andreas and Fendt, Sarah-Maria and Schulze, Almut and Reifenberger, Guido and Rotblat, Barak and Leprivier, Gabriel},
+title ={mTORC1 regulates cell survival under glucose starvation through 4EBP1/2mediated translational reprogramming of fatty acid metabolism},
+year ={},
+doi ={10.1038/s41467-024-48386-y},
+abstract ={},
+keywords ={},
+note ={https://danhiggins.org/data/papers_other-metabolism/s41467-024-48386-y.pdf},
+journal ={},
+volume ={},
+pages ={},
+source={0986c1f471b521c09bca1f059c0be838285a5f4f8dccc7720e4a01470cd43ca0}
+}
+
+@Article{
+author ={Jodie A Schiffer and Francesco A Servello and William R Heath and Francis Raj Gandhi Amrit and Stephanie V Stumbur and Matthias Eder and Olivier MF Martin and Sean B Johnsen and Julian A Stanley and Hannah Tam and Sarah J Brennan and Natalie G McGowan and Abigail L Vogelaar and Yuyan Xu and William T Serkin and Arjumand Ghazi and Nicholas Stroustrup and Javier Apfeld},
+title ={Caenorhabditis elegans processes sensory information to choose between freeloading and self-defense strategies},
+year ={2020},
+doi ={10.7554/eLife.56186},
+abstract ={Hydrogen peroxide is the preeminent chemical weapon that organisms use for combat. Individual cells rely on conserved defenses to prevent and repair peroxide-induced damage, but whether similar defenses might be coordinated across cells in animals remains poorly understood. Here, we identify a neuronal circuit in the nematode Caenorhabditis elegans that processes information perceived by two sensory neurons to control the induction of hydrogen peroxide defenses in the organism. We found that catalases produced by Escherichia coli, the nematode's food source, can deplete hydrogen peroxide from the local environment and thereby protect the nematodes. In the presence of E. coli, the nematode's neurons signal via TGFb-insulin/ IGF1 relay to target tissues to repress expression of catalases and other hydrogen peroxide defenses. This adaptive strategy is the first example of a multicellular organism modulating its defenses when it expects to freeload from the protection provided by molecularly orthologous defenses from another species.},
+keywords ={},
+note ={https://danhiggins.org/data/papers_other-metabolism/elife-56186.pdf},
+journal ={eLife},
+volume ={9},
+pages ={N/A},
+source={e86e2ab58d738f7fdb93c57a2b297943051777b6321782f649ae41d20a032a51}
+}
+
+@Article{
+author ={Berg, Jordan and Zhou, Youjia and Ouyang, Yeyun and Cluntun, Ahmad and Waller, T and Conway, Mega and Nowinski, Sar and Van Ry, Tyler and George, Ian and Cox, James and Wang, Bei and Rutter, Jared},
+title ={nature cell biology},
+year ={2023},
+doi ={10.1038/s41556-023-01117-9},
+abstract ={},
+keywords ={},
+note ={https://danhiggins.org/data/papers_other-metabolism/s41556-023-01117-9.pdf},
+journal ={},
+volume ={},
+pages ={},
+source={cfab5021d643dba35a61128defc1a704d2bf512b29f7a9fb74d6c0c70bbb57b2}
+}
+
+@Article{
+author ={Adrían Martínez-Limón and Giulia Calloni and Robert Ernst and R. Martin Vabulas},
+title ={Flavin dependency undermines proteome stability, lipid metabolism and cellular proliferation during vitamin B2 deficiency},
+year ={2020},
+doi ={10.1038/s41419-020-02929-5},
+abstract ={Tumor cells adapt their metabolism to meet the energetic and anabolic requirements of high proliferation and invasiveness. The metabolic addiction has motivated the development of therapies directed at individual biochemical nodes. However, currently there are few possibilities to target multiple enzymes in tumors simultaneously. Flavincontaining enzymes, ca. 100 proteins in humans, execute key biotransformations in mammalian cells. To expose metabolic addiction, we inactivated a substantial fraction of the flavoproteome in melanoma cells by restricting the supply of the FMN and FAD precursor riboflavin, the vitamin B2. Vitamin B2 deficiency affected stability of many polypeptides and thus resembled the chaperone HSP90 inhibition, the paradigmatic multiple-target approach. In support of this analogy, flavin-depleted proteins increasingly associated with a number of proteostasis network components, as identified by the mass spectrometry analysis of the FAD-free NQO1 aggregates. Proteome-wide analysis of the riboflavin-starved cells revealed a profound inactivation of the mevalonate pathway of cholesterol synthesis, which underlines the manifold cellular vulnerability created by the flavoproteome inactivation. Cell cyclearrested tumor cells became highly sensitive to alkylating chemotherapy. Our data suggest that the flavoproteome is well suited to design synthetic lethality protocols combining proteostasis manipulation and metabolic reprogramming.},
+keywords ={},
+note ={https://danhiggins.org/data/papers_other-metabolism/s41419-020-02929-5.pdf},
+journal ={Cell Death &amp; Disease},
+volume ={11},
+pages ={N/A},
+source={9afff669716bcb03a690fdd2ff621ec370b5aa0d48f6c0f969f23da82db1a957}
+}
+
+@Article{
+author ={Alma Dal Co and Martin Ackermann and Simon van Vliet},
+title ={Spatial self-organization of metabolism in microbial systems: A matter of enzymes and chemicals},
+year ={2023},
+doi ={10.1016/j.cels.2022.12.009},
+abstract ={Most bacteria live in dense, spatially structured communities such as biofilms. The high density allows cells to alter the local microenvironment, whereas the limited mobility can cause species to become spatially organized. Together, these factors can spatially organize metabolic processes within microbial communities so that cells in different locations perform different metabolic reactions. The overall metabolic activity of a community depends both on how metabolic reactions are arranged in space and on how they are coupled, i.e., how cells in different regions exchange metabolites. Here, we review mechanisms that lead to the spatial organization of metabolic processes in microbial systems. We discuss factors that determine the length scales over which metabolic activities are arranged in space and highlight how the spatial organization of metabolic processes affects the ecology and evolution of microbial communities. Finally, we define key open questions that we believe should be the main focus of future research.},
+keywords ={},
+note ={https://danhiggins.org/data/papers_other-metabolism/PIIS2405471222004975.pdf},
+journal ={Cell Systems},
+volume ={14},
+pages ={98-108},
+source={216a2f5d250ec0397eb821d26e2efd0dc469c399510dec94b6098c1d3335a4cc}
+}
+
+@Article{
+author ={Abigail Watterson and Lexus Tatge and Naureen Wajahat and Sonja L. B. Arneaud and Rene Solano Fonseca and Shaghayegh T. Beheshti and Patrick Metang and Melina Mihelakis and Kielen R. Zuurbier and Chase D. Corley and Ishmael Dehghan and Jeffrey G. McDonald and Peter M. Douglas},
+title ={Intracellular lipid surveillance by small G protein geranylgeranylation},
+year ={2022},
+doi ={10.1038/s41586-022-04729-7},
+abstract ={},
+keywords ={},
+note ={https://danhiggins.org/data/papers_other-metabolism/s41586-022-04729-7.pdf},
+journal ={Nature},
+volume ={605},
+pages ={736-740},
+source={4e2f755c72ff8876d5434901394d6fdc2d2b7ab1ce3c6e90304d68d1fe65bfd9}
+}
+
+@Article{
+author ={Rosenberger, Florian and Moore, David and Atanassov, Ilian and Moedas, Marco and Clemente, Paula and Végvári, Ákos and Fissi, Najla and Filograna, Roberta and Bucher, Anna-Lena and Hinze, Yvonne and The, Matthew and Hedman, Erik and Chernogubova, Ekaterina and Begzati, Arjana and Wibom, Rolf and Jain, Mohit and Nilsson, Roland and Käll, Lukas and Wedell, Anna and Freyer, Christoph and Wredenberg, Anna},
+title ={The one-carbon pool controls mitochondrial energy metabolism via complex I and iron-sulfur clusters},
+year ={2024},
+doi ={},
+abstract ={Induction of the one-carbon cycle is an early hallmark of mitochondrial dysfunction and cancer metabolism. Vital intermediary steps are localized to mitochondria, but it remains unclear how one-carbon availability connects to mitochondrial function. Here, we show that the one-carbon metabolite and methyl group donor S-adenosylmethionine (SAM) is pivotal for energy metabolism. A gradual decline in mitochondrial SAM (mitoSAM) causes hierarchical defects in fly and mouse, comprising loss of mitoSAM-dependent metabolites and impaired assembly of the oxidative phosphorylation system. Complex I stability and iron-sulfur cluster biosynthesis are directly controlled by mitoSAM levels, while other protein targets are predominantly methylated outside of the organelle before import. The mitoSAM pool follows its cytosolic production, establishing mitochondria as responsive receivers of onecarbon units. Thus, we demonstrate that cellular methylation potential is required for energy metabolism, with direct relevance for pathophysiology, aging, and cancer.},
+keywords ={},
+note ={https://danhiggins.org/data/papers_other-metabolism/sciadv.abf0717.pdf},
+journal ={},
+volume ={},
+pages ={},
+source={beb52fc9283725a1e7436e2da1a6c85a664658d7b23f5424bb2388f8b4df85bc}
+}
+
+@Article{
+author ={Carla E. Cadena del Castillo and J. Thomas Hannich and Andres Kaech and Hirohisa Chiyoda and Jonathan Brewer and Masamitsu Fukuyama and Nils J. Færgeman and Howard Riezman and Anne Spang},
+title ={Patched regulates lipid homeostasis by controlling cellular cholesterol levels},
+year ={2021},
+doi ={10.1038/s41467-021-24995-9},
+abstract ={Hedgehog (Hh) signaling is essential during development and in organ physiology. In the canonical pathway, Hh binding to Patched (PTCH) relieves the inhibition of Smoothened (SMO). Yet, PTCH may also perform SMO-independent functions. While the PTCH homolog PTC-3 is essential in C. elegans, worms lack SMO, providing an excellent model to probe noncanonical PTCH function. Here, we show that PTC-3 is a cholesterol transporter. ptc-3(RNAi) leads to accumulation of intracellular cholesterol and defects in ER structure and lipid droplet formation. These phenotypes were accompanied by a reduction in acyl chain (FA) length and desaturation. ptc-3(RNAi)-induced lethality, fat content and ER morphology defects were rescued by reducing dietary cholesterol. We provide evidence that cholesterol accumulation modulates the function of nuclear hormone receptors such as of the PPARα homolog NHR-49 and NHR-181, and affects FA composition. Our data uncover a role for PTCH in organelle structure maintenance and fat metabolism.},
+keywords ={},
+note ={https://danhiggins.org/data/papers_other-metabolism/s41467-021-24995-9.pdf},
+journal ={Nature Communications},
+volume ={12},
+pages ={N/A},
+source={ea222ebe519a173482c37b26dd49e11153c181d7bc500238115a1ecaacb492de}
+}
+
+@Article{
+author ={Anthony M. Pedley and Jack P. Boylan and Chung Yu Chan and Erin L. Kennedy and Minjoung Kyoung and Stephen J. Benkovic},
+title ={Purine biosynthetic enzymes assemble into liquid-like condensates dependent on the activity of chaperone protein HSP90},
+year ={2022},
+doi ={10.1016/j.jbc.2022.101845},
+abstract ={},
+keywords ={},
+note ={https://danhiggins.org/data/papers_other-metabolism/1-s2.0-S002192582200285X-main.pdf},
+journal ={Journal of Biological Chemistry},
+volume ={298},
+pages ={101845},
+source={3651246628b5788a9f0ae01a2759084ea9a6f75c5838ddc4416c33f6c9929644}
+}
+
+@Article{
+author ={Jessica Ye and Ruslan Medzhitov},
+title ={Control strategies in systemic metabolism},
+year ={2019},
+doi ={10.1038/s42255-019-0118-8},
+abstract ={},
+keywords ={},
+note ={https://danhiggins.org/data/papers_other-metabolism/s42255-019-0118-8.pdf},
+journal ={Nature Metabolism},
+volume ={1},
+pages ={947-957},
+source={f0abd652282e7bd2ecaf451448da60c077b428f06158b394a081c3cf926c7ef5}
+}
+
+@Article{
+author ={Dixit, Anubhuti and Sandhu, | and Modi, Souvik and Meghana, | and Sandhya, | and Koushika, P and Watts, Jennifer and Singh, Varsha},
+title ={Neuronal control of lipid metabolism by STR-2 G proteincoupled receptor promotes longevity in Caenorhabditis elegans},
+year ={},
+doi ={10.1111/acel.13160},
+abstract ={G protein-coupled receptors (GPCRs) regulate important biological processes in eukaryotes. They regulate the physiology of organ systems, metabolism, lifespan, and behavior. The divergent structure and ligand binding ability of GPCRs allows them to respond to a large variety of chemical, mechanical, and light stimuli. Apart from sensing external cues, GPCRs play central roles in maintaining metabolic homeostasis. In higher animals, GPCRs such as GPR43, GPR119, and GPR120 regulate metabolic homeostasis in response to ghrelin and lipids (Gong et al., 2014; Talukdar, Olefsky, & Osborn, 2011). G protein-coupled receptor repertoire is often larger in lower animals which reside closer to the soil and largely rely on chemosensory cues for perception of food, potential mates, or pathogens. For example, the soil dwelling roundworm Caenorhabditis elegans has ~1,500 GPCR encoding genes in its genome (Troemel, Chou, Dwyer, Colbert, & Bargmann, 1995). Earlier, we have shown that two of these GPCRs, NPR-1 and OCTR-1, regulate innate immune responses of C. elegans to Gram negative bacterium Pseudomonas aeruginosa (Styer},
+keywords ={C. elegans, chemosensory GPCR, desaturases, diet, lipid metabolism, longevity, temperature},
+note ={https://danhiggins.org/data/papers_other-metabolism/ACEL-19-e13160.pdf},
+journal ={},
+volume ={},
+pages ={},
+source={1e0b4b8398f56c725789510f178f0572a3dc248935a69cefea91bd10f8227244}
+}
+
+@Article{
+author ={Artem Khan and Gokhan Unlu and Phillip Lin and Yuyang Liu and Ece Kilic and Timothy C. Kenny and Kıvanç Birsoy and Eric R. Gamazon},
+title ={Metabolic gene function discovery platform GeneMAP identifies SLC25A48 as necessary for mitochondrial choline import},
+year ={2024},
+doi ={10.1038/s41588-024-01827-2},
+abstract ={},
+keywords ={},
+note ={https://danhiggins.org/data/papers_other-metabolism/s41588-024-01827-2.pdf},
+journal ={Nature Genetics},
+volume ={N/A},
+pages ={N/A},
+source={cf5854287546857215760d3c078236b2e0dbc4cebb8efab1bd176ae88094b356}
+}
+
+@Article{
+author ={Henry Temple and Pyae Phyo and Weibing Yang and Jan J. Lyczakowski and Alberto Echevarría-Poza and Igor Yakunin and Juan Pablo Parra-Rojas and Oliver M. Terrett and Susana Saez-Aguayo and Ray Dupree and Ariel Orellana and Mei Hong and Paul Dupree},
+title ={Golgi-localized putative S-adenosyl methionine transporters required for plant cell wall polysaccharide methylation},
+year ={2022},
+doi ={10.1038/s41477-022-01156-4},
+abstract ={},
+keywords ={},
+note ={https://danhiggins.org/data/papers_other-metabolism/s41477-022-01156-4.pdf},
+journal ={Nature Plants},
+volume ={8},
+pages ={656-669},
+source={c1d55a02029af50300900325e3bfbb3e3925f52f6eb28b167bb4876fad68b99f}
+}
+
+@Article{
+author ={Abigail Strefeler and Joan Blanco-Fernandez and Alexis A. Jourdain},
+title ={Nucleosides are overlooked fuels in central carbon metabolism},
+year ={2024},
+doi ={10.1016/j.tem.2024.01.013},
+abstract ={},
+keywords ={},
+note ={https://danhiggins.org/data/papers_other-metabolism/PIIS1043276024000274.pdf},
+journal ={Trends in Endocrinology &amp; Metabolism},
+volume ={35},
+pages ={290-299},
+source={0796ab1de3d0cdc701e6bd24a0f08c7031465a8adcf4ba519c1775208b846f1c}
+}
+
+@Article{
+author ={Ruben Boon and Giorgia G. Silveira and Raul Mostoslavsky},
+title ={Nuclear metabolism and the regulation of the epigenome},
+year ={2020},
+doi ={10.1038/s42255-020-00285-4},
+abstract ={ellular metabolism supports every biological activity within the cell. Metabolic pathways are responsible for the conversion of extracellular nutrients such as glucose, fatty acids, amino acids and vitamins into a wide range of intracellular metabolites. These basic biochemical components can then be combined into complex macromolecules (anabolism) or broken down for the generation of energy and reducing power (catabolism) 1. Because metabolic pathways are highly intersectional, metabolic conversions must be compartmentalized in subcellular locations. Metabolic compartmentalization can be obtained through the formation of local enzyme complexes; temporal separation of reactions; or controlled influx and efflux of metabolites into isolated organelles, such as the mitochondria, Golgi apparatus and peroxisomes 2. However, given the inability of the nuclear pores to prevent the passage of metabolites, the nucleus has long been considered to be in metabolic homeostasis with the cytoplasm 3. Nevertheless, the establishment of the so-called epigenetic code through the chemical modification of chromatin is dependent on the same core metabolites that form the basis of cellular metabolism. Because chromatin modifications are crucial to the maintenance of cellular identity and function, mechanisms regulating nuclear metabolite pools are expected to exist. In this Review, we provide a framework to understand the interaction of cellular and nuclear metabolism, with an emphasis on the nodal metabolites that regulate central carbon metabolism and the epigenome. We give an overview of mechanisms that shield the epigenetic regulation of gene expression from fluctuations in cytoplasmic metabolite levels and discuss the controlled exchange in metabolites between the nuclear and non-nuclear compartments. Finally, we propose that disruption of the nuclear metabolite pools may underlie disease.},
+keywords ={},
+note ={https://danhiggins.org/data/papers_other-metabolism/s42255-020-00285-4.pdf},
+journal ={Nature Metabolism},
+volume ={2},
+pages ={1190-1203},
+source={88018d04aaadf6e6881f5ed75b65f8376c833c97e44ce94b37c03693c1e27ea9}
+}
+
+@Article{
+author ={Pozo-Morales, Macarena and Cobham, Ansa and Centola, Cielo and Mckinney, Mary and Liu, Peiduo and Perazzolo, Camille and Lefort, Anne and Libert, Frédérick and Bai, Hua and Rohner, Nicolas},
+title ={Starvation resistant cavefish reveal conserved mechanisms of starvationinduced hepatic lipotoxicity},
+year ={},
+doi ={10.1101/2024.01.10.574986},
+abstract ={Cavefish evolved protection from starvation-induced liver damage through reduction of fatty acid uptake regulated by FATP2, a mechanism conserved through 400 million years of animal evolution.},
+keywords ={fatty liver, starvation, lipid uptake, cavefish, zebrafish, drosophila, slc27a2, fatp2},
+note ={https://danhiggins.org/data/papers_other-metabolism/2024.01.10.574986v1.full.pdf},
+journal ={},
+volume ={},
+pages ={},
+source={9bdbef61116acdb1585a8aa11cd97b2d8084b0fef5b83c97fa64b32e64bcfba9}
+}
+
+@Article{
+author ={Daqiang Pan and Nils Wiedemann and Bernd Kammerer},
+title ={Heat Stress-Induced Metabolic Remodeling in Saccharomyces cerevisiae},
+year ={2019},
+doi ={10.3390/metabo9110266},
+abstract ={Yeast cells respond to heat stress by remodeling their gene expression, resulting in the changes of the corresponding proteins and metabolites. Compared to the intensively investigated transcriptome and proteome, the metabolic response to heat stress is not sufficiently characterized. Mitochondria have been recognized to play an essential role in heat stress tolerance. Given the compartmentalization of the cell, it is not clear if the heat stress-induced metabolic response occurs in mitochondria or in the cytosol. Therefore, a compartment-specific metabolite analysis was performed to analyze the heat stress-induced metabolic response in mitochondria and the cytoplasm. In this work, the isolated mitochondria and the cytoplasm of yeast cells grown at permissive temperature and cells adapting to heat stress were subjected to mass spectrometry-based metabolomics. Over a hundred metabolites could be identified, covering amino acid metabolism, energy metabolism, arginine metabolism, purine and pyrimidine metabolism, and others. Highly accumulated citrulline and reduced arginine suggested remodeled arginine metabolism. A stable isotope-labeled experiment was performed to analyze the heat stress-induced metabolic remodeling of the arginine metabolism, identifying activated de novo ornithine biosynthesis to support arginine and spermidine synthesis. The short-term increased spermidine and trehalose suggest their important roles as heat stress markers. These data provide metabolic clues of heat stress-induced metabolic remodeling, which helps in understanding the heat stress response.},
+keywords ={heat stress, yeast, metabolic remodeling, mitochondria, arginine metabolism, metabolomics},
+note ={https://danhiggins.org/data/papers_other-metabolism/metabolites-09-00266.pdf},
+journal ={Metabolites},
+volume ={9},
+pages ={266},
+source={9d229135cb3b8d713972164b531b5ba93e3cf6a9fdef47375d9f7f84317d7495}
+}
+
+@Article{
+author ={Gu, Xin and Orozco, Jose and Saxton, Robert and Condon, Kendall and Liu, Grace and Krawczyk, Patrycja and Scaria, Sonia and Harper, J and Gygi, Steven and Sabatini, David},
+title ={SAMTOR is an S-adenosylmethionine sensor for the mTORC1 pathway},
+year ={2024},
+doi ={},
+abstract ={},
+keywords ={},
+note ={https://danhiggins.org/data/papers_other-metabolism/science.aao3265.pdf},
+journal ={},
+volume ={},
+pages ={},
+source={17f22f54788448bac7e5f6595705f8613346c7ed0bea916236c4206828eaf714}
+}
+
+@Article{
+author ={Russell N. Burkhardt and Alexander B. Artyukhin and Erin Z. Aprison and Brian J. Curtis and Bennett W. Fox and Andreas H. Ludewig and Diana Fajardo Palomino and Jintao Luo and Amaresh Chaturbedi and Oishika Panda and Chester J. J. Wrobel and Victor Baumann and Douglas S. Portman and Siu Sylvia Lee and Ilya Ruvinsky and Frank C. Schroeder},
+title ={Sex-specificity of the C. elegans metabolome},
+year ={2023},
+doi ={10.1038/s41467-023-36040-y},
+abstract ={Recent studies of animal metabolism have revealed large numbers of novel metabolites that are involved in all aspects of organismal biology, but it is unclear to what extent metabolomes differ between sexes. Here, using untargeted comparative metabolomics for the analysis of wildtype animals and sex determination mutants, we show that C. elegans hermaphrodites and males exhibit pervasive metabolomic differences. Several hundred small molecules are produced exclusively or in much larger amounts in one sex, including a host of previously unreported metabolites that incorporate building blocks from nucleoside, carbohydrate, lipid, and amino acid metabolism. A subset of male-enriched metabolites is specifically associated with the presence of a male germline, whereas enrichment of other compounds requires a male soma. Further, we show that one of the male germlinedependent metabolites, an unusual dipeptide incorporating N,N-dimethyltryptophan, increases food consumption, reduces lifespan, and accelerates the last stage of larval development in hermaphrodites. Our results serve as a foundation for mechanistic studies of how the genetic sex of soma and germline shape the C. elegans metabolome and provide a blueprint for the discovery of sex-dependent metabolites in other animals.},
+keywords ={},
+note ={https://danhiggins.org/data/papers_other-metabolism/s41467-023-36040-y.pdf},
+journal ={Nature Communications},
+volume ={14},
+pages ={N/A},
+source={a6a3abb0f39bb1071822ff4d7b5be8ee306ef64620b1181beb4d7644f63bda0f}
+}
+
+@Article{
+author ={Howen, Sebastian and Munk, Nesgaard and Merchut-Maya, Joanna and Rubio, Alba and Hal, Arnaldur and Pappas, George and Millet, Giacomo and Lee, Myunghee and Johnsen, Lea and Bartek, Jiri and Maya-Mendoza, Apolinar},
+title ={nature cell biology Article},
+year ={2023},
+doi ={10.1038/s41556-023-01280-z},
+abstract ={},
+keywords ={},
+note ={https://danhiggins.org/data/papers_other-metabolism/s41556-023-01280-z.pdf},
+journal ={},
+volume ={},
+pages ={},
+source={d074db7388e823a668aa3542db75cdc5479f235affb6481df406742696d58b5c}
+}
+
+@Article{
+author ={Anand Kumar Sharma and Radhika Khandelwal and Christian Wolfrum},
+title ={Futile cycles: Emerging utility from apparent futility},
+year ={2024},
+doi ={10.1016/j.cmet.2024.03.008},
+abstract ={Futile cycles are biological phenomena where two opposing biochemical reactions run simultaneously, resulting in a net energy loss without appreciable productivity. Such a state was presumed to be a biological aberration and thus deemed an energy-wasting ''futile'' cycle. However, multiple pieces of evidence suggest that biological utilities emerge from futile cycles. A few established functions of futile cycles are to control metabolic sensitivity, modulate energy homeostasis, and drive adaptive thermogenesis. Yet, the physiological regulation, implication, and pathological relevance of most futile cycles remain poorly studied. In this review, we highlight the abundance and versatility of futile cycles and propose a classification scheme. We further discuss the energetic implications of various futile cycles and their impact on basal metabolic rate, their bona fide and tentative pathophysiological implications, and putative drug interactions.},
+keywords ={},
+note ={https://danhiggins.org/data/papers_other-metabolism/PIIS1550413124000871.pdf},
+journal ={Cell Metabolism},
+volume ={36},
+pages ={1184-1203},
+source={08b941d15049e43d6e6c784764b3886f222c16a5b2f4a981cd08418f4e74efb8}
+}
+
+@Article{
+author ={Sinyeon Kim and Youngshin Kim and Dong Ho Suh and Choong Hwan Lee and Seung Min Yoo and Sang Yup Lee and Sung Ho Yoon},
+title ={Heat-responsive and time-resolved transcriptome and metabolome analyses of Escherichia coli uncover thermo-tolerant mechanisms},
+year ={2020},
+doi ={10.1038/s41598-020-74606-8},
+abstract ={Current understanding of heat shock response has been complicated by the fact that heat stress is inevitably accompanied by changes in specific growth rates and growth stages. In this study, a chemostat culture was successfully performed to avoid the physico-chemical and biological changes that accompany heatshock, which provided a unique opportunity to investigate the full range of cellular responses to thermal stress, ranging from temporary adjustment to phenotypic adaptation at multi-omics levels. Heat-responsive and time-resolved changes in the transcriptome and metabolome of a widely used E. coli strain BL21(DE3) were explored in which the temperature was upshifted from 37 to 42 °C. Omics profiles were categorized into early (2 and 10 min), middle (0.5, 1, and 2 h), and late (4, 8, and 40 h) stages of heat stress, each of which reflected the initiation, adaptation, and phenotypic plasticity steps of the stress response. The continued heat stress modulated global gene expression by controlling the expression levels of sigma factors in different time frames, including unexpected downregulation of the second heatshock sigma factor gene (rpoE) upon the heat stress. Trehalose, cadaverine, and enterobactin showed increased production to deal with the heat-induced oxidative stress. Genes highly expressed at the late stage were experimentally validated to provide thermotolerance. Intriguingly, a cryptic capsular gene cluster showed considerably high expression level only at the late stage, and its expression was essential for cell growth at high temperature. Granule-forming and elongated cells were observed at the late stage, which was morphological plasticity occurred as a result of acclimation to the continued heat stress. Whole process of thermal adaptation along with the genetic and metabolic changes at fine temporal resolution will contribute to far-reaching comprehension of the heat shock response. Further, the identified thermotolerant genes will be useful to rationally engineer thermotolerant microorganisms.},
+keywords ={},
+note ={https://danhiggins.org/data/papers_other-metabolism/s41598-020-74606-8.pdf},
+journal ={Scientific Reports},
+volume ={10},
+pages ={N/A},
+source={a0f49cf93e5dcb02ef10d8d2649789501e0636af82c060227e5c38b53581ae56}
+}
+
+@Article{
+author ={Nora Plesofsky and LeeAnn Higgins and Todd Markowski and Robert Brambl},
+title ={Glucose Starvation Alters Heat Shock Response, Leading to Death of Wild Type Cells and Survival of MAP Kinase Signaling Mutant},
+year ={2016},
+doi ={10.1371/journal.pone.0165980},
+abstract ={A moderate heat shock induces Neurospora crassa to synthesize large quantities of heat shock proteins that are protective against higher, otherwise lethal temperatures. However, wild type cells do not survive when carbohydrate deprivation is added to heat shock. In contrast, a mutant strain defective in a stress-activated protein kinase does survive the combined stresses. In order to understand the basis for this difference in survival, we have determined the relative levels of detected proteins in the mutant and wild type strain during dual stress, and we have identified gene transcripts in both strains whose quantities change in response to heat shock or dual stress. These data and supportive experimental evidence point to reasons for survival of the mutant strain. By using alternative respiratory mechanisms, these cells experience less of the oxidative stress that proves damaging to wild type cells. Of central importance, mutant cells recycle limited resources during dual stress by undergoing autophagy, a process that we find utilized by both wild type and mutant cells during heat shock. Evidence points to inappropriate activation of TORC1, the central metabolic regulator, in wild type cells during dual stress, based upon behavior of an additional signaling mutant and inhibitor studies.},
+keywords ={},
+note ={https://danhiggins.org/data/papers_other-metabolism/file5656.pdf},
+journal ={PLOS ONE},
+volume ={11},
+pages ={e0165980},
+source={128f2f16e1a3b85835a51ef0fed8598ba9820bfac13c8a47486c2ae13f5c681b}
+}
+
+@Article{
+author ={Ying-Chih Chuang and Nicholas W Haas and Robert Pepin and Megan G Behringer and Yasuhiro Oda and Breah LaSarre and Caroline S Harwood and James B McKinlay},
+title ={Bacterial adenine cross-feeding stems from a purine salvage bottleneck},
+year ={2024},
+doi ={10.1093/ismejo/wrae034},
+abstract ={Diverse ecosystems host microbial relationships that are stabilized by nutrient cross-feeding. Cross-feeding can involve metabolites that should hold value for the producer. Externalization of such communally valuable metabolites is often unexpected and difficult to predict. Previously, we discovered purine externalization by Rhodopseudomonas palustris by its ability to rescue an Escherichia coli purine auxotroph. Here we found that an E. coli purine auxotroph can stably coexist with R. palustris due to purine cross-feeding. We identified the cross-fed purine as adenine. Adenine was externalized by R. palustris under diverse growth conditions. Computational modeling suggested that adenine externalization occurs via diffusion across the cytoplasmic membrane. RNAseq analysis led us to hypothesize that adenine accumulation and externalization stem from a salvage pathway bottleneck at the enzyme encoded by apt. Ectopic expression of apt eliminated adenine externalization, supporting our hypothesis. A comparison of 49 R. palustris strains suggested that purine externalization is relatively common, with 16 strains exhibiting the trait. Purine externalization was correlated with the genomic orientation of apt, but apt orientation alone could not always explain purine externalization. Our results provide a mechanistic understanding of how a communally valuable metabolite can participate in cross-feeding. Our findings also highlight the challenge in identifying genetic signatures for metabolite externalization.},
+keywords ={cross-feeding, purine, adenine, microbial interactions, Rhodopseudomonas, palustris, purine salvage, mutualism, excretion, microbial physiology},
+note ={https://danhiggins.org/data/papers_other-metabolism/wrae034.pdf},
+journal ={The ISME Journal},
+volume ={18},
+pages ={N/A},
+source={330333a1e5de2ec4c7800f27b074a48ed3bcf82cdb6fbb5d49b8977e8a99b5ba}
+}
+
+@Article{
+author ={Leah J. Damon and Daniel Ocampo and Lynn Sanford and Taylor Jones and Mary A. Allen and Robin D. Dowell and Amy E. Palmer},
+title ={Cellular zinc status alters chromatin accessibility and binding of transcription factor p53 to genomic sites},
+year ={2023},
+doi ={10.1101/2023.11.20.567954},
+abstract ={Zinc (Zn 2+) is an essential metal required by approximately 2500 proteins. Nearly half of these proteins act on DNA, including > 850 human transcription factors, polymerases, DNA damage response factors, and proteins involved in chromatin architecture. How these proteins acquire their essential Zn 2+ cofactor and whether they are sensitive to changes in the labile Zn 2+ pool in cells remain open questions. Here, we examine how changes in the labile Zn 2+ pool affect chromatin accessibility and transcription factor binding to DNA. We observed both increases and decreases in accessibility in different chromatin regions via ATAC-seq upon treating MCF10A cells with elevated Zn 2+ or the Zn 2+-specific chelator tris(2-pyridylmethyl)amine (TPA). Transcription factor enrichment analysis was used to correlate changes in chromatin accessibility with transcription factor motifs, revealing 477 transcription factor motifs that were differentially enriched upon Zn 2+ perturbation. 186 of these transcription factor motifs were enriched in Zn 2+ and depleted in TPA, and the majority correspond to Zn 2+ finger transcription factors. We selected TP53 as a candidate to examine how changes in motif enrichment correlate with changes in transcription factor occupancy by ChIP-qPCR. Using publicly available ChIP-seq and nascent transcription datasets, we narrowed the 50,000+ ATAC-seq peaks to 2164 TP53 targets and subsequently selected 6 high-probability TP53 binding sites for testing. ChIP-qPCR revealed that for 5 of the 6 targets, TP53 binding correlates with the local accessibility determined by ATAC-seq. These results demonstrate that changes in labile zinc directly alter chromatin accessibility and transcription factor binding to DNA.},
+keywords ={},
+note ={https://danhiggins.org/data/papers_other-metabolism/2023.11.20.567954v1.full.pdf},
+journal ={},
+volume ={N/A},
+pages ={N/A},
+source={526491452db6b053fc72de04504459e7a28e667f0d3692b72e8327d2c4cfd3ce}
+}
+
+@Article{
+author ={Güneş Parlakgül and Ana Paula Arruda and Song Pang and Erika Cagampan and Nina Min and Ekin Güney and Grace Yankun Lee and Karen Inouye and Harald F. Hess and C. Shan Xu and Gökhan S. Hotamışlıgil},
+title ={Regulation of liver subcellular architecture controls metabolic homeostasis},
+year ={2022},
+doi ={10.1038/s41586-022-04488-5},
+abstract ={Cells display complex intracellular organization by compartmentalization of metabolic processes into organelles, yet the resolution of these structures in the native tissue context and their functional consequences are not well understood. Here we resolved the three-dimensional structural organization of organelles in large (more than 2.8 × 10 5 µm 3) volumes of intact liver tissue (15 partial or full hepatocytes per condition) at high resolution (8 nm isotropic pixel size) using enhanced focused ion beam scanning electron microscopy 1,2 imaging followed by deep-learning-based automated image segmentation and 3D reconstruction. We also performed a comparative analysis of subcellular structures in liver tissue of lean and obese mice and found substantial alterations, particularly in hepatic endoplasmic reticulum (ER), which undergoes massive structural reorganization characterized by marked disorganization of stacks of ER sheets 3 and predominance of ER tubules. Finally, we demonstrated the functional importance of these structural changes by monitoring the effects of experimental recovery of the subcellular organization on cellular and systemic metabolism. We conclude that the hepatic subcellular organization of the ER architecture are highly dynamic, integrated with the metabolic state and critical for adaptive homeostasis and tissue health.},
+keywords ={},
+note ={https://danhiggins.org/data/papers_other-metabolism/s41586-022-04488-5.pdf},
+journal ={Nature},
+volume ={603},
+pages ={736-742},
+source={a27f379cbb32bc2c6bdeb89d94b297fa5ea05c1ad44bc742cb39f805b9587b31}
+}
+
+@Article{
+author ={Stefan Baumanns and Daniel M. Beis and Uwe Wenzel},
+title ={RNA-interference in the nematode Caenorhabditis elegans is effective using paraformaldehyde-inactivated E. coli HT115 bacteria as a food source},
+year ={2022},
+doi ={10.1016/j.bbamcr.2022.119375},
+abstract ={The nematode Caenorhabditis elegans is a widely used research model for the investigation of metabolism, aging and age-associated diseases. However, when investigating the impact of natural compounds or drugs on those topics, a major confounder is the metabolism of these test substances by live E. coli bacteria, the standard food source of C. elegans. Using paraformaldehyde instead of heat to inactivate E. coli, which allows for highthroughput technologies and better food availability, it is shown here that RNA-interference works equally well, thus demonstrating the absence of considerable interfering modifications of paraformaldehyde with nucleic acids.},
+keywords ={},
+note ={https://danhiggins.org/data/papers_other-metabolism/1-s2.0-S0167488922001677-main.pdf},
+journal ={Biochimica et Biophysica Acta (BBA) - Molecular Cell Research},
+volume ={1870},
+pages ={119375},
+source={62681fd169bf4ab530f69bcb4f0ac4ea9f0c4e9209197b0df836c92b19150c67}
+}
+
+@Article{
+author ={Joseph J. Smith and Taylor R. Valentino and Austin H. Ablicki and Riddhidev Banerjee and Adam R. Colligan and Debra M. Eckert and Gabrielle A. Desjardins and Katharine L. Diehl},
+title ={A genetically-encoded fluorescent biosensor for visualization of acetyl-CoA in live cells},
+year ={2024},
+doi ={10.1101/2023.12.31.573774},
+abstract ={Acetyl-coenzyme A is a central metabolite that participates in many cellular pathways. Evidence suggests that acetyl-CoA production and consumption are highly compartmentalized in mammalian cells. Yet methods to measure acetyl-CoA in living cells are lacking. In this work, we engineer an acetyl-CoA biosensor from the bacterial protein PanZ and circularly permuted green fluorescent protein (cpGFP). We biochemically characterize the sensor and demonstrate its selectivity for acetyl-CoA over other CoA species. We then deploy the biosensor in E. coli and HeLa cells to demonstrate its utility in living cells. In E. coli, we show that the biosensor enables detection of rapid changes in acetyl-CoA levels. In human cells, we show that the biosensor enables subcellular detection and reveals the compartmentalization of acetyl-CoA metabolism.},
+keywords ={},
+note ={https://danhiggins.org/data/papers_other-metabolism/2023.12.31.573774v1.full.pdf},
+journal ={},
+volume ={N/A},
+pages ={N/A},
+source={c4055294165acc096348911f3fc331fec5dc34e0f2b6a74a4b3044937967d196}
+}
+
+@Article{
+author ={Anthony M. Pedley and Georgios I. Karras and Xin Zhang and Susan Lindquist and Stephen J. Benkovic},
+title ={Role of HSP90 in the Regulation of <i>de Novo</i> Purine Biosynthesis},
+year ={2018},
+doi ={10.1021/acs.biochem.8b00140},
+abstract ={Despite purines making up one of the largest classes of metabolites in a cell, little is known about the regulatory mechanisms that facilitate efficient purine production. Under conditions resulting in high purine demand, enzymes within the de novo purine biosynthetic pathway cluster into multienzyme assemblies called purinosomes. Purinosome formation has been linked to molecular chaperones HSP70 and HSP90; however, the involvement of these molecular chaperones in purinosome formation remains largely unknown. Here, we present a new-found biochemical mechanism for the regulation of de novo purine biosynthetic enzymes mediated through HSP90. HSP90-client protein interaction assays were employed to identify two enzymes within the de novo purine biosynthetic pathway, PPAT and FGAMS, as client proteins of HSP90. Inhibition of HSP90 by STA9090 abrogated these interactions and resulted in a decrease in the level of available soluble client protein while having no significant effect on their interactions with HSP70. These findings provide a mechanism to explain the dependence of purinosome assembly on HSP90 activity. The combined efforts of molecular chaperones in the maturation of PPAT and FGAMS result in purinosome formation and are likely essential for enhancing the rate of purine production to meet intracellular purine demand. Purine metabolites are responsible for the maintenance of cellular homeostasis and growth by supplying the cell with the building blocks for the transfer of genetic information, the *},
+keywords ={},
+note ={https://danhiggins.org/data/papers_other-metabolism/nihms-991992.pdf},
+journal ={Biochemistry},
+volume ={57},
+pages ={3217-3221},
+source={dafe2a27104fc4cabd3fc00a0848820c0ae3c7ed8612ae49e72ad63683f7b65c}
+}
+
+@Article{
+author ={Kevin G. Hicks and Ahmad A. Cluntun and Heidi L. Schubert and Sean R. Hackett and Jordan A. Berg and Paul G. Leonard and Mariana A. Ajalla Aleixo and Aubrie Blevins and Paige Barta and Samantha Tilley and Sarah Fogarty and Jacob M. Winter and Hee-Chul Ahn and Karen N. Allen and Samuel Block and Iara A. Cardoso and Jianping Ding and Ingrid Dreveny and Clarke Gasper and Quinn Ho and Atsushi Matsuura and Michael J. Palladino and Sabin Prajapati and PengKai Sun and Kai Tittmann and Dean R. Tolan and Judith Unterlass and Andrew P. VanDemark and Matthew G. Vander Heiden and Bradley A. Webb and Cai-Hong Yun and PengKai Zhap and Christopher P. Hill and Maria Cristina Nonato and Florian L. Muller and Daniel E. Gottschling and James E. Cox and Jared Rutter},
+title ={Protein-Metabolite Interactomics Reveals Novel Regulation of Carbohydrate Metabolism},
+year ={2021},
+doi ={10.1101/2021.08.28.458030},
+abstract ={Metabolism is highly interconnected and also has profound effects on other cellular processes. However, the interactions between metabolites and proteins that mediate this connectivity are frequently low affinity and difficult to discover, hampering our understanding of this important area of cellular biochemistry. Therefore, we developed the MIDAS platform, which can identify protein-metabolite interactions with great sensitivity. We analyzed 33 enzymes from central carbon metabolism and identified 830 proteinmetabolite interactions that were mostly novel, but also included known regulators, substrates, products and their analogs. We validated previously unknown interactions, including two atomic-resolution structures of novel protein-metabolite complexes. We also found that both ATP and long-chain fatty acyl-CoAs inhibit lactate dehydrogenase A (LDHA), but not LDHB, at physiological concentrations in vitro. Treating cells with long-chain fatty acids caused a loss of pyruvate/lactate interconversion, but only in cells reliant on LDHA. We propose that these regulatory mechanisms are part of the metabolic connectivity that enables survival in an ever-changing nutrient environment, and that MIDAS enables a broader and deeper understanding of that network.},
+keywords ={},
+note ={https://danhiggins.org/data/papers_other-metabolism/2021.08.28.458030v1.full.pdf},
+journal ={},
+volume ={N/A},
+pages ={N/A},
+source={15d680d73ef62753f2d23df7c0e059f7ff687f1d5ebee577e649fbae96c88e88}
+}
+
+@Article{
+author ={Dominica Cao and Liangwen Zhong and Anupama Hemalatha and Jenna Bergmann and Andy L. Cox and Valentina Greco and Berna Sozen},
+title ={A Spatiotemporal Compartmentalization of Glucose Metabolism Guides Mammalian Gastrulation Progression},
+year ={2023},
+doi ={10.1101/2023.06.06.543780},
+abstract ={Gastrulation is considered the sine qua non of embryogenesis, establishing a multidimensional structure and the spatial coordinates upon which all later developmental events transpire. At this time, the embryo adopts a heavy reliance on glucose metabolism to support rapidly accelerating changes in morphology, proliferation, and differentiation. However, it is currently unknown how this conserved metabolic shift maps onto the three-dimensional landscape of the growing embryo and whether it is spatially linked to the orchestrated cellular and molecular processes necessary for gastrulation. Here we identify that glucose is utilised during mouse gastrulation via distinct metabolic pathways to instruct local and global embryonic morphogenesis, in a cell type and stagespecific manner. Through detailed mechanistic studies and quantitative live imaging of mouse embryos, in parallel with tractable in vitro stem cell differentiation models and embryo-derived tissue explants, we discover that cell fate acquisition and the epithelial-to-mesenchymal transition (EMT) relies on the Hexosamine Biosynthetic Pathway (HBP) branch of glucose metabolism, while newly-formed mesoderm requires glycolysis for correct migration and lateral expansion. This regional and tissue-specific difference in glucose metabolism is coordinated with Fibroblast Growth Factor (FGF) activity, demonstrating that reciprocal crosstalk between metabolism and growth factor signalling is a prerequisite for gastrulation progression. We expect these studies to provide important insights into the function of metabolism in other developmental contexts and may help uncover mechanisms that underpin embryonic lethality, cancer, and congenital disease.},
+keywords ={},
+note ={https://danhiggins.org/data/papers_other-metabolism/2023.06.06.543780v1.full.pdf},
+journal ={},
+volume ={N/A},
+pages ={N/A},
+source={4d8bf4e36315b2541ee6518df368e427fe112ef2993c163ad13792fc447a8407}
+}
+
+@Article{
+author ={Frances F. Diehl and Kiera M. Sapp and Matthew G. Vander Heiden},
+title ={The bidirectional relationship between metabolism and cell cycle control},
+year ={2023},
+doi ={10.1016/j.tcb.2023.05.012},
+abstract ={},
+keywords ={},
+note ={https://danhiggins.org/data/papers_other-metabolism/1-s2.0-S0962892423001101-main.pdf},
+journal ={Trends in Cell Biology},
+volume ={34},
+pages ={136-149},
+source={668e7ecc1f808fd89bf3bcfdac6ac0ba4479c74c975b96e924d2fb42738ce07f}
+}
+
+@Article{
+author ={Hrovatin, Karin and Fischer, David and Theis, Fabian},
+title ={Toward modeling metabolic state from singlecell transcriptomics},
+year ={2021},
+doi ={10.1016/j.molmet.2021.101396},
+abstract ={Background: Single-cell metabolic studies bring new insights into cellular function, which can often not be captured on other omics layers. Metabolic information has wide applicability, such as for the study of cellular heterogeneity or for the understanding of drug mechanisms and biomarker development. However, metabolic measurements on single-cell level are limited by insufficient scalability and sensitivity, as well as resource intensiveness, and are currently not possible in parallel with measuring transcript state, commonly used to identify cell types. Nevertheless, because omics layers are strongly intertwined, it is possible to make metabolic predictions based on measured data of more easily measurable omics layers together with prior metabolic network knowledge. Scope of Review: We summarize the current state of single-cell metabolic measurement and modeling approaches, motivating the use of computational techniques. We review three main classes of computational methods used for prediction of single-cell metabolism: pathway-level analysis, constraint-based modeling, and kinetic modeling. We describe the unique challenges arising when transitioning from bulk to single-cell modeling. Finally, we propose potential model extensions and computational methods that could be leveraged to achieve these goals. Major Conclusions: Single-cell metabolic modeling is a rising field that provides a new perspective for understanding cellular functions. The presented modeling approaches vary in terms of input requirements and assumptions, scalability, modeled metabolic layers, and newly gained insights. We believe that the use of prior metabolic knowledge will lead to more robust predictions and will pave the way for mechanistic and interpretable machine-learning models.},
+keywords ={Metabolic modeling, Single-cell RNA-seq, Constraint-based modeling, Kinetic modeling, Pathway analysis GEM, genome-scale metabolic model, FBA, flux balance analysis, DNN, deep neural network, scRNA-seq, single-cell RNA-sequencing},
+note ={https://danhiggins.org/data/papers_other-metabolism/1-s2.0-S2212877821002532-main.pdf},
+journal ={},
+volume ={},
+pages ={},
+source={8da1a138cee4a9f3cb2ff006e880ac658525c6f3cb80a80c32f5a493656182a4}
+}
+
+@Article{
+author ={Markus Ralser and Sreejith J. Varma and Richard A. Notebaart},
+title ={The evolution of the metabolic network over long timelines},
+year ={2021},
+doi ={10.1016/j.coisb.2021.100402},
+abstract ={Metabolism is executed by an efficient, interconnected and ancient biochemical system, the metabolic network. Its evolutionary origins are, however, barely understood. We here discuss that because of niche adaptation, the evolutionary selection acting on the metabolic network structure distinguishes modern species and early life forms. Yet, its basic structure remained conserved over more than three billion years of diverging evolution. We speculate that this situation attributes key roles in metabolic network evolution to (i) the reaction properties of central metabolites, (ii) simple catalysts (e.g. metal ions, amino acids) whose importance remained unchanged during evolution, and (iii) the interconnectivity of the network that limits its expansion. The conservation of network structure hence implies that early life forms already used similar metabolic reaction topologies as modern species.},
+keywords ={Evolutionary forces, Underground metabolism, Early and modern evolution, Metabolic network structure, Geochemistry, Systems biology, Adaptive evolution, Stepping-stone evolution, Niche adaptation, Genetics, Biochemistry},
+note ={https://danhiggins.org/data/papers_other-metabolism/1-s2.0-S2452310021000974-main.pdf},
+journal ={Current Opinion in Systems Biology},
+volume ={28},
+pages ={100402},
+source={07aaf0d0b20c167aa7dcd0dd1f03a7af234bb93e15e03496fbe561771da4f7d3}
+}
+
+@Article{
+author ={Potter, Joshua and Drinkwater, Rosie and Davies, Kalina and Aksentijevic, Dunja and Da ´valos, Liliana and Rossiter, Stephen and Nesi, Nicolas and Lim, Marisa and Yohe, Laurel and Chi, Hai and Zhang, Xiaoqing and Levantis, Ilya and Lim, Burton and Witt, Christopher and Tsagkogeorga, Georgia and Dos Reis, Mario and Liu, Yang and Furey, William and Whitley, Matthew and Da, Liliana},
+title ={Nectar-feeding bats and birds show parallel molecular adaptations in sugar metabolism enzymes Highlights d Nectar bats and birds show parallel positive selection in sugar metabolism genes d Metabolomic profiling supports elevated respiratory flux in nectar bats d Glycolytic enzymes of nectar bats show elevated catalytic activity d Adaptations in sugar metabolism may enable hovering and avoidance of glucose toxicity Authors},
+year ={},
+doi ={10.1016/j.cub.2021.08.018},
+abstract ={},
+keywords ={},
+note ={https://danhiggins.org/data/papers_other-metabolism/PIIS0960982221011222.pdf},
+journal ={},
+volume ={},
+pages ={},
+source={eee2132f1f8cc74d130a4c8df55bb392cf27122bf269afe367bf8528e01a2a86}
+}
+

@@ -1,0 +1,182 @@
+@Article{
+author ={Mateo Sokač and Asbjørn Kjær and Lars Dyrskjøt and Benjamin Haibe-Kains and Hugo JWL Aerts and Nicolai J Birkbak},
+title ={Spatial transformation of multi-omics data unlocks novel insights into cancer biology},
+year ={2023},
+doi ={10.7554/eLife.87133},
+abstract ={The application of next-generation sequencing (NGS) has transformed cancer},
+keywords ={},
+note ={https://danhiggins.org/data/papers_bioinformatics-methods/elife-87133-v1.pdf},
+journal ={eLife},
+volume ={12},
+pages ={N/A},
+source={4dd8f33d3acdda81b3a98ab6cf01103976c4e9fefbb655388a71afb5747010ad}
+}
+
+@Article{
+author ={Jerome Salignon and Lluis Millan-Arino and Maxime Garcia and Christian G. Riedel},
+title ={Cactus: a user-friendly and reproducible ATAC-Seq and mRNA-Seq analysis pipeline for data preprocessing, differential analysis, and enrichment analysis},
+year ={2023},
+doi ={10.1101/2023.05.11.540110},
+abstract ={With the recent rapid advancements in sequencing technology, the analysis of omics data has become increasingly important for biomedical research. However, many laboratories lack the time or expertise to thoroughly analyze such data. Among omics assays, ATAC-Seq (Assay for transposase-accessible chromatin using sequencing) and mRNA-Seq (messenger RNA sequencing) are easy and cost-effective methods that are commonly used to define chromatin accessibility and gene expression levels, respectively. Here we introduce Cactus (Chromatin accessibility and transcriptomics unifying software), a pipeline that streamlines the individual or integrated analysis of ATAC-Seq and mRNA-Seq data. The pipeline is written in Nextflow for efficient scaling, caching, and parallelization, and all tools are packaged in Singularity/Docker containers or conda/Mamba virtual environments for},
+keywords ={},
+note ={https://danhiggins.org/data/papers_bioinformatics-methods/2023.05.11.540110v1.full.pdf},
+journal ={},
+volume ={N/A},
+pages ={N/A},
+source={75ac2ac34c8f0de32e362916683ef65e5b232ed16c0bdecd965ab988ba9799a6}
+}
+
+@Article{
+author ={Angeles Muñoz Alcalá},
+title ={ImageJ/Fiji particle counting tools},
+year ={2015},
+doi ={},
+abstract ={},
+keywords ={},
+note ={https://danhiggins.org/data/papers_bioinformatics-methods/Basic_guide_particle_counting_tools_SMOC.pdf},
+journal ={},
+volume ={},
+pages ={},
+source={5d7598a9b08609de07f0163078e8401049943fc035b28c1836ddc2fc9f4ff9d6}
+}
+
+@Article{
+author ={Kyle T David and Kenneth M Halanych},
+title ={Unsupervised Deep Learning Can Identify Protein Functional Groups from Unaligned Sequences},
+year ={2023},
+doi ={10.1093/gbe/evad084},
+abstract ={Interpreting protein function from sequence data is a fundamental goal of bioinformatics. However, our current understanding of protein diversity is bottlenecked by the fact that most proteins have only been functionally validated in model organisms, limiting our understanding of how function varies with gene sequence diversity. Thus, accuracy of inferences in clades without model representatives is questionable. Unsupervised learning may help to ameliorate this bias by identifying highly complex patterns and structure from large data sets without external labels. Here, we present DeepSeqProt, an unsupervised deep learning program for exploring large protein sequence data sets. DeepSeqProt is a clustering tool capable of distinguishing between broad classes of proteins while learning local and global structure of functional space. DeepSeqProt is capable of learning salient biological features from unaligned, unannotated sequences. DeepSeqProt is more likely to capture complete protein families and statistically significant shared ontologies within proteomes than other clustering methods. We hope this framework will prove of use to researchers and provide a preliminary step in further developing unsupervised deep learning in molecular biology.},
+keywords ={machine learning, protein annotation, bioinformatics},
+note ={https://danhiggins.org/data/papers_bioinformatics-methods/evad084.pdf},
+journal ={Genome Biology and Evolution},
+volume ={15},
+pages ={N/A},
+source={81d6a0f109daa826b24c08fcecdf93db162552d08c55e916a68275d07b75fef9}
+}
+
+@Article{
+author ={Shivani Nanda and Marc‐Antoine Jacques and Wen Wang and Chad L Myers and L Safak Yilmaz and Albertha JM Walhout},
+title ={Systems‐level transcriptional regulation of <i>Caenorhabditis elegans</i> metabolism},
+year ={2023},
+doi ={10.15252/msb.202211443},
+abstract ={Metabolism is controlled to ensure organismal development and homeostasis. Several mechanisms regulate metabolism, including allosteric control and transcriptional regulation of metabolic enzymes and transporters. So far, metabolism regulation has mostly been described for individual genes and pathways, and the extent of transcriptional regulation of the entire metabolic network remains largely unknown. Here, we find that three-quarters of all metabolic genes are transcriptionally regulated in the nematode Caenorhabditis elegans. We find that many annotated metabolic pathways are coexpressed, and we use gene expression data and the iCEL1314 metabolic network model to define coregulated subpathways in an unbiased manner. Using a large gene expression compendium, we determine the conditions where subpathways exhibit strong coexpression. Finally, we develop "WormClust," a web application that enables a gene-by-gene query of genes to view their association with metabolic (sub)-pathways. Overall, this study sheds light on the ubiquity of transcriptional regulation of metabolism and provides a blueprint for similar studies in other organisms, including humans.},
+keywords ={gene regulation, metabolic network model, metabolism, systems biology, transcription Subject Categories Chromatin, Transcription & Genomics, Computational Biology, Metabolism},
+note ={https://danhiggins.org/data/papers_bioinformatics-methods/nanda-et-al-2023-systems-level-transcriptional-regulation-of-caenorhabditis-elegans-metabolism.pdf},
+journal ={Molecular Systems Biology},
+volume ={19},
+pages ={N/A},
+source={f4fafcb2fc920c5f857b210ab9c6b4f7660497bd8ed628d1ff9a7746b5e1dca7}
+}
+
+@Article{
+author ={Guy Teichman and Dror Cohen and Or Ganon and Netta Dunsky and Shachar Shani and Hila Gingold and Oded Rechavi},
+title ={RNAlysis: analyze your RNA sequencing data without writing a single line of code},
+year ={2023},
+doi ={10.1186/s12915-023-01574-6},
+abstract ={Background Among the major challenges in next-generation sequencing experiments are exploratory data analysis, interpreting trends, identifying potential targets/candidates, and visualizing the results clearly and intuitively. These hurdles are further heightened for researchers who are not experienced in writing computer code since most available analysis tools require programming skills. Even for proficient computational biologists, an efficient and replicable system is warranted to generate standardized results. Results We have developed RNAlysis, a modular Python-based analysis software for RNA sequencing data. RNAlysis allows users to build customized analysis pipelines suiting their specific research questions, going all the way from raw FASTQ files (adapter trimming, alignment, and feature counting), through exploratory data analysis and data visualization, clustering analysis, and gene set enrichment analysis. RNAlysis provides a friendly graphical user interface, allowing researchers to analyze data without writing code. We demonstrate the use of RNAlysis by analyzing RNA sequencing data from different studies using C. elegans nematodes. We note that the software applies equally to data obtained from any organism with an existing reference genome. Conclusions RNAlysis is suitable for investigating various biological questions, allowing researchers to more accurately and reproducibly run comprehensive bioinformatic analyses. It functions as a gateway into RNA sequencing analysis for less computer-savvy researchers, but can also help experienced bioinformaticians make their analyses more robust and efficient, as it offers diverse tools, scalability, automation, and standardization between analyses.},
+keywords ={RNA sequencing, Clustering analysis, Gene set enrichment analysis, Data visualization, Pipeline, Graphical interface, Differential expression, Computational analysis},
+note ={https://danhiggins.org/data/papers_bioinformatics-methods/12915_2023_Article_1574.pdf},
+journal ={BMC Biology},
+volume ={21},
+pages ={N/A},
+source={df3cd1fbbd0a3222d8959b95787d287169f441b4bac0bdabe33fba759e5a496c}
+}
+
+@Article{
+author ={Lachke, Salil and Ho, Joshua and Kryukov, Gregory and O'connell, Daniel and Aboukhalil, Anton and Bulyk, Martha and Park, Peter and Maas, Richard},
+title ={iSyTE: Integrated Systems Tool for Eye Gene Discovery},
+year ={},
+doi ={},
+abstract ={},
+keywords ={},
+note ={https://danhiggins.org/data/papers_bioinformatics-methods/z7g1617.pdf},
+journal ={},
+volume ={},
+pages ={},
+source={5102e8a7464d5ba6da340ab9a8172198658b3f93da99ce14204317c79ace8835}
+}
+
+@Article{
+author ={Nicholas J. Schurch and Pietá Schofield and Marek Gierliński and Christian Cole and Alexander Sherstnev and Vijender Singh and Nicola Wrobel and Karim Gharbi and Gordon G. Simpson and Tom Owen-Hughes and Mark Blaxter and Geoffrey J. Barton},
+title ={How many biological replicates are needed in an RNA-seq experiment and which differential expression tool should you use?},
+year ={2016},
+doi ={10.1261/rna.053959.115},
+abstract ={RNA-seq is now the technology of choice for genome-wide differential gene expression experiments, but it is not clear how many biological replicates are needed to ensure valid biological interpretation of the results or which statistical tools are best for analyzing the data. An RNA-seq experiment with 48 biological replicates in each of two conditions was performed to answer these questions and provide guidelines for experimental design. With three biological replicates, nine of the 11 tools evaluated found only 20%-40% of the significantly differentially expressed (SDE) genes identified with the full set of 42 clean replicates. This rises to >85% for the subset of SDE genes changing in expression by more than fourfold. To achieve >85% for all SDE genes regardless of fold change requires more than 20 biological replicates. The same nine tools successfully control their false discovery rate at ≲5% for all numbers of replicates, while the remaining two tools fail to control their FDR adequately, particularly for low numbers of replicates. For future RNA-seq experiments, these results suggest that at least six biological replicates should be used, rising to at least 12 when it is important to identify SDE genes for all fold changes. If fewer than 12 replicates are used, a superior combination of true positive and false positive performances makes edgeR and DESeq2 the leading tools. For higher replicate numbers, minimizing false positives is more important and DESeq marginally outperforms the other tools.},
+keywords ={RNA-seq, benchmarking, differential expression, replication, yeast, experimental design, statistical power},
+note ={https://danhiggins.org/data/papers_bioinformatics-methods/RNA-2016-Schurch-839-51.pdf},
+journal ={RNA},
+volume ={22},
+pages ={839-851},
+source={162d8e529bb25e8fb1bbcf3f221cfd75f7d164621cfd9e96baa64cd8c9786f67}
+}
+
+@Article{
+author ={Jacob L. Steenwyk and Dayna C. Goltz and Thomas J. Buida and Yuanning Li and Xing-Xing Shen and Antonis Rokas},
+title ={OrthoSNAP: A tree splitting and pruning algorithm for retrieving single-copy orthologs from gene family trees},
+year ={2022},
+doi ={10.1371/journal.pbio.3001827},
+abstract ={AU : Pleaseconfirmthatallheadinglevelsarerepresentedcorrectly: Molecular evolution studies, such as phylogenomic studies and genome-wide surveys of selection, often rely on gene families of single-copy orthologs (SC-OGs). Large gene families with multiple homologs in 1 or more species-a phenomenon observed among several important families of genes such as transporters and transcription factors-are often ignored because identifying and retrieving SC-OGs nested within them is challenging. To address this issue and increase the number of markers used in molecular evolution studies, we developed OrthoSNAP, a software that uses a phylogenetic framework to simultaneously split gene families into SC-OGs and prune species-specific inparalogs. We term SC-OGs identified by OrthoSNAP as SNAP-OGs because they are identified using a splitting and pruning procedure analogous to snapping branches on a tree. From 415,129 orthologous groups of genes inferred across 7 eukaryotic phylogenomic datasets, we identified 9,821 SC-OGs; using OrthoSNAP on the remaining 405,308 orthologous groups of genes, we identified an additional 10,704 SNAP-OGs. Comparison of SNAP-OGs and SC-OGs revealed that their phylogenetic information content was similar, even in complex datasets that contain a whole-genome duplication, complex patterns of duplication and loss, transcriptome data where each gene typically has multiple transcripts, and contentious branches in the tree of life. OrthoSNAP is useful for increasing the number of markers used in molecular evolution data matrices, a critical step for robustly inferring and exploring the tree of life.},
+keywords ={},
+note ={https://danhiggins.org/data/papers_bioinformatics-methods/journal.pbio.3001827.pdf},
+journal ={PLOS Biology},
+volume ={20},
+pages ={e3001827},
+source={58a63e9d00c3908ee9cd5aa73535e80608a7df06cdc6a2a80a44a498d1e2ef1f}
+}
+
+@Article{
+author ={Sebastian Lobentanzer and Patrick Aloy and Jan Baumbach and Balazs Bohar and Vincent J. Carey and Pornpimol Charoentong and Katharina Danhauser and Tunca Doğan and Johann Dreo and Ian Dunham and Elias Farr and Adrià Fernandez-Torras and Benjamin M. Gyori and Michael Hartung and Charles Tapley Hoyt and Christoph Klein and Tamas Korcsmaros and Andreas Maier and Matthias Mann and David Ochoa and Elena Pareja-Lorente and Ferdinand Popp and Martin Preusse and Niklas Probul and Benno Schwikowski and Bünyamin Sen and Maximilian T. Strauss and Denes Turei and Erva Ulusoy and Dagmar Waltemath and Judith A. H. Wodke and Julio Saez-Rodriguez},
+title ={Democratizing knowledge representation with BioCypher},
+year ={2023},
+doi ={10.1038/s41587-023-01848-y},
+abstract ={},
+keywords ={},
+note ={https://danhiggins.org/data/papers_bioinformatics-methods/s41587-023-01848-y.pdf},
+journal ={Nature Biotechnology},
+volume ={41},
+pages ={1056-1059},
+source={8b39868a8a8ebb179acb8175e939e2cb8ece2a28247b2954820dc9eae885664b}
+}
+
+@Article{
+author ={Hassaan Maan and Lin Zhang and Chengxin Yu and Michael J. Geuenich and Kieran R. Campbell and Bo Wang},
+title ={Characterizing the impacts of dataset imbalance on single-cell data integration},
+year ={2024},
+doi ={10.1038/s41587-023-02097-9},
+abstract ={Computational methods for integrating single-cell transcriptomic data from multiple samples and conditions do not generally account for imbalances in the cell types measured in different datasets. In this study, we examined how differences in the cell types present, the number of cells per cell type and the cell type proportions across samples affect downstream analyses after integration. The Iniquitate pipeline assesses the robustness of integration results after perturbing the degree of imbalance between datasets. Benchmarking of five state-of-the-art single-cell RNA sequencing integration techniques in 2,600 integration experiments indicates that sample imbalance has substantial impacts on downstream analyses and the biological interpretation of integration results. Imbalance perturbation led to statistically significant variation in unsupervised clustering, cell type classification, differential expression and marker gene annotation, query-to-reference mapping and trajectory inference. We quantified the impacts of imbalance through newly introduced properties-aggregate cell type support and minimum cell type center distance. To better characterize and mitigate impacts of imbalance, we introduce balanced clustering metrics and imbalanced integration guidelines for integration method users.},
+keywords ={},
+note ={https://danhiggins.org/data/papers_bioinformatics-methods/s41587-023-02097-9.pdf},
+journal ={Nature Biotechnology},
+volume ={N/A},
+pages ={N/A},
+source={9c8c591d1ff367d7bb0af035d4b042be9844d51976da1270e9ecd26518c63618}
+}
+
+@Article{
+author ={Huidong Chen and Jayoung Ryu and Michael E. Vinyard and Adam Lerer and Luca Pinello},
+title ={SIMBA: single-cell embedding along with features},
+year ={2023},
+doi ={10.1038/s41592-023-01899-8},
+abstract ={},
+keywords ={},
+note ={https://danhiggins.org/data/papers_bioinformatics-methods/s41592-023-01899-8.pdf},
+journal ={Nature Methods},
+volume ={21},
+pages ={1003-1013},
+source={0c88c4f7eca3cbaa24639a4688ac5a155e2dc6e4e3bce970e398fa8672e8a521}
+}
+
+@Article{
+author ={Communication, Brief and Klie, Adam and Laub, David and Talwar, James and Stite, Hayde and Jores, Tobias and Solvason, Joe and Farley, Emma and Carter, Hannah},
+title ={nature computational science},
+year ={2023},
+doi ={10.1038/s43588-023-00544-w},
+abstract ={},
+keywords ={},
+note ={https://danhiggins.org/data/papers_bioinformatics-methods/s43588-023-00544-w.pdf},
+journal ={},
+volume ={},
+pages ={},
+source={0f8ded14ca4897db434eea49e8a01f5af210d485e6f2e51b8759ba56c70db10d}
+}
+

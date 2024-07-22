@@ -1,0 +1,28 @@
+@Article{
+author ={Stavria Panayidou and Kaliopi Georgiades and Theodoulakis Christofi and Stella Tamana and Vasilis J. Promponas and Yiorgos Apidianakis},
+title ={Pseudomonas aeruginosa core metabolism exerts a widespread growth-independent control on virulence},
+year ={2020},
+doi ={10.1038/s41598-020-66194-4},
+abstract ={To assess the role of core metabolism genes in bacterial virulence-independently of their effect on growth-we correlated the genome, the transcriptome and the pathogenicity in flies and mice of 30 fully sequenced Pseudomonas strains. Gene presence correlates robustly with pathogenicity differences among all Pseudomonas species, but not among the P. aeruginosa strains. However, gene expression differences are evident between highly and lowly pathogenic P. aeruginosa strains in multiple virulence factors and a few metabolism genes. Moreover, 16.5%, a noticeable fraction of the core metabolism genes of P. aeruginosa strain PA14 (compared to 8.5% of the non-metabolic genes tested), appear necessary for full virulence when mutated. Most of these virulence-defective core metabolism mutants are compromised in at least one key virulence mechanism independently of auxotrophy. A pathway level analysis of PA14 core metabolism, uncovers beta-oxidation and the biosynthesis of amino-acids, succinate, citramalate, and chorismate to be important for full virulence. Strikingly, the relative expression among P. aeruginosa strains of genes belonging in these metabolic pathways is indicative of their pathogenicity. thus, P. aeruginosa strain-to-strain virulence variation, remains largely obscure at the genome level, but can be dissected at the pathway level via functional transcriptomics of core metabolism. Pseudomonas species include Gram-negative, rod-shaped, facultative anaerobic and polarly flagellated bacteria able to utilize a variety of organic compounds and colonize a wide range of niches 1. Some Pseudomonas species can be pathogenic to humans, animals and plants 1-3. While able to inhabit diverse environments, including soil and water, P. aeruginosa strains are common opportunistic human pathogens. They can also infect multiple model hosts, including insects, plants and mice using a remarkable variety of virulence factors 4-6. In humans, P. aeruginosa causes acute infections in injured, burned and immunocompromised patients and persistent respiratory infections in individuals with cystic fibrosis 7-12. Previous comparative analyses of P. aeruginosa strain-specific genes revealed that different isolates tested share >90% of their gene content irrespective of the source (soil, wound, urinary tract, lung, blood or eyes) or the type of infection they were found to cause 3,13,14. The high virulence of bacterial pathogens is usually attributed to the presence of pathogenicity islands, which are clusters of virulence-related genes often acquired through horizontal gene transfer 15,16. The core genome of the highly virulent P. aeruginosa strain PA14 shares ~90% of its genes (as identical homologues) with the prototypic reference strain PAO1, but PA14 contains extra genes in genomic islands related to survival in diverse environments 17,18. Despite the striking genomic similarity, P. aeruginosa strain-to-strain variation in virulence is vast 17,19,20 and cannot be simply explained by the presence of virulence-related genes residing on pathogenicity islands 3. This comes in contrast with genome decay often described in comparative genomic studies of pathogen adaptation to a host-associated lifestyle 6,21,22. The existence of multiple P. aeruginosa virulence factors and their direct regulators may indicate constant strain evolution at the virulence effector/regulator level or at a hierarchically higher gene network level. P.},
+keywords ={},
+note ={https://danhiggins.org/data/papers-pa-media/s41598-020-66194-4.pdf},
+journal ={Scientific Reports},
+volume ={10},
+pages ={N/A},
+source={0225b859ef6c0cbe5986f91a1e61f563c98ec6d122e4cb0b90594daaa075fb3a}
+}
+
+@Article{
+author ={Annette E. LaBauve and Matthew J. Wargo},
+title ={Growth and Laboratory Maintenance of Pseudomonas aeruginosa},
+year ={2012},
+doi ={10.1002/9780471729259.mc06e01s25},
+abstract ={Pseudomonas aeruginosa is a common, free-living, Gram-negative bacterium that can cause significant disease as an opportunistic pathogen. Rapid growth, facile genetics, and a large suite of virulence-related phenotypes make P. aeruginosa a common model organism to study Gramnegative opportunistic pathogens and basic microbiology. This unit describes the basic laboratory growth and maintenance of P. aeruginosa.},
+keywords ={Pseudomonas, metabolism, growth, minimal media},
+note ={https://danhiggins.org/data/papers-pa-media/nihms653800.pdf},
+journal ={Current Protocols in Microbiology},
+volume ={25},
+pages ={N/A},
+source={4faaa23c4a77b5cc1c6a322dadc6952fafd73c93a78e607b14d8c331e0baa189}
+}
+
