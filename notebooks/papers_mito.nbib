@@ -1,0 +1,378 @@
+@Article{
+author ={Jędrzej Małecki and Angela Y.Y. Ho and Anders Moen and Helge-André Dahl and Pål Ø. Falnes},
+title ={Human METTL20 Is a Mitochondrial Lysine Methyltransferase That Targets the β Subunit of Electron Transfer Flavoprotein (ETFβ) and Modulates Its Activity},
+year ={2014},
+doi ={10.1074/jbc.M114.614115},
+abstract ={Background: Many proteins are modified by lysine methylation. Results: It is shown that the previously uncharacterized enzyme METTL20 methylates electron transfer flavoprotein ␤ (ETF␤), thereby inhibiting its ability to mediate electron transfer from acyl-CoA dehydrogenases. Conclusion: METTL20-mediated methylation modulates the function of ETF␤. Significance: The first mitochondrial lysine-specific protein methyltransferase in animals is reported, and the resulting methylation is shown to have functional consequences.},
+keywords ={},
+note ={https://danhiggins.org/data/papers_mito/1-s2.0-S0021925820579404-main.pdf},
+journal ={Journal of Biological Chemistry},
+volume ={290},
+pages ={423-434},
+source={22dbf113ca52c296e34e353ac9b1940e1e585f3fa66126faa6dbafbfc671cd21}
+}
+
+@Article{
+author ={Dennis R. Voelker},
+title ={Lipid synthesis and transport in mitochondrial biogenesis},
+year ={2011},
+doi ={10.1007/b95719},
+abstract ={},
+keywords ={},
+note ={https://danhiggins.org/data/papers_mito/b95719.pdf},
+journal ={Topics in Current Genetics},
+volume ={N/A},
+pages ={267-291},
+source={bfd98d8657483aa6a2412c2f8983d82ed15ef56ab7d04a84ccf9a7e70f831c6f}
+}
+
+@Article{
+author ={Rebecca Cornell and Wei Cao and Bernie Harradine and Rasoul Godini and Ava Handley and Roger Pocock},
+title ={Neuro-intestinal acetylcholine signalling regulates the mitochondrial stress response in Caenorhabditis elegans},
+year ={2024},
+doi ={10.1038/s41467-024-50973-y},
+abstract ={},
+keywords ={},
+note ={https://danhiggins.org/data/papers_mito/Cornell_et_al-2024-Nature_Communications.pdf},
+journal ={Nature Communications},
+volume ={15},
+pages ={N/A},
+source={d3f92a0b1efc63d45e67a2dbe5ba10261f86d5d32934a004416d9a9edbdc6df5}
+}
+
+@Article{
+author ={Jun Dong and Fei Ye and Jiacheng Lin and He He and Zhiyin Song},
+title ={The metabolism and function of phospholipids in Mitochondria},
+year ={2022},
+doi ={10.1016/j.mitoco.2022.10.002},
+abstract ={Mitochondria are important organelles of eukaryotic cells and involved in a variety of cellular processes including oxidative phosphorylation for generating ATP, apoptosis, steroid synthesis, and signal transduction. Mitochondrion contains double membranes, which are mainly composed of phospholipids. Although mitochondria can synthesize some of phospholipids, most of phospholipids are biosynthesized in the endoplasmic reticulum (ER). ER-mitochondria contacts are required for the transfer of some phospholipids, which are critical for mitochondrial phospholipids metabolism, membrane organization and functions. In this review, we will focus on the synthesis, metabolism and function of mitochondrial phospholipids and the role of mitochondria in lipid metabolism. Additionally, we will discuss the connection between mitochondrial phospholipids disorder and human diseases.},
+keywords ={},
+note ={https://danhiggins.org/data/papers_mito/1-s2.0-S2590279222000037-main.pdf},
+journal ={Mitochondrial Communications},
+volume ={1},
+pages ={2-12},
+source={416be4679611af05f12c097c33495ec05ed76af7829ecb87fa0f56a0e0285174}
+}
+
+@Article{
+author ={George Kelly and Tetsushi Kataura and Johan Panek and Gailing Ma and Hanna Salmonowicz and Ashley Davis and Hannah Kendall and Charlotte Brookes and Daniel Moscoh Ayine-Tora and Peter Banks and Glyn Nelson and Laura Dobby and Patricia R. Pitrez and Laura Booth and Lydia Costello and Gavin D. Richardson and Penny Lovat and Stefan Przyborski and Lino Ferreira and Laura Greaves and Karolina Szczepanowska and Thomas von Zglinicki and Satomi Miwa and Max Brown and Michael Flagler and John E. Oblong and Charles C. Bascom and Bernadette Carroll and Jóhannes Reynisson and Viktor I. Korolchuk},
+title ={Suppressed basal mitophagy drives cellular aging phenotypes that can be reversed by a p62-targeting small molecule},
+year ={2024},
+doi ={10.1016/j.devcel.2024.04.020},
+abstract ={Highlights d Basal mitophagy is highly active in various primary human cells in culture d PINK1, Parkin, and p62 are essential for basal mitophagy in primary fibroblasts d Loss of mitophagy drives cellular senescence phenotypes and is evident in aging d Mitophagy activators rescue senescence/aging-related changes in cell function Authors},
+keywords ={},
+note ={https://danhiggins.org/data/papers_mito/Kelly-2024-Suppressed-basal-mitophagy-drives-c.pdf},
+journal ={Developmental Cell},
+volume ={59},
+pages ={1924-1939.e7},
+source={06ce2b28b158fb0a863645a8619f5d036ee2149606baddcdc5daab1a89f87856}
+}
+
+@Article{
+author ={Andreas Zimmermann and Frank Madeo and Abhinav Diwan and Junichi Sadoshima and Simon Sedej and Guido Kroemer and Mahmoud Abdellatif},
+title ={Metabolic control of mitophagy},
+year ={2023},
+doi ={10.1111/eci.14138},
+abstract ={Mitochondrial dysfunction is a major hallmark of ageing and related chronic disorders. Controlled removal of damaged mitochondria by the autophagic machinery, a process known as mitophagy, is vital for mitochondrial homeostasis and cell survival. The central role of mitochondria in cellular metabolism places},
+keywords ={},
+note ={https://danhiggins.org/data/papers_mito/Eur%20J%20Clin%20Investigation%20-%202023%20-%20Zimmermann%20-%20Metabolic%20control%20of%20mitophagy.pdf},
+journal ={European Journal of Clinical Investigation},
+volume ={54},
+pages ={N/A},
+source={c735362f329ff26d10e3f3b2563efbf52cd7770c54173989a8b6512727c06816}
+}
+
+@Article{
+author ={Michelle Grace Acoba and Nanami Senoo and Steven M. Claypool},
+title ={Phospholipid ebb and flow makes mitochondria go},
+year ={2020},
+doi ={10.1083/jcb.202003131},
+abstract ={Mitochondria, so much more than just being energy factories, also have the capacity to synthesize macromolecules including phospholipids, particularly cardiolipin (CL) and phosphatidylethanolamine (PE). Phospholipids are vital constituents of mitochondrial membranes, impacting the plethora of functions performed by this organelle. Hence, the orchestrated movement of phospholipids to and from the mitochondrion is essential for cellular integrity. In this review, we capture recent advances in the field of mitochondrial phospholipid biosynthesis and trafficking, highlighting the significance of interorganellar communication, intramitochondrial contact sites, and lipid transfer proteins in maintaining membrane homeostasis. We then discuss the physiological functions of CL and PE, specifically how they associate with protein complexes in mitochondrial membranes to support bioenergetics and maintain mitochondrial architecture. .},
+keywords ={},
+note ={https://danhiggins.org/data/papers_mito/Acoba-2020-Phospholipid-ebb-and-flow-makes-mit.pdf},
+journal ={Journal of Cell Biology},
+volume ={219},
+pages ={N/A},
+source={c49372c9e43da0ea2e0423dc07dcb3cf71e4a0b9fec8be6a67eb0cbe51316627}
+}
+
+@Article{
+author ={Jing Guo and Wei‐Chung Chiang},
+title ={Mitophagy in aging and longevity},
+year ={2021},
+doi ={10.1002/iub.2585},
+abstract ={The clearance of damaged or unwanted mitochondria by autophagy (also known as mitophagy) is a mitochondrial quality control mechanism postulated to play an essential role in cellular homeostasis, metabolism, and development and confers protection against a wide range of diseases. Proper removal of damaged or unwanted mitochondria is essential for organismal health. Defects in mitophagy are associated with Parkinson's, Alzheimer's disease, cancer, and other degenerative disorders. Mitochondria regulate organismal fitness and longevity via multiple pathways, including cellular senescence, stem cell func},
+keywords ={},
+note ={https://danhiggins.org/data/papers_mito/Guo-2022-Mitophagy-in-aging-and-longevity.pdf},
+journal ={IUBMB Life},
+volume ={74},
+pages ={296-316},
+source={16c6abd12320ac6053f4baf6ac84d731c4d7050ae99037d3c837b0b2ddb6adda}
+}
+
+@Article{
+author ={Hiroya Shiino and Shinya Tashiro and Michiko Hashimoto and Yuki Sakata and Takamitsu Hosoya and Toshiya Endo and Hirotatsu Kojima and Yasushi Tamura},
+title ={Chemical inhibition of phosphatidylcholine biogenesis reveals its role in mitochondrial division},
+year ={2024},
+doi ={10.1016/j.isci.2024.109189},
+abstract ={Phospholipids are major components of biological membranes and play structural and regulatory roles in various biological processes. To determine the biological significance of phospholipids, the use of chemical inhibitors of phospholipid metabolism offers an effective approach; however, the availability of such compounds is limited. In this study, we performed a chemical-genetic screening using yeast and identified small molecules capable of inhibiting phosphatidylcholine (PC) biogenesis, which we designated PC inhibitors 1, 2, 3, and 4 (PCiB-1, 2, 3, and 4). Biochemical analyses indicated that PCiB-2, 3, and 4 inhibited the phosphatidylethanolamine (PE) methyltransferase activity of Cho2, whereas PCiB-1 may inhibit PE transport from mitochondria to the endoplasmic reticulum (ER). Interestingly, we found that PCiB treatment resulted in mitochondrial fragmentation, which was suppressed by expression of a dominant-negative mutant of the mitochondrial division factor Dnm1. These results provide evidence that normal PC biogenesis is important for the regulation of mitochondrial division.},
+keywords ={},
+note ={https://danhiggins.org/data/papers_mito/PIIS2589004224004103.pdf},
+journal ={iScience},
+volume ={27},
+pages ={109189},
+source={ba11c36c324367a5fc96c9bc8136e7a28fdde09da460a8dde5f8b22e64e23113}
+}
+
+@Article{
+author ={Max-Hinderk Schuler and Francesca Di Bartolomeo and Christoph U. Mårtensson and Günther Daum and Thomas Becker},
+title ={Phosphatidylcholine Affects Inner Membrane Protein Translocases of Mitochondria},
+year ={2016},
+doi ={10.1074/jbc.M116.722694},
+abstract ={Two protein translocases transport precursor proteins into or across the inner mitochondrial membrane. The presequence translocase (TIM23 complex) sorts precursor proteins with a cleavable presequence either into the matrix or into the inner membrane. The carrier translocase (TIM22 complex) inserts multispanning proteins into the inner membrane. Both protein import pathways depend on the presence of a membrane potential, which is generated by the activity of the respiratory chain. The non-bilayer-forming phospholipids cardiolipin and phosphatidylethanolamine are required for the activity of the respiratory chain and therefore to maintain the membrane potential for protein import. Depletion of cardiolipin further affects the stability of the TIM23 complex. The role of bilayer-forming phospholipids like phosphatidylcholine (PC) in protein transport into the inner membrane and the matrix is unknown. Here, we report that import of presequence-containing precursors and carrier proteins is impaired in PC-deficient mitochondria. Surprisingly, depletion of PC does not affect stability and activity of respiratory supercomplexes, and the membrane potential is maintained. Instead, the dynamic TIM23 complex is destabilized when the PC levels are reduced, whereas the TIM22 complex remains intact. Our analysis further revealed that initial precursor binding to the TIM23 complex is impaired in PC-deficient mitochondria. We conclude that reduced PC levels differentially affect the TIM22 and TIM23 complexes in mitochondrial protein transport.},
+keywords ={},
+note ={https://danhiggins.org/data/papers_mito/Schuler-2016-Phosphatidylcholine-affects-inner-m.pdf},
+journal ={Journal of Biological Chemistry},
+volume ={291},
+pages ={18718-18729},
+source={5619618efa9882396ce27c05bdaae0fe2d913fc2ca4a24d21616224fa3d1d671}
+}
+
+@Article{
+author ={Janssen, M and Koorengevel, M and De Kruij¡, B and De Kroon, A},
+title ={Transbilayer movement of phosphatidylcholine in the mitochondrial outer membrane of Saccharomyces cerevisiae is rapid and bidirectional},
+year ={},
+doi ={},
+abstract ={The process of transmembrane movement of phosphatidylcholine (PC) across the outer membrane of mitochondria was investigated in vitro in mitochondrial outer membrane vesicles (OMV) from the yeast Saccharomyces cerevisiae. Phosphatidylcholine-transfer protein (PC-TP) was used to extract radiolabeled PC from OMV, with small unilamellar vesicles serving as acceptor system. Endogenously radiolabeled PC synthesized either via the CDP-choline pathway or via methylation of phosphatidylethanolamine can be extracted completely from the OMV with a t 1a2 of 1 min or less at 30³C. The size of the pool of PC in OMV available for exchange by PC-TP is not affected by pretreatment of the OMV with proteinase K or sulfhydryl reagents. In the reverse experiment where radiolabeled PC was introduced into the OMV, similar characteristics for the exchange were found. The accessibility of labeled PC to externally added phospholipase A 2 was used as a measure for its transmembrane distribution. It was found that PC is not exclusively located in the outer leaflet of the OMV. Only 30^35% can be degraded in intact OMV by phospholipase A 2 , irrespective of whether the PC is introduced by PC-TP or endogenously synthesized via either of the pathways of biosynthesis. The results demonstrate the occurrence of rapid bidirectional transbilayer movement of both endogenous and in vitro introduced PC in OMV. Furthermore, there appears to be no preference for mitochondrial import of PC synthesized by either of the pathways in vivo.},
+keywords ={Flip-£op, Phosphatidylcholine, Mitochondria, Yeast, Outer membrane, Phospholipid transport},
+note ={https://danhiggins.org/data/papers_mito/1-s2.0-S0005273699001133-main.pdf},
+journal ={},
+volume ={},
+pages ={},
+source={6e40ab892c4e8f0ee6e61ea779e8f9a8b51686fde39fc6952fbb431b6b99300e}
+}
+
+@Article{
+author ={Granath-Panelo, Melia and Kajimura, Shingo},
+title ={nature cell biology},
+year ={2024},
+doi ={10.1038/s41556-024-01410-1},
+abstract ={},
+keywords ={},
+note ={https://danhiggins.org/data/papers_mito/Granath-panelo-2024-Mitochondrial-heterogeneity-and-ada.pdf},
+journal ={},
+volume ={},
+pages ={},
+source={a25bb6fc131755399abb1bf0ddece34e51bd3fa92d39f81994b56e7b060d7f3c}
+}
+
+@Article{
+author ={Manish Chamoli and Anand Rane and Anna Foulger and Shankar J. Chinta and Azar Asadi Shahmirzadi and Caroline Kumsta and Dhanya K. Nambiar and David Hall and Angelina Holcom and Suzanne Angeli and Minna Schmidt and Sharon Pitteri and Malene Hansen and Gordon J. Lithgow and Julie K. Andersen},
+title ={A drug-like molecule engages nuclear hormone receptor DAF-12/FXR to regulate mitophagy and extend lifespan},
+year ={2023},
+doi ={10.1038/s43587-023-00524-9},
+abstract ={},
+keywords ={},
+note ={https://danhiggins.org/data/papers_mito/Chamoli-2023-A-drug-like-molecule-engages-nuclea.pdf},
+journal ={Nature Aging},
+volume ={3},
+pages ={1529-1543},
+source={5f9de0d4878a3cb9104dd35b7186217f0fb96d958458de156f3693f03459f873}
+}
+
+@Article{
+author ={Marina Musa and Ira Milosevic and Nuno Raimundo and Anita Krisko},
+title ={Functional peroxisomes are required for heat shock-induced hormesis in <i>Caenorhabditis elegans</i>},
+year ={2021},
+doi ={10.1101/2021.07.13.452156},
+abstract ={Exact mechanisms of heat shock induced lifespan extension, while documented across species, are still not well understood. Here we put forth evidence that fully functional peroxisomes are required for the activation of the canonical heat shock response and heat-induced hormesis in C. elegans. While during heat shock the HSP-70 chaperone is strongly upregulated in the wild-type (WT) as well as in the absence of peroxisomal catalase (Δctl-2 mutant), the small heat shock proteins display modestly increased expression in the mutant. Nuclear localization of HSF-1 is reduced in the Δctl-2 mutant. In addition, heat-induced lifespan extension, observed in the WT, is absent in the Δctl-2 mutant. Activation of the antioxidant response, the pentose phosphate pathway and increased triglyceride content are the most prominent changes observed during heat shock in the WT worm, but not in the Δctl-2 mutant. Involvement of peroxisomes in the cell-wide response to transient heat shock reported here gives new insight into the role of organelle communication in the organisms stress response.},
+keywords ={hormesis, lifespan, heat shock, peroxisomes, mitochondria, fatty acid metabolism},
+note ={https://danhiggins.org/data/papers_mito/2021.07.13.452156.full.pdf},
+journal ={},
+volume ={N/A},
+pages ={N/A},
+source={396798d0ebaaa37cd1fcb0aa89399fe933377db707031f72af7707f715a4adcd}
+}
+
+@Article{
+author ={Jean Demarquoy},
+title ={Crosstalk between mitochondria and peroxisomes},
+year ={2015},
+doi ={10.4331/wjbc.v6.i4.301},
+abstract ={Mitochondria and peroxisomes are small ubiquitous organelles. They both play major roles in cell metabolism, especially in terms of fatty acid metabolism, reactive oxygen species (ROS) production, and ROS scavenging, and it is now clear that they metabolically interact with each other. These two organelles share some properties, such as great plasticity and high potency to adapt their form and number according to cell requirements. Their functions are connected, and any alteration in the function of mitochondria may induce changes in peroxisomal physiology. The objective of this paper was to highlight the interconnection and the crosstalk existing between mitochondria and peroxisomes. Special emphasis was placed on the best known connections between these organelles: origin, structure, and metabolic interconnections.},
+keywords ={Peroxisome, Mitochondrion, Beta-oxidation, Reactive oxygen species, Dynamic, Fatty acids},
+note ={https://danhiggins.org/data/papers_mito/WJBC-6-301.pdf},
+journal ={World Journal of Biological Chemistry},
+volume ={6},
+pages ={301},
+source={0da9e944c459673037c5582a8325bbd1da65a4133d86934ae1dd66f0fc0b81c7}
+}
+
+@Article{
+author ={Nan Wu and Yi-Cheng Ma and Xin-Qian Gong and Pei-Ji Zhao and Yong-Jian Jia and Qiu Zhao and Jia-Hong Duan and Cheng-Gang Zou},
+title ={The metabolite alpha-ketobutyrate extends lifespan by promoting peroxisomal function in C. elegans},
+year ={2023},
+doi ={10.1038/s41467-023-35899-1},
+abstract ={},
+keywords ={},
+note ={https://danhiggins.org/data/papers_mito/Wu-2023-The-metabolite-alpha-ketobutyrate-e.pdf},
+journal ={Nature Communications},
+volume ={14},
+pages ={N/A},
+source={6c69bdbd77e3cb2902bf939ced28c5117ea06b64bbf0923f0a62f30763439d60}
+}
+
+@Article{
+author ={Kathrine B. Dall and Jesper F. Havelund and Eva B. Harvald and Michael Witting and Nils J. Færgeman},
+title ={HLH‐30‐dependent rewiring of metabolism during starvation in <i>C</i>. <i>elegans</i>},
+year ={2021},
+doi ={10.1111/acel.13342},
+abstract ={The ability to regulate metabolism in response to changes in nutrient availability is an evolutionarily conserved mechanism ranging from bacteria to humans. Regulating metabolism by coordinating anabolic and catabolic pathways to sustain metabolic homeostasis ensures prolonged survival during periods of nutrient scarcity. However, rewiring of energy metabolism is a complex and dynamic process encompassing many transcriptional and post-transcriptional regulators. One of the fundamental mechanisms promoting survival in response to starvation is the use of energy stores, for example, via breakdown of lipids. Fatty acids are mobilized from lipid droplets in adipocytes for mitochondrial β-oxidation through either lipolysis or lipophagy; pathways that have both been reported to be crucial},
+keywords ={},
+note ={https://danhiggins.org/data/papers_mito/Dall-2021-Hlhdependent-rewiring-of-metabolism.pdf},
+journal ={Aging Cell},
+volume ={20},
+pages ={N/A},
+source={e5e02e227f1d9678e68ef1083ecb2f8a8508847712fcd281014efe6fb95216ad}
+}
+
+@Article{
+author ={},
+title ={The Journal of Experimental Biology},
+year ={},
+doi ={10.1242/jeb.090738},
+abstract ={The ability to respond to various intracellular and/or extracellular stresses allows the organism to adapt to changing environmental conditions and drives evolution. It is now well accepted that a progressive decline of the efficiency of stress response pathways occurs with aging. In this context, a correct proteostasis is essential for the functionality of the cell, and its dysfunction has been associated with protein aggregation and age-related degenerative diseases. Complex response mechanisms have evolved to deal with unfolded protein stress in different subcellular compartments and their moderate activation translates into positive effects on health. In this review, we focus on the mitochondrial unfolded protein response (UPR mt), a response to proteotoxic stress specifically in mitochondria, an organelle with a wide array of fundamental functions, most notably the harvesting of energy from food and the control of cell death. We compare UPR mt with the extensively characterized cytosolic heat shock response (HSR) and the unfolded protein response in endoplasmic reticulum (UPR ER), and discuss the current knowledge about UPR mt signaling pathways as well as their potential involvement in physiology.},
+keywords ={Aging, Proteostasis, Mitochondria, Chaperones, Signaling},
+note ={https://danhiggins.org/data/papers_mito/Jovaisaite-2014-The-mitochondrial-unfolded-protein-.pdf},
+journal ={},
+volume ={},
+pages ={},
+source={330bbaa4f15d7f303c9d49a3ccf4e8057f2dc8dea557b448b3ce74dec8e22aca}
+}
+
+@Article{
+author ={Jarrell, Zachery and Smith, M and Hu, Xin and Orr, Michael and Liu, Ken and Quyyumi, Arshed and Jones, Dean and Go, Young-Mi},
+title ={Plasma acylcarnitine levels increase with healthy aging},
+year ={2020},
+doi ={},
+abstract ={Acylcarnitines transport fatty acids into mitochondria and are essential for β-oxidation and energy metabolism. Decreased mitochondrial activity results in increased plasma acylcarnitines, and increased acylcarnitines activate proinflammatory signaling and associate with age-related disease. Changes in acylcarnitines associated with healthy aging, however, are not well characterized. In the present study, we examined the associations of plasma acylcarnitines with age (range: 20-90) in 163 healthy, non-diseased individuals from the predictive medicine research cohort (NCT00336570) and tested for gender-specific differences. The results show that long-chain and very long-chain acylcarnitines increased with age, while many odd-chain acylcarnitines decreased with age. Gender-specific differences were observed for several acylcarnitines, e.g., eicosadienoylcarnitine varied with age in males, and hydroxystearoylcarnitine varied in females. Metabolome-wide association study (MWAS) of ageassociated acylcarnitines with all untargeted metabolic features showed little overlap between genders. These results show that plasma concentrations of acylcarnitines vary with age and gender in individuals selected for criteria of health. Whether these variations reflect mitochondrial dysfunction with aging, mitochondrial reprogramming in response to chronic environmental exposures, early pre-disease change, or an adaptive response to healthy aging, is unclear. The results highlight a potential utility for untargeted metabolomics research to elucidate gender-specific mechanisms of aging and age-related disease.},
+keywords ={aging, carnitine, lipid metabolism, mitochondria},
+note ={https://danhiggins.org/data/papers_mito/aging-12-103462.pdf},
+journal ={},
+volume ={},
+pages ={},
+source={e7af97c75852d255e149af1d11cb0800560fef71246b47bc82d467115c3277c5}
+}
+
+@Article{
+author ={Shang-Heng Tsai and Yu-Chun Wu and Diana Fajardo Palomino and Frank C. Schroeder and Chun-Liang Pan},
+title ={Peripheral peroxisomal β-oxidation engages neuronal serotonin signaling to drive stress-induced aversive memory in C. elegans},
+year ={2024},
+doi ={10.1016/j.celrep.2024.113996},
+abstract ={Tsai et al. identify peroxisomal metabolic genes that signal peripheral mitochondrial stress to induce aversive memory in C. elegans. Peroxisomal metabolic signaling targets a key serotonergic neuron to remodel its response properties for behavioral modulation.},
+keywords ={},
+note ={https://danhiggins.org/data/papers_mito/1-s2.0-S2211124724003243-main.pdf},
+journal ={Cell Reports},
+volume ={43},
+pages ={113996},
+source={59292a23939e7e4e0cecb859b3932f1773c8e28fe1daac4d020dfe2f992ab16d}
+}
+
+@Article{
+author ={Nguyen Hoang Anh and Young Cheol Yoon and Young Jin Min and Nguyen Phuoc Long and Cheol Woon Jung and Sun Jo Kim and Suk Won Kim and Eun Goo Lee and Daijie Wang and Xiao Wang and Sung Won Kwon},
+title ={Caenorhabditis elegans deep lipidome profiling by using integrative mass spectrometry acquisitions reveals significantly altered lipid networks},
+year ={2022},
+doi ={10.1016/j.jpha.2022.06.006},
+abstract ={Lipidomics coverage improvement is essential for functional lipid and pathway construction. A powerful approach to discovering organism lipidome is to combine various data acquisitions, such as full scan mass spectrometry (full MS), data-dependent acquisition (DDA), and data-independent acquisition (DIA). Caenorhabditis elegans (C. elegans) is a useful model for discovering toxic-induced metabolism, highthroughput drug screening, and a variety of human disease pathways. To determine the lipidome of C. elegans and investigate lipid disruption from the molecular level to the system biology level, we used integrative data acquisition. The methyl-tert-butyl ether method was used to extract L4 stage C. elegans after exposure to triclosan (TCS), perfluorooctanoic acid, and nanopolystyrene (nPS). Full MS, DDA, and DIA integrations were performed to comprehensively profile the C. elegans lipidome by Q-Exactive Plus MS. All annotated lipids were then analyzed using lipid ontology and pathway analysis. We annotated up to 940 lipids from 20 lipid classes involved in various functions and pathways. The biological investigations revealed that when C. elegans were exposed to nPS, lipid droplets were disrupted, whereas plasma membrane-functionalized lipids were likely to be changed in the TCS treatment group. The nPS treatment caused a significant disruption in lipid storage. Triacylglycerol, glycerophospholipid, and ether class lipids were those primarily hindered by toxicants. Finally, toxicant exposure frequently involved numerous lipid-related pathways, including the phosphoinositide 3-kinase/protein kinase B pathway. In conclusion, an integrative data acquisition strategy was used to characterize the C. elegans lipidome, providing valuable biological insights into hypothesis generation and validation.},
+keywords ={},
+note ={https://danhiggins.org/data/papers_mito/1-s2.0-S2095177922000582-main.pdf},
+journal ={Journal of Pharmaceutical Analysis},
+volume ={12},
+pages ={743-754},
+source={8f5e7e8728922ccad102d68a0bd560aeeca3f0ca7e5de5b44de0f169f5d96920}
+}
+
+@Article{
+author ={Miriam Valera-Alberni and Pallas Yao and Silvia Romero-Sanz and Anne Lanjuin and William B. Mair},
+title ={Novel Imaging Tools to Study Mitochondrial Dynamics in<i>Caenorhabditis elegans</i>},
+year ={2024},
+doi ={10.1101/2024.07.16.603730},
+abstract ={Mitochondria exhibit a close interplay between their structure and function. Understanding this intricate relationship requires advanced imaging techniques that can capture the dynamic nature of mitochondria and their impact on cellular processes. However, much of the work on mitochondrial dynamics has been done in single celled organisms or in vitro cell culture. Here, we introduce novel genetic tools for live imaging of mitochondrial networks in the nematode Caenorhabditis elegans, addressing a pressing need for advanced techniques in studying organelle dynamics within live intact multicellular organisms. Through a comprehensive analysis, we directly compare our tools with existing methods, demonstrating their advantages for visualizing mitochondrial morphology and contrasting their impact on organismal physiology. We reveal limitations of conventional techniques, while showcasing the utility and versatility of our approaches, including endogenous CRISPR tags and ectopic labeling. By providing a guide for selecting the most suitable tools based on experimental goals, our work advances mitochondrial research in C. elegans and enhances the strategic integration of diverse imaging modalities for a holistic understanding of organelle dynamics in living organisms.},
+keywords ={},
+note ={https://danhiggins.org/data/papers_mito/2024.07.16.603730v1.full.pdf},
+journal ={},
+volume ={N/A},
+pages ={N/A},
+source={63a8709570c9bb94544d22e756b5148b0d3385af2c64bd86f521ebbea6071dfa}
+}
+
+@Article{
+author ={Anu Suomalainen and Jodi Nunnari},
+title ={Mitochondria at the crossroads of health and disease},
+year ={2024},
+doi ={10.1016/j.cell.2024.04.037},
+abstract ={Mitochondria reside at the crossroads of catabolic and anabolic metabolism-the essence of life. How their structure and function are dynamically tuned in response to tissue-specific needs for energy, growth repair, and renewal is being increasingly understood. Mitochondria respond to intrinsic and extrinsic stresses and can alter cell and organismal function by inducing metabolic signaling within cells and to distal cells and tissues. Here, we review how the centrality of mitochondrial functions manifests in health and a broad spectrum of diseases and aging.},
+keywords ={},
+note ={https://danhiggins.org/data/papers_mito/Suomalainen-2024-Mitochondria-at-the-crossroads-of-h.pdf},
+journal ={Cell},
+volume ={187},
+pages ={2601-2627},
+source={749fc78ffb44d3fb34229bc07b4d8b1802859d8c3429045242c20598771a649a}
+}
+
+@Article{
+author ={Mario Ruiz and Rakesh Bodhicharla and Marcus Ståhlman and Emma Svensk and Kiran Busayavalasa and Henrik Palmgren and Hanna Ruhanen and Jan Boren and Marc Pilon},
+title ={Evolutionarily conserved long-chain Acyl-CoA synthetases regulate membrane composition and fluidity},
+year ={2019},
+doi ={10.7554/eLife.47733},
+abstract ={The human AdipoR1 and AdipoR2 proteins, as well as their C. elegans homolog PAQR-2, protect against cell membrane rigidification by exogenous saturated fatty acids by regulating phospholipid composition. Here, we show that mutations in the C. elegans gene acs-13 help to suppress the phenotypes of paqr-2 mutant worms, including their characteristic membrane fluidity defects. acs-13 encodes a homolog of the human acyl-CoA synthetase ACSL1, and localizes to the mitochondrial membrane where it likely activates long chains fatty acids for import and degradation. Using siRNA combined with lipidomics and membrane fluidity assays (FRAP and Laurdan dye staining) we further show that the human ACSL1 potentiates lipotoxicity by the saturated fatty acid palmitate: silencing ACSL1 protects against the membrane rigidifying effects of palmitate and acts as a suppressor of AdipoR2 knockdown, thus echoing the C. elegans findings. We conclude that acs-13 mutations in C. elegans and ACSL1 knockdown in human cells prevent lipotoxicity by promoting increased levels of polyunsaturated fatty acid-containing phospholipids.},
+keywords ={},
+note ={https://danhiggins.org/data/papers_mito/elife-47733-v2.pdf},
+journal ={eLife},
+volume ={8},
+pages ={N/A},
+source={173cd1b1b7f51ad3175b17c89fce0564d55431eab253b5a683bd535ad6ff262b}
+}
+
+@Article{
+author ={},
+title ={},
+year ={},
+doi ={10.1002/hep.26499},
+abstract ={},
+keywords ={DG, diacylglycerol, GNMT, glycine N-methyltransferase, NAFLD, nonalcoholic fatty liver disease, NASH, nonalcoholic steatohepatitis, PC, phosphatidylcholine, PE, phosphatidylethanolamine, PEMT, phosphatidylethanolamine N-methyltransferase, SAMe, S-adenosylmethionine, TG, triacylglycerol, VLDL, very low-density lipoproteins},
+note ={https://danhiggins.org/data/papers_mito/finding_the_balance__the_role.4.pdf},
+journal ={},
+volume ={},
+pages ={},
+source={ac8464e49729447e1d66e0ecd534660423ea89ed2b0b12a77e836bcfe433008e}
+}
+
+@Article{
+author ={Haoya Yao and Yaoqing Wang and Xiao Zhang and Ping Li and Lin Shang and Xiaocui Chen and Jia Zeng},
+title ={Targeting peroxisomal fatty acid oxidation improves hepatic steatosis and insulin resistance in obese mice},
+year ={2022},
+doi ={10.1016/j.jbc.2022.102845},
+abstract ={Edited by Dennis Voelker Obesity and diabetes normally cause mitochondrial dysfunction and hepatic lipid accumulation, while fatty acid synthesis is suppressed and malonyl-CoA is depleted in the liver of severe obese or diabetic animals. Therefore, a negative regulatory mechanism might work for the control of mitochondrial fatty acid metabolism that is independent of malonyl-CoA in the diabetic animals. As mitochondrial βoxidation is controlled by the acetyl-CoA/CoA ratio, and the acetyl-CoA generated in peroxisomal β-oxidation could be transported into mitochondria via carnitine shuttles, we hypothesize that peroxisomal β-oxidation might play a role in regulating mitochondrial fatty acid oxidation and inducing hepatic steatosis under the condition of obesity or diabetes. This study reveals a novel mechanism by which peroxisomal βoxidation controls mitochondrial fatty acid oxidation in diabetic animals. We determined that excessive oxidation of fatty acids by peroxisomes generates considerable acetyl-carnitine in the liver of diabetic mice, which significantly elevates the mitochondrial acetyl-CoA/CoA ratio and causes feedback suppression of mitochondrial β-oxidation. Additionally, we found that specific suppression of peroxisomal β-oxidation enhances mitochondrial fatty acid oxidation by reducing acetyl-carnitine formation in the liver of obese mice. In conclusion, we suggest that induction of peroxisomal fatty acid oxidation serves as a mechanism for diabetes-induced hepatic lipid accumulation. Targeting peroxisomal β-oxidation might be a promising pathway in improving hepatic steatosis and insulin resistance as induced by obesity or diabetes.},
+keywords ={},
+note ={https://danhiggins.org/data/papers_mito/Yao-2023-Targeting-peroxisomal-fatty-acid-ox.pdf},
+journal ={Journal of Biological Chemistry},
+volume ={299},
+pages ={102845},
+source={f12e49d93abca41cddf9cf75647461856e6871356a2877d6d5baa7898aa98c7f}
+}
+
+@Article{
+author ={Elisabeth Rackles and Michael Witting and Ignasi Forné and Xing Zhang and Judith Zacherl and Simon Schrott and Christian Fischer and Jonathan J. Ewbank and Christof Osman and Axel Imhof and Stéphane G. Rolland},
+title ={Reduced peroxisomal import triggers peroxisomal retrograde signaling},
+year ={2021},
+doi ={10.1016/j.celrep.2020.108653},
+abstract ={Highlights d Peroxisomal import stress induces peroxisomal retrograde signaling (PRS) d PRS requires the transcription factors NHR-49/PPARa and MDT-15/MED15 d PRS target genes act in peroxisome quality control, lipid metabolism, and immunity Authors},
+keywords ={},
+note ={https://danhiggins.org/data/papers_mito/PIIS2211124720316429.pdf},
+journal ={Cell Reports},
+volume ={34},
+pages ={108653},
+source={82edd4441bb1555389a9bf9c5da568fc6198c127fdf28bcfcc99da6f6981f6eb}
+}
+
